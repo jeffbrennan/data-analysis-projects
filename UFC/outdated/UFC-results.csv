@@ -1,0 +1,900 @@
+Fighter_ID,First_Name,Nickname,Last_Name,Weight_Class,StatID,Wins,Losses,Draws,Title_Holder,Rank,P4P_Rank,Status,Link
+241895,Cris,,Cyborg,Women_Featherweight,1194,20,1,0,True,C,11,Active,http://www.ufc.com/fighter/cris-cyborg
+573335,Valentina,Bullet,Shevchenko,Women_Flyweight,2731,16,3,0,True,C,,Active,http://www.ufc.com/fighter/valentina-shevchenko
+490666,Henry,The Messenger,Cejudo,Flyweight,2299,13,2,0,True,C,10,Active,http://www.ufc.com/fighter/henry-cejudo
+231394,TJ,,Dillashaw,Bantamweight,1905,17,3,0,True,C,5,Active,http://www.ufc.com/fighter/tj-dillashaw
+235332,Max,Blessed,Holloway,Featherweight,1936,20,3,0,True,C,4,Active,http://www.ufc.com/fighter/max-holloway
+232925,Khabib,The Eagle,Nurmagomedov,Lightweight,1919,27,0,0,True,C,2,Active,http://www.ufc.com/fighter/khabib-nurmagomedov
+241944,Tyron,The Chosen One,Woodley,Welterweight,1386,19,3,1,True,C,7,Active,http://www.ufc.com/fighter/tyron-woodley
+290162,Robert,The Reaper,Whittaker,Middleweight,2037,21,4,0,True,C,12,Active,http://www.ufc.com/fighter/robert-whittaker
+241888,Daniel,DC,Cormier,Heavyweight,1409,22,1,0,True,C,1,Active,http://www.ufc.com/fighter/daniel-cormier
+501827,Rose,Thug,Namajunas,Women_Strawweight,2344,9,3,0,True,C,15,Active,http://www.ufc.com/fighter/rose-namajunas
+242516,Amanda,The Lioness,Nunes,Women_Bantamweight,1719,16,4,0,True,C,14,Active,http://www.ufc.com/fighter/amanda-nunes
+,To be determined...,,,Light_Heavyweight,,0,0,0,True,,,,http://www.ufc.com/fighter/not-found
+586,Gilbert,El Niño,Melendez,Lightweight,778,22,7,0,False,,,Active,http://www.ufc.com/fighter/gilbert-melendez
+1177,Court,The Crusher,McGee,Welterweight,1543,20,7,1,False,,,Active,http://www.ufc.com/fighter/court-mcgee
+453461,Paddy,The Hooligan,Holohan,Flyweight,2274,12,2,1,False,,,NotFighting,http://www.ufc.com/fighter/patrick-holohan
+620099,Justin,Big Pretty,Willis,Heavyweight,2867,6,1,0,False,9,,Active,http://www.ufc.com/fighter/justin-willis
+640578,Mara,Kunoichici,Romero Borella,Women_Flyweight,3011,12,5,0,False,12,,Active,http://www.ufc.com/fighter/mara-romero-borella
+587586,JJ,,Aldrich,Women_Strawweight,2848,7,2,0,False,,,Active,http://www.ufc.com/fighter/jj-aldrich
+640579,Kalindra,,Faria,,3012,18,8,1,False,,,Active,http://www.ufc.com/fighter/kalindra-faria
+652656,Ricky,The Sniper,Rainey,Welterweight,2511,13,5,0,False,,,Active,http://www.ufc.com/fighter/ricky-rainey
+590,Tim,,Kennedy,Middleweight,1403,18,6,0,False,,,NotFighting,http://www.ufc.com/fighter/tim-kennedy
+1180,Brad,,Tavares,Middleweight,1546,17,6,0,False,10,,Active,http://www.ufc.com/fighter/brad-tavares
+472614,Pedro,The Young Punisher,Munhoz,Bantamweight,2191,16,3,0,False,9,,Active,http://www.ufc.com/fighter/pedro-munhoz
+498883,Larissa,,Pacheco,Women_Bantamweight,2320,10,2,0,False,,,Active,http://www.ufc.com/fighter/larissa-pacheco
+587587,Ashley,SpiderMonkey,Yoder,Women_Strawweight,2845,6,4,0,False,,,Active,http://www.ufc.com/fighter/ashley-yoder
+5,Matt,,Hughes,Welterweight,187,46,9,0,False,,,NotFighting,http://www.ufc.com/fighter/matt-hughes
+1181,Kyle,,Noke,Welterweight,1549,22,10,1,False,,,NotFighting,http://www.ufc.com/fighter/kyle-noke
+499765,Paul,The Irish Dragon,Felder,Lightweight,2316,15,4,0,False,15,,Active,http://www.ufc.com/fighter/paul-felder
+587588,Joshua,The Sandman,Stansbury,Light_Heavyweight,2794,8,5,0,False,,,Active,http://www.ufc.com/fighter/joshua-stansbury
+621769,Desmond,The Predator,Green,Lightweight,2872,21,8,0,False,,,Active,http://www.ufc.com/fighter/desmond-green
+485166,Jason,,Saggo,Lightweight,2243,12,4,0,False,,,Active,http://www.ufc.com/fighter/jason-saggo
+621780,Cynthia,,Calvillo,Women_Strawweight,2870,6,1,0,False,12,,Active,http://www.ufc.com/fighter/cynthia-calvillo
+653083,Dan,The Hitman,Moret,Lightweight,3061,13,5,0,False,,,Active,http://www.ufc.com/fighter/dan-moret
+899,Cain,,Velasquez,Heavyweight,497,14,2,0,False,,,Active,http://www.ufc.com/fighter/cain-velasquez
+226169,Alistair,The Demolition Man,Overeem,Heavyweight,808,43,17,0,False,6,,Active,http://www.ufc.com/fighter/alistair-overeem
+535498,Jessica,Jag,Aguilar,Women_Strawweight,2569,20,6,0,False,,,Active,http://www.ufc.com/fighter/jessica-aguilar
+587590,Jamie,,Moyle,Women_Strawweight,2832,4,3,0,False,,,Active,http://www.ufc.com/fighter/jamie-moyle
+621781,Daniel,Daddy Long Legs,Spitz,Heavyweight,2875,6,2,0,False,,,Active,http://www.ufc.com/fighter/daniel-spitz
+485169,Dan,The Hangman,Hooker,Lightweight,2254,18,7,0,False,14,,Active,http://www.ufc.com/fighter/dan-hooker
+587591,Elias,,Urbina,Light_Heavyweight,2996,3,1,0,False,,,Active,http://www.ufc.com/fighter/elias-urbina
+640649,Nadia,,Kassem,Women_Strawweight,2894,5,0,0,False,,,Active,http://www.ufc.com/fighter/nadia-kassem
+1185,Chris,,Camozzi,Middleweight,1550,24,13,0,False,,,Active,http://www.ufc.com/fighter/chris-camozzi
+587592,Khalil,,Rountree Jr.,Light_Heavyweight,2790,8,2,0,False,,,Active,http://www.ufc.com/fighter/khalil-rountree
+621859,Cindy,Battle Cat,Dandois,Women_Bantamweight,2873,8,3,0,False,,,Active,http://www.ufc.com/fighter/cindy-dandois
+641213,Nasrat,,Haqparast,Lightweight,3014,10,2,0,False,,,Active,http://www.ufc.com/fighter/nasrat-haqparast
+226175,Mitch,Danger Zone,Clarke,Lightweight,1891,11,5,0,False,,,Active,http://www.ufc.com/fighter/mitch-clarke
+309715,Ilir,The Sledgehammer,Latifi,Light_Heavyweight,2060,15,5,0,False,5,,Active,http://www.ufc.com/fighter/ilir-latifi
+453490,Tonya,Triple Threat,Evinger,Women_Featherweight,1200,19,7,0,False,11,,Active,http://www.ufc.com/fighter/tonya-evinger
+621921,Andre,The Asian Sensation ,Soukhamthath,Bantamweight,2874,13,6,0,False,,,Active,http://www.ufc.com/fighter/andre-soukhamthath
+641333,Sheymon,,Moraes,Featherweight,3017,11,2,0,False,,,Active,http://www.ufc.com/fighter/sheymon-moraes
+904,Dong Hyun,The Stun Gun,Kim,Welterweight,455,22,4,1,False,,,Active,http://www.ufc.com/fighter/dong-hyun-kim
+641432,Michal,Lord,Oleksiejczuk,Light_Heavyweight,3016,13,2,0,False,,,Active,http://www.ufc.com/fighter/michael-oleksiejczuk
+653900,Nathaniel,The Prospect,Wood,Bantamweight,3062,14,3,0,False,,,Active,http://www.ufc.com/fighter/nathaniel-wood
+589459,Luan,Tarzan,Chagas,Welterweight,2772,15,2,1,False,,,Active,http://www.ufc.com/fighter/luan-chagas
+641486,Salim,Grizzly,Touahri,Welterweight,3019,10,2,0,False,,,Active,http://www.ufc.com/fighter/salim-touahri
+589584,Josh,,Emmett,Featherweight,2773,13,2,0,False,9,,Active,http://www.ufc.com/fighter/josh-emmett
+226420,Cung,,Le,Middleweight,1001,9,3,0,False,,,NotFighting,http://www.ufc.com/fighter/cung-le
+500044,Holly,The Preacher's Daughter,Holm,Women_Featherweight,2317,12,4,0,False,2,,Active,http://www.ufc.com/fighter/holly-holm
+654154,Don,Magic Man,Madge,Lightweight,3063,8,1,0,False,,,Active,http://www.ufc.com/fighter/don-madge
+15,Andrei,The Pit Bull,Arlovski,Heavyweight,367,27,17,0,False,13,,Active,http://www.ufc.com/fighter/andrei-arlovski
+464235,Ryan,Baby Face,Benoit,Flyweight,2134,10,5,0,False,13,,Active,http://www.ufc.com/fighter/ryan-benoit
+535918,Arnold,Almighty,Allen,Featherweight,2570,13,1,0,False,,,Active,http://www.ufc.com/fighter/arnold-allen
+654330,Said,,Nurmagomedov,Flyweight,3066,11,1,0,False,12,,Active,http://www.ufc.com/fighter/said-nurmagomedov
+660910,David,Sagat,Zawada,Welterweight,3159,16,4,0,False,,,Active,http://www.ufc.com/fighter/david-zawada
+623083,Davi,Tasmanian Devil,Ramos,Lightweight,2877,8,2,0,False,,,Active,http://www.ufc.com/fighter/davi-ramos
+654331,Jennifer,,Maia,Women_Flyweight,3065,15,5,1,False,14,,Active,http://www.ufc.com/fighter/jennifer-maia
+453503,Sarah,Cheesecake,Moras,Women_Bantamweight,2240,5,5,0,False,,,Active,http://www.ufc.com/fighter/sarah-moras
+911,Jose,,Aldo,Featherweight,1052,27,4,0,False,2,,Active,http://www.ufc.com/fighter/jose-aldo
+266905,Marcelo,,Guimaraes,Middleweight,1989,9,2,1,False,,,Active,http://www.ufc.com/fighter/marcelo-guimaraes
+514567,Renato,,Moicano,Featherweight,2375,12,1,1,False,4,,Active,http://www.ufc.com/fighter/renato-moicano
+623219,Deiveson,Deus da Guerra,Figueiredo,Flyweight,2878,15,0,0,False,4,,Active,http://www.ufc.com/fighter/deiveson-alcantara
+19,Vitor,The Phenom,Belfort,Middleweight,295,26,14,0,False,,,Active,http://www.ufc.com/fighter/vitor-belfort
+453508,Gina,Danger,Mazany,Women_Bantamweight,2866,5,2,0,False,,,Active,http://www.ufc.com/fighter/gina-mazany
+591269,Jordan,,Rinaldi,Featherweight,2774,14,6,0,False,,,Active,http://www.ufc.com/fighter/jordan-rinaldi
+654789,Darko,,Stosic,Light_Heavyweight,3067,13,1,0,False,,,Active,http://www.ufc.com/fighter/darko-stosic
+267088,Hacran,,Dias,Lightweight,1980,23,6,1,False,,,Active,http://www.ufc.com/fighter/hacran-dias
+453509,Roxanne,The Happy Warrior,Modafferi,Women_Flyweight,1430,23,15,0,False,7,,Active,http://www.ufc.com/fighter/roxanne-modafferi
+623650,Lucie,,Pudilova,Women_Bantamweight,2879,8,2,0,False,14,,Active,http://www.ufc.com/fighter/lucie-pudilova
+654846,Hector,El Charro,Aldana,Welterweight,3069,4,1,0,False,,,Active,http://www.ufc.com/fighter/hector-aldana
+453510,Julianna,The Venezuelan Vixen,Peña,Women_Bantamweight,1511,9,3,0,False,,,Active,http://www.ufc.com/fighter/julianna-pena
+623818,Magomed,Chaborz,Bibulatov,Flyweight,2880,14,1,0,False,11,,Active,http://www.ufc.com/fighter/magomed-bibulatov
+641626,Marcelo,,Golm,Heavyweight,3013,6,2,0,False,,,Active,http://www.ufc.com/fighter/marcelo-golm
+654847,Petr,No Mercy,Yan,Bantamweight,3068,10,1,0,False,,,Active,http://www.ufc.com/fighter/Petr-Yan
+285,Rich,Ace,Franklin,Middleweight,220,29,7,0,False,,,NotFighting,http://www.ufc.com/fighter/rich-franklin
+916,Mark,The Filipino Wrecking Machine,Munoz,Middleweight,653,14,6,0,False,,,NotFighting,http://www.ufc.com/fighter/mark-munoz
+8925,Mark,Super Samoan,Hunt,Heavyweight,735,13,13,1,False,,,Active,http://www.ufc.com/fighter/mark-hunt
+453512,Raquel,Rocky,Pennington,Women_Bantamweight,2150,9,8,0,False,4,,Active,http://www.ufc.com/fighter/raquel-pennington
+464449,Tae Hyun,The Korean Cowboy,Bang,Lightweight,2145,18,10,0,False,,,Active,http://www.ufc.com/fighter/tae-hyun-bang
+641628,Raoni,,Barcelos,Featherweight,3018,12,1,0,False,,,Active,http://www.ufc.com/fighter/raoni-barcelos
+654933,Kevin,Trailblazer,Holland,Middleweight,3086,13,4,0,False,,,Active,http://www.ufc.com/fighter/kevin-holland
+286,Duane,Bang,Ludwig,Welterweight,352,29,14,0,False,,,NotFighting,http://www.ufc.com/fighter/duane-ludwig
+464450,Mairbek,Beckan,Taisumov,Lightweight,2144,27,5,0,False,,,Active,http://www.ufc.com/fighter/mairbek-taisumov
+654934,Will,The Brown Bomber,Santiago,Middleweight,,9,5,0,False,,,Active,http://www.ufc.com/fighter/will-santiago
+592624,Jack,The Joker,Hermansson,Middleweight,2775,17,4,0,False,,,Active,http://www.ufc.com/fighter/jack-hermansson
+624242,Pearl,,Gonzalez,Women_Strawweight,2881,6,2,0,False,,,Active,http://www.ufc.com/fighter/pearl-gonzalez
+654935,Montel,Quik,Jackson,Bantamweight,3082,6,0,0,False,,,Active,http://www.ufc.com/fighter/montel-jackson
+661592,Tebaris,Boom,Gordon,Heavyweight,,3,1,0,False,,,Active,http://www.ufc.com/fighter/tebaris-gordon
+25,Royce,,Gracie,Middleweight,70,13,2,2,False,,,NotFighting,http://www.ufc.com/fighter/royce-gracie
+231392,Dennis,The Menace,Bermudez,Featherweight,1907,17,9,0,False,,,Active,http://www.ufc.com/fighter/dennis-bermudez
+453765,Wilson,,Reis,Flyweight,2095,22,9,0,False,6,,Active,http://www.ufc.com/fighter/wilson-reis
+654936,Rico,,DiSciullo,Bantamweight,,9,2,0,False,,,Active,http://www.ufc.com/fighter/rico-disciullo
+661593,Bobby,The Wolfman,Moffett,Featherweight,3155,14,3,0,False,,,Active,http://www.ufc.com/fighter/bobby-moffett
+473164,Patrick,Durkin,Cummins,Light_Heavyweight,1694,10,6,0,False,,,Active,http://www.ufc.com/fighter/patrick-cummins
+654937,Greg,,Hardy,Heavyweight,,2,0,0,False,,,Active,http://www.ufc.com/fighter/greg-hardy
+661594,Jacob,The Killer,Kilburn,Featherweight,,3,2,0,False,,,Active,http://www.ufc.com/fighter/jacob-kilburn
+231395,John,The Magician,Dodson,Bantamweight,1904,21,10,0,False,8,,Active,http://www.ufc.com/fighter/john-dodson
+593837,Jessin,,Ayari,Welterweight,2776,16,5,0,False,,,Active,http://www.ufc.com/fighter/jessin-ayari
+654938,Austen,,Lane,Heavyweight,,4,1,0,False,,,Active,http://www.ufc.com/fighter/austen-lane
+661595,Joseph,,Lowry,Lightweight,,7,1,0,False,,,Active,http://www.ufc.com/fighter/joseph-lowry
+231402,Bryan,Kid Lightning,Caraway,Bantamweight,1184,21,9,0,False,,,Active,http://www.ufc.com/fighter/bryan-caraway
+310600,Derrick,The Black Beast,Lewis,Heavyweight,2082,21,6,0,False,2,,Active,http://www.ufc.com/fighter/derrick-lewis
+486125,Rob,,Font,Bantamweight,2266,15,4,0,False,10,,Active,http://www.ufc.com/fighter/rob-font
+501693,Joanne,JoJo,Calderwood,Women_Flyweight,2339,12,3,0,False,10,,Active,http://www.ufc.com/fighter/joanne-calderwood
+593838,Emil,Valhalla,Meek,Welterweight,2777,9,4,1,False,,,Active,http://www.ufc.com/fighter/emil-weber
+624468,Ashkan,The Assassin ,Mokhtarian,Flyweight,2883,13,3,0,False,,,Active,http://www.ufc.com/fighter/ashkan-mokhtarian
+654939,Sean,The Unpredictable One,Lally,Welterweight,,8,3,0,False,,,Active,http://www.ufc.com/fighter/sean-lally
+661596,Devonte,King Kage,Smith,Lightweight,3153,9,1,0,False,,,Active,http://www.ufc.com/fighter/devonte-smith
+501694,Alex,Astro Girl,Chambers,Women_Strawweight,2346,5,5,0,False,,,Active,http://www.ufc.com/fighter/alex-chambers
+536796,Lyman,Cyborg,Good,Welterweight,2584,20,4,0,False,,,Active,http://www.ufc.com/fighter/lyman-good
+593993,Belal,Remember The Name,Muhammad,Welterweight,2778,14,2,0,False,,,Active,http://www.ufc.com/fighter/belal-muhammad
+624585,Tom,Fire Kid,Duquesnoy,Bantamweight,2882,15,2,0,False,,,Active,http://www.ufc.com/fighter/tom-duquesnoy
+654940,Chris,Action-Man,Curtis,Welterweight,,19,5,0,False,,,Active,http://www.ufc.com/fighter/chris-curtis
+661597,J.R.,Bam Bam,Coughran,Featherweight,,4,1,0,False,,,Active,http://www.ufc.com/fighter/jr-coughran
+924,CB,The Doberman,Dollaway,Middleweight,507,18,10,0,False,,,Active,http://www.ufc.com/fighter/cb-dollaway
+537071,Andrew,,Holbrook,Lightweight,2585,12,2,0,False,,,Active,http://www.ufc.com/fighter/andrew-holbrook
+594158,Jonathan,The French Spider,Meunier,Welterweight,2779,8,1,0,False,,,Active,http://www.ufc.com/fighter/jonathan-meunier
+654941,Dashawn,"Buck, the 400-pound Silverback",Boatwright,Light_Heavyweight,,3,1,0,False,,,Active,http://www.ufc.com/fighter/dashawn-boatwright
+661598,Alex,,Giplin,Featherweight,,10,1,0,False,,,Active,http://www.ufc.com/fighter/alex-gilpin
+41191,Edson ,Junior,Barboza,Lightweight,1657,19,5,0,False,6,,Active,http://www.ufc.com/fighter/edson-barboza
+501696,Heather Jo,Hurricane,Clark,Women_Strawweight,2347,7,6,0,False,,,Active,http://www.ufc.com/fighter/heather-clark
+594162,Devin,Brown Bear,Clark,Light_Heavyweight,2780,9,2,0,False,,,Active,http://www.ufc.com/fighter/devin-clark
+661599,Dennis,The Beard,Bryant,Light_Heavyweight,,5,2,0,False,,,Active,http://www.ufc.com/fighter/dennis-bryant
+454212,Alan,Nuguette,Patrick,Lightweight,2101,15,2,0,False,,,Active,http://www.ufc.com/fighter/alan-patrick
+501698,Aisling,Ais the Bash,Daly,Women_Strawweight,2342,16,5,0,False,,,NotFighting,http://www.ufc.com/fighter/aisling-daly
+594164,Matthew,,Lopez,Bantamweight,2781,10,4,0,False,,,Active,http://www.ufc.com/fighter/matthew-lopez
+654962,Blagoy,Baga,Ivanov,Heavyweight,3070,16,2,1,False,15,,Active,http://www.ufc.com/fighter/blagoy-ivanov
+927,Matt,The Immortal,Brown,Welterweight,432,23,16,0,False,,,Active,http://www.ufc.com/fighter/matt-brown
+41213,Pascal,Panzer,Krauss,Welterweight,1654,11,2,0,False,,,Active,http://www.ufc.com/fighter/pascal-krauss
+537552,Jimmie,El Terror,Rivera,Bantamweight,2589,21,2,0,False,5,,Active,http://www.ufc.com/fighter/jimmie-rivera
+625980,Naoki,,Inoue,Flyweight,2885,11,0,0,False,,,Active,http://www.ufc.com/fighter/naoki-inoue
+537556,Chris,,De La Rocha,Heavyweight,2605,5,2,0,False,,,Active,http://www.ufc.com/fighter/chris-de-la-rocha
+269244,Joe,,Proctor,Welterweight,1982,11,5,0,False,,,Active,http://www.ufc.com/fighter/joe-proctor
+501701,Carla,Cookie Monster,Esparza,Women_Strawweight,2338,14,6,0,False,9,,Active,http://www.ufc.com/fighter/Carla-Esparza
+594572,Will,Ill Will,Brooks,Lightweight,2042,18,4,0,False,,,Active,http://www.ufc.com/fighter/will-brooks
+626218,Marlon,Magic,Moraes,Bantamweight,2887,21,5,1,False,4,,Active,http://www.ufc.com/fighter/marlon-moraes
+486257,Gilbert,Durinho,Burns,Lightweight,2288,14,3,0,False,,,Active,http://www.ufc.com/fighter/gilbert-burns
+501702,Felice,Lil Bulldog,Herrig,Women_Strawweight,2343,14,8,0,False,10,,Active,http://www.ufc.com/fighter/felice-herrig
+626441,Jared,Flash,Gordon,Lightweight,2890,14,2,0,False,,,Active,http://www.ufc.com/fighter/jared-gordon
+641981,Merab,,Dvalishvili,Bantamweight,3020,8,3,0,False,,,Active,http://www.ufc.com/fighter/merab-dvalishvili
+642113,Muslim,King of Kung Fu,Salikhov,Welterweight,3021,14,2,0,False,,,Active,http://www.ufc.com/fighter/muslim-salikhov
+473755,Steve,The Boss,Bosse,Light_Heavyweight,2195,12,2,0,False,,,Active,http://www.ufc.com/fighter/steve-bosse
+269255,Myles,Fury,Jury,Featherweight,1974,17,3,0,False,,,Active,http://www.ufc.com/fighter/myles-jury
+595768,Marvin,The Italian Dream,Vettori,Middleweight,2783,12,4,1,False,,,Active,http://www.ufc.com/fighter/marvin-vettori
+627511,Luke,The Jedi,Jumeau,Welterweight,2891,13,4,0,False,,,Active,http://www.ufc.com/fighter/luke-jumeau
+232026,Siyar,The Great,Bahadurzada,Welterweight,1902,23,6,1,False,,,Active,http://www.ufc.com/fighter/siyar-bahadurzada
+501819,Angela,Overkill,Hill,Women_Strawweight,2352,8,5,0,False,,,Active,http://www.ufc.com/fighter/angela-hill
+538284,Teemu,Pacu,Packalen,Lightweight,2604,8,2,0,False,,,Active,http://www.ufc.com/fighter/teemu-packalen
+595807,Lando,Groovy,Vannata,Lightweight,2784,9,3,2,False,,,Active,http://www.ufc.com/fighter/landon-vannata
+538285,Dominique,“Non-Stop Action-Packed” Dom T. Steele ,Steele,Welterweight,1875,14,9,0,False,,,Active,http://www.ufc.com/fighter/dominique-steele
+627678,Rashad,Daywalker,Coulter,Heavyweight,2470,8,4,0,False,,,Active,http://www.ufc.com/fighter/rashad-coulter
+473777,Neil,2Tap,Seery,Flyweight,2196,16,13,0,False,,,Active,http://www.ufc.com/fighter/neil-seery
+501823,Justine,,Kish,Women_Flyweight,2697,6,2,0,False,,,Active,http://www.ufc.com/fighter/justine-kish
+538698,Cortney,Cast Iron,Casey,Women_Strawweight,2603,8,5,0,False,11,,Active,http://www.ufc.com/fighter/cortney-casey
+941,Jesse,JT Money,Taylor,Middleweight,498,32,15,0,False,,,Active,http://www.ufc.com/fighter/jesse-taylor
+655522,Craig,The Thundercat,White,Welterweight,3071,14,9,0,False,,,Active,http://www.ufc.com/fighter/craig-white
+501825,Randa,Quiet Storm,Markos,Women_Strawweight,2350,8,7,1,False,14,,Active,http://www.ufc.com/fighter/randa-markos
+310,Nick,,Diaz,Middleweight,506,26,10,0,False,,,Active,http://www.ufc.com/fighter/nick-diaz
+943,Dan,The Outlaw,Hardy,Welterweight,492,25,10,0,False,,,Active,http://www.ufc.com/fighter/dan-hardy
+232923,Reza,Mad Dog,Madadi,Lightweight,1918,14,6,0,False,,,Active,http://www.ufc.com/fighter/reza-madadi
+311758,Michel,Tractor,Prazeres,Welterweight,2074,25,2,0,False,,,Active,http://www.ufc.com/fighter/michel-prazeres
+661962,Andre,,Ewell,Bantamweight,3161,14,4,0,False,,,Active,http://www.ufc.com/fighter/andre-ewell
+473935,Nick,Sergeant,Hein,Lightweight,2207,14,4,0,False,,,Active,http://www.ufc.com/fighter/nick-hein
+501830,Jessica,,Penne,Women_Strawweight,2341,12,6,0,False,,,Active,http://www.ufc.com/fighter/jessica-penne
+627823,Aspen,,Ladd,Women_Bantamweight,2893,7,0,0,False,7,,Active,http://www.ufc.com/fighter/aspen-ladd
+655582,Molly,Meatball,McCann,Women_Flyweight,3064,7,2,0,False,,,Active,http://www.ufc.com/fighter/molly-mccann
+661963,Adam,Boroda,Yandiev,Middleweight,3160,9,1,0,False,,,Active,http://www.ufc.com/fighter/Adam-Yandiev
+945,Jon,Bones,Jones,Light_Heavyweight,549,23,1,0,False,1,3,Active,http://www.ufc.com/fighter/jon-jones
+269482,James,The Texecutioner,Vick,Lightweight,1984,13,2,0,False,11,,Active,http://www.ufc.com/fighter/james-vick
+501834,Bec,Rowdy,Rawlings,Women_Flyweight,2345,7,8,0,False,,,Active,http://www.ufc.com/fighter/bec-rawlings
+515764,CM,,Punk,Welterweight,2796,0,2,0,False,,,Active,http://www.ufc.com/fighter/cm-punk
+628288,Justin,The Highlight,Gaethje,Lightweight,2896,19,2,0,False,7,,Active,http://www.ufc.com/fighter/justin-gaethje
+656035,Carlo,Semento,Pedersoli,Welterweight,3088,11,1,0,False,,,Active,http://www.ufc.com/fighter/Carlo-Pedersoli
+269485,Al,Raging,Iaquinta,Lightweight,1983,13,4,1,False,4,,Active,http://www.ufc.com/fighter/al-iaquinta
+501836,Tecia,The Tiny Tornado,Torres,Women_Strawweight,2340,10,3,0,False,7,,Active,http://www.ufc.com/fighter/tecia-torres
+516084,Frankie,,Perez,Lightweight,2377,10,4,0,False,,,Active,http://www.ufc.com/fighter/frankie-perez
+628793,Oliver,The Future,Enkamp,Welterweight,2897,7,1,0,False,,,Active,http://www.ufc.com/fighter/Oliver-Enkamp
+269498,Vinc,From Hell,Pichel,Lightweight,1986,11,2,0,False,,,Active,http://www.ufc.com/fighter/vinc-pichel
+73135,John ,The Bull,Makdessi,Lightweight,1675,16,6,0,False,,,Active,http://www.ufc.com/fighter/john-makdessi
+269499,Michael,Maverick,Chiesa,Lightweight,1985,14,4,0,False,9,,Active,http://www.ufc.com/fighter/michael-chiesa
+596663,Katlyn,Blonde Fighter,Chookagian,Women_Flyweight,2785,11,1,0,False,3,,Active,http://www.ufc.com/fighter/katlyn-chookagian
+662432,Marina,,Rodriguez,Women_Strawweight,3168,10,0,1,False,,,Active,http://www.ufc.com/fighter/Marina-Rodriguez
+312928,Nikita,The Miner,Krylov,Light_Heavyweight,2076,24,6,0,False,15,,Active,http://www.ufc.com/fighter/nikita-krylov
+318,Georges,Rush,St-Pierre,Middleweight,439,26,2,0,False,,6,Active,http://www.ufc.com/fighter/georges-st-pierre
+313054,Daniel,,Omielanczuk,Heavyweight,2083,19,8,1,False,,,Active,http://www.ufc.com/fighter/daniel-omielanczuk
+596984,Chase,The Vanilla Gorilla,Sherman,Heavyweight,2787,11,6,0,False,,,Active,http://www.ufc.com/fighter/chase-sherman
+643289,Tai,Bam Bam,Tuivasa,Heavyweight,3015,10,0,0,False,11,,Active,http://www.ufc.com/fighter/tai-tuivasa
+474125,Dooho,The Korean Superboy,Choi,Featherweight,2198,14,2,0,False,,,Active,http://www.ufc.com/fighter/dooho-choi
+596985,Justin,El Blanco,Ledet,Heavyweight,2788,9,1,0,False,,,Active,http://www.ufc.com/fighter/justin-ledet
+643297,Jessica-Rose,,Clark,Women_Flyweight,3022,9,4,0,False,9,,Active,http://www.ufc.com/fighter/jessica-rose-clark
+234155,Ian,Uncle Creepy,McCall,Flyweight,1091,13,5,1,False,,,Active,http://www.ufc.com/fighter/ian-mcCall
+643382,Markus,Maluko,Perez,Middleweight,3023,10,2,0,False,,,Active,http://www.ufc.com/fighter/markus-perez
+662436,Augusto,,Sakai,Heavyweight,2554,12,1,1,False,,,Active,http://www.ufc.com/fighter/augusto-sakai
+321,Mike,,Brown,Featherweight,627,26,9,0,False,,,NotFighting,http://www.ufc.com/fighter/mike-brown
+75743,Sean,The Punisher,Pierson,Welterweight,1707,14,6,0,False,,,NotFighting,http://www.ufc.com/fighter/sean-pierson
+643435,Song,The Assassin,Kenan,Welterweight,3024,13,4,0,False,,,Active,http://www.ufc.com/fighter/kenan-song
+643436,Wuliji,Beast Master,Buren,Bantamweight,3027,10,6,0,False,,,Active,http://www.ufc.com/fighter/wuliji-buren
+656290,Jose,Shorty,Torres,Flyweight,3089,8,1,0,False,,,Active,http://www.ufc.com/fighter/jose-torres
+643437,Pingyuan,,Liu,Bantamweight,3025,11,5,0,False,,,Active,http://www.ufc.com/fighter/pingyuan-liu
+656291,Chance,Black Eagle,Rencountre,Welterweight,3090,12,3,0,False,,,Active,http://www.ufc.com/fighter/chance-rencountre
+960,Jim,A-10,Miller,Lightweight,509,29,12,0,False,,,Active,http://www.ufc.com/fighter/jim-miller
+456128,Alexandra,Stitch,Albu,Women_Strawweight,2120,7,0,0,False,,,Active,http://www.ufc.com/fighter/alexandra-albu
+464803,Russell,,Doane,Bantamweight,2164,15,8,0,False,,,Active,http://www.ufc.com/fighter/russell-doane
+628845,Amanda,,Ribas,Women_Strawweight,,6,1,0,False,,,Active,http://www.ufc.com/fighter/amanda-ribas
+643438,Bharat,Daring,Kandare,Bantamweight,3026,5,3,0,False,,,Active,http://www.ufc.com/fighter/bharat-kandare
+32111,Dongi,The Ox,Yang,Middleweight,1638,12,3,0,False,,,NotFighting,http://www.ufc.com/fighter/dongi-yang
+234774,Mitch,,Gagnon,Bantamweight,1935,12,4,0,False,,,Active,http://www.ufc.com/fighter/mitch-gagnon
+464804,Zubaira,Warrior,Tukhugov,Featherweight,2154,18,4,0,False,,,Active,http://www.ufc.com/fighter/zubaira-tukhugov
+643439,Wang,The Dongbei Tiger,Guan,Featherweight,2888,20,1,1,False,,,Active,http://www.ufc.com/fighter/wang-guan
+662488,Johnny,,Walker,Light_Heavyweight,,13,3,0,False,,,Active,http://www.ufc.com/fighter/johnny-walker
+63,Dan,Hendo,Henderson,Middleweight,129,32,15,0,False,,,NotFighting,http://www.ufc.com/fighter/dan-henderson
+234787,Shawn,The Savage,Jordan,Heavyweight,1850,18,7,0,False,,,NotFighting,http://www.ufc.com/fighter/shawn-jordan
+963,Junior,Cigano,Dos Santos,Heavyweight,535,19,5,0,False,7,,Active,http://www.ufc.com/fighter/junior-dos-santos
+628993,Brian,Boom,Kelleher,Bantamweight,2895,19,9,0,False,,,Active,http://www.ufc.com/fighter/brian-kelleher
+964,Nick,The Jersey Devil,Catone,Middleweight,464,10,4,0,False,,,NotFighting,http://www.ufc.com/fighter/nick-catone
+516943,Shamil,Abrek,Abdurakhimov,Heavyweight,2424,19,4,0,False,12,,Active,http://www.ufc.com/fighter/shamil-abdurakhimov
+87879,Tiequan,The Wolf,Zhang,Lightweight,1636,18,4,0,False,,,Active,http://www.ufc.com/fighter/tiequan-zhang
+234799,Magnus,Jycken,Cedenblad,Middleweight,1938,14,5,0,False,,,Active,http://www.ufc.com/fighter/magnus-cedenblad
+966,Rafael,,Dos Anjos,Welterweight,532,28,10,0,False,5,,Active,http://www.ufc.com/fighter/rafael-dos-anjos
+598805,Christian,Godzilla,Colombo,Heavyweight,2799,8,3,1,False,,,Active,http://www.ufc.com/fighter/christian-colombo
+334,Patrick,The Predator,Cote,Welterweight,405,24,11,0,False,,,NotFighting,http://www.ufc.com/fighter/patrick-cote
+475289,Sean,Tarzan,Strickland,Welterweight,2204,20,3,0,False,,,Active,http://www.ufc.com/fighter/sean-strickland
+517588,Joe,Irish,Duffy,Lightweight,2426,16,3,0,False,,,Active,http://www.ufc.com/fighter/joseph-duffy
+598902,Hector,Kid Alex,Sandoval,Flyweight,2801,14,4,0,False,,,Active,http://www.ufc.com/fighter/hector-sandoval
+662494,Mayra,Sheetara,Bueno Silva,Women_Bantamweight,3176,6,0,0,False,,,Active,http://www.ufc.com/fighter/mayra-bueno-silva
+475290,Ruslan,Leopard,Magomedov,Heavyweight,2234,14,1,0,False,,,Active,http://www.ufc.com/fighter/ruslan-magomedov
+599175,Felipe,,Silva,Lightweight,2802,8,2,0,False,,,Active,http://www.ufc.com/fighter/felipe-silva
+629280,Adam,Siwy,Wieczorek,Heavyweight,2899,10,2,0,False,,,Active,http://www.ufc.com/fighter/adam-wieczorek
+599180,Ryan,,Janes,Middleweight,2803,10,3,0,False,,,Active,http://www.ufc.com/fighter/ryan-janes
+629375,Azamat,,Murzakanov,Light_Heavyweight,,7,0,0,False,,,Active,http://www.ufc.com/fighter/azamat-murzakanov
+488752,Tina,Jelly Bean,Lahdemaki,Women_Strawweight,2275,5,1,0,False,,,Active,http://www.ufc.com/fighter/tina-lahdemaki
+629443,Junior,Baby,Albini,Heavyweight,2901,14,4,0,False,,,Active,http://www.ufc.com/fighter/junior-albini
+629960,Chanmi,Ottogi Girl,Jeon,Women_Strawweight,2902,5,2,0,False,,,Active,http://www.ufc.com/fighter/chan-mi-jeon
+488754,Johnny,Hollywood,Case,Lightweight,2262,22,6,0,False,,,Active,http://www.ufc.com/fighter/johnny-case
+629961,Ji Yeon,Firefist,Kim,Women_Flyweight,2889,7,1,2,False,,,Active,http://www.ufc.com/fighter/ji-yeon-kim
+94675,Dustin,The Diamond,Poirier,Lightweight,1595,24,5,0,False,3,,Active,http://www.ufc.com/fighter/dustin-poirier
+94732,Michael,The Menace,Johnson,Featherweight,1711,20,13,0,False,,,Active,http://www.ufc.com/fighter/michael-johnson
+662538,Thiago,,Moises,Lightweight,3188,11,3,0,False,,,Active,http://www.ufc.com/fighter/thiago-moises
+343,Forrest,,Griffin,Light_Heavyweight,380,19,7,0,False,,,NotFighting,http://www.ufc.com/fighter/forrest-griffin
+630115,James,Juggernaut,Mulheron,Heavyweight,2903,11,2,0,False,,,Active,http://www.ufc.com/fighter/james-mulheron
+643712,Shane,,Young,Featherweight,3028,11,4,0,False,,,Active,http://www.ufc.com/fighter/shane-young
+344,Stephan,American Psycho,Bonnar,Light_Heavyweight,297,17,8,0,False,,,NotFighting,http://www.ufc.com/fighter/stephan-bonnar
+345,Diego,Nightmare,Sanchez,Lightweight,461,30,11,0,False,,,Active,http://www.ufc.com/fighter/diego-sanchez
+980,Joseph,,Benavidez,Flyweight,911,25,5,0,False,2,,Active,http://www.ufc.com/fighter/joseph-benavidez
+540407,Misha,,Cirkunov,Light_Heavyweight,2608,14,4,0,False,14,,Active,http://www.ufc.com/fighter/misha-cirkunov
+540603,Joaquim,Netto BJJ,Silva,Lightweight,2573,10,1,0,False,,,Active,http://www.ufc.com/fighter/joaquim-silva
+630706,Rolando,Dy Incredible ,Dy,Featherweight,2904,9,6,1,False,,,Active,http://www.ufc.com/fighter/rolando-dy
+985,John,The Hitman,Hathaway,Welterweight,637,17,2,0,False,,,Active,http://www.ufc.com/fighter/john-hathaway
+235798,John,Hands of Stone,Lineker,Bantamweight,1966,31,8,0,False,6,,Active,http://www.ufc.com/fighter/john-lineker
+599363,Max,Pain,Griffin,Welterweight,2805,14,5,0,False,,,Active,http://www.ufc.com/fighter/max-griffin
+630707,Frank,The Crank,Camacho,Welterweight,2905,21,7,0,False,,,Active,http://www.ufc.com/fighter/frank-camacho
+335531,James,The James Krause,Krause,Welterweight,1096,25,8,0,False,,,Active,http://www.ufc.com/fighter/james-krause
+465464,Jake,The Celtic Kid,Matthews,Welterweight,2258,13,3,0,False,,,Active,http://www.ufc.com/fighter/jake-matthews
+630843,Megan,,Anderson,Women_Featherweight,2906,8,3,0,False,,,Active,http://www.ufc.com/fighter/megan-anderson
+336293,Jessica,Bate Estaca,Andrade,Women_Strawweight,2079,20,6,0,False,1,,Active,http://www.ufc.com/fighter/jessica-andrade
+518912,Timothy,,Johnson,Heavyweight,2425,12,4,0,False,,,Active,http://www.ufc.com/fighter/timothy-johnson
+600176,Jeremy,JBC,Kennedy,Featherweight,2807,11,1,0,False,,,Active,http://www.ufc.com/fighter/jeremy-kennedy
+631429,Greg,Ribz,Rebello,Heavyweight,2909,24,8,0,False,,,Active,http://www.ufc.com/fighter/greg-rebello
+456964,Omari,Wolverine,Akhmedov,Middleweight,2104,17,4,1,False,,,Active,http://www.ufc.com/fighter/omari-akhmedov
+631430,Zu,8th Wonder,Anyanwu,Heavyweight,2910,14,5,0,False,,,Active,http://www.ufc.com/fighter/zu-anyanwu
+236888,Stephen,Wonderboy,Thompson,Welterweight,1944,14,3,1,False,4,,Active,http://www.ufc.com/fighter/stephen-thompson
+457256,Walt,The Big Ticket,Harris,Heavyweight,2106,11,7,0,False,,,Active,http://www.ufc.com/fighter/walt-harris
+465467,Olivier,The Canadian Gangster,Aubin-Mercier,Lightweight,2223,12,3,0,False,,,Active,http://www.ufc.com/fighter/olivier-aubin-mercier
+496146,Ulka,,Sasaki,Flyweight,2296,20,5,2,False,,,Active,http://www.ufc.com/fighter/yuta-sasaki
+503488,Thomas,Thominhas,Almeida,Bantamweight,2325,22,3,0,False,13,,Active,http://www.ufc.com/fighter/thomas-almeida
+631432,Charles,Kid Dynamite,Byrd,Middleweight,2913,9,5,0,False,,,Active,http://www.ufc.com/fighter/charles-byrd
+600281,Jimmy,Judo,Wallhead,Welterweight,2806,29,11,0,False,,,Active,http://www.ufc.com/fighter/jim-wallhead
+631433,Justin,,Jones,Middleweight,2370,9,2,0,False,,,Active,http://www.ufc.com/fighter/justin-jones
+991,Tom,Filthy,Lawlor,Light_Heavyweight,467,10,6,0,False,,,Active,http://www.ufc.com/fighter/tom-lawlor
+465469,Kajan,Ragin',Johnson,Lightweight,2231,23,14,1,False,,,Active,http://www.ufc.com/fighter/kajan-johnson
+503755,Nina,,Ansaroff,Women_Strawweight,2328,9,5,0,False,3,,Active,http://www.ufc.com/fighter/nina-ansaroff
+600330,Danielle,Dynamite,Taylor,Women_Strawweight,2808,9,4,0,False,,,Active,http://www.ufc.com/fighter/danielle-taylor
+631435,Manny,,Vazquez,Flyweight,2914,11,2,0,False,,,Active,http://www.ufc.com/fighter/manny-vazquez
+644080,Song,,Yadong ,Bantamweight,3030,12,3,0,False,,,Active,http://www.ufc.com/fighter/yadong-song
+355,Chris,The Crippler,Leben,Middleweight,414,22,11,0,False,,,NotFighting,http://www.ufc.com/fighter/chris-leben
+465471,Chad,The Disciple,Laprise,Welterweight,2222,14,3,0,False,,,Active,http://www.ufc.com/fighter/chad-laprise
+504095,Leon,Rocky,Edwards,Welterweight,2329,16,3,0,False,10,,Active,http://www.ufc.com/fighter/leon-edwards
+600855,Ketlen,Fenomeno,Vieira,Women_Bantamweight,2809,10,0,0,False,3,,Active,http://www.ufc.com/fighter/ketlen-vieira
+631436,Joby,,Sanchez,Bantamweight,2311,11,4,0,False,,,Active,http://www.ufc.com/fighter/joby-sanchez
+644081,Hu,Bad Boy,Yaozong,Heavyweight,3029,3,1,0,False,,,Active,http://www.ufc.com/fighter/Yaozong-Hu
+356,Kenny,KenFlo,Florian,Featherweight,270,16,6,0,False,,,NotFighting,http://www.ufc.com/fighter/kenny-florian
+600881,Joachim,,Christensen,Light_Heavyweight,2810,14,6,0,False,,,Active,http://www.ufc.com/fighter/joachim-christensen
+631437,Matt,The Mangler,Bessette,Featherweight,2461,22,9,0,False,,,Active,http://www.ufc.com/fighter/matt-bessette
+238062,Tim,The Dirty Bird,Means,Welterweight,1952,27,10,1,False,,,Active,http://www.ufc.com/fighter/tim-means
+465475,Daniel,,Kelly,Middleweight,2324,13,4,0,False,,,Active,http://www.ufc.com/fighter/dan-kelly
+631438,Kurt,,Holobaugh,Featherweight,2049,17,6,0,False,,,Active,http://www.ufc.com/fighter/kurt-holobaugh
+458511,Opponent,,TBD,Middleweight,,,,,False,,,Active,http://www.ufc.com/fighter/tbd
+489173,Bryan,Bam Bam,Barberena,Welterweight,2263,13,5,0,False,,,Active,http://www.ufc.com/fighter/bryan-barberena
+631439,Boston,Boom Boom,Salmon,Bantamweight,2911,6,1,0,False,,,Active,http://www.ufc.com/fighter/boston-salmon
+359,Mike,Quick,Swick,Welterweight,379,15,6,0,False,,,NotFighting,http://www.ufc.com/fighter/mike-swick
+996,Krzysztof,The Polish Experiment,Soszynski,Light_Heavyweight,309,22,13,1,False,,,NotFighting,http://www.ufc.com/fighter/krzysztof-soszynski
+104843,Norifumi,Kid,Yamamoto,Bantamweight,940,18,6,0,False,,,Active,http://www.ufc.com/fighter/Norifumi-Yamamoto
+631441,Ricky,,Turcios,Bantamweight,2912,8,0,0,False,,,Active,http://www.ufc.com/fighter/ricky-turcios
+631537,Daniel,,Spohn,Light_Heavyweight,2284,16,5,0,False,,,Active,http://www.ufc.com/fighter/daniel-spohn
+465481,Nordine,,Taleb,Welterweight,2227,14,6,0,False,,,Active,http://www.ufc.com/fighter/nordine-taleb
+631538,Mike,Slo-Mike,Rodriguez,Light_Heavyweight,2918,9,3,0,False,,,Active,http://www.ufc.com/fighter/michael-rodriguez
+363,Paul,Relentless,Taylor,Lightweight,402,11,6,1,False,,,NotFighting,http://www.ufc.com/fighter/paul-taylor
+465482,Elias,The Spartan,Theodorou,Middleweight,2224,16,2,0,False,13,,Active,http://www.ufc.com/fighter/elias-theodorou
+631539,CJ,,Hamilton,Flyweight,2921,11,5,0,False,,,Active,http://www.ufc.com/fighter/cj-hamilton
+364,Dennis,,Siver,Featherweight,366,23,11,0,False,,,Active,http://www.ufc.com/fighter/dennis-siver
+239715,Glover,,Teixeira,Light_Heavyweight,1968,27,7,0,False,12,,Active,http://www.ufc.com/fighter/glover-teixeira
+504565,Charles,Boston Strong,Rosa,Featherweight,2330,11,3,0,False,,,Active,http://www.ufc.com/fighter/charles-rosa
+631540,Casey ,,Kenney,Flyweight,2922,7,1,1,False,,,Active,http://www.ufc.com/fighter/casey-kenney
+663245,Christos,The Spartan,Giagos,Lightweight,2322,15,7,0,False,,,Active,http://www.ufc.com/fighter/christos-giagos
+465483,Sheldon,,Westcott,Welterweight,2225,10,3,1,False,,,Active,http://www.ufc.com/fighter/sheldon-westcott
+631541,Alfred ,,Khashakyan,Bantamweight,2923,8,4,0,False,,,Active,http://www.ufc.com/fighter/alfred-khashakyan
+663306,Jinsoo,,Son,Lightweight,3191,9,3,0,False,,,Active,http://www.ufc.com/fighter/jin-soo-soon
+366,Matt,The Real One,Grice,Featherweight,446,15,5,0,False,,,NotFighting,http://www.ufc.com/fighter/matt-grice
+522866,Maryna,Iron Lady,Moroz,Women_Strawweight,2465,8,3,0,False,,,Active,http://www.ufc.com/fighter/maryna-moroz
+601200,Lina,Elbow Queen,Lansberg,Women_Bantamweight,2811,8,3,0,False,13,,Active,http://www.ufc.com/fighter/lina-lansberg
+631542,Thanh ,,Le,Featherweight,2920,7,1,0,False,,,Active,http://www.ufc.com/fighter/thanh-le
+663426,Alexey,,Kunchenko,Welterweight,3190,19,0,0,False,,,Active,http://www.ufc.com/fighter/alexey-kunchenko
+241883,Ronda,Rowdy,Rousey,Women_Bantamweight,1828,12,2,0,False,,,Active,http://www.ufc.com/fighter/ronda-rousey
+545279,Sage,Super,Northcutt,Welterweight,2628,11,2,0,False,,,Active,http://www.ufc.com/fighter/sage-northcutt
+631543,Lazar ,,Stojadinovic,Featherweight,2919,12,6,0,False,,,Active,http://www.ufc.com/fighter/lazar-stojadinovic
+712,Rashad,Suga,Evans,Light_Heavyweight,387,24,8,1,False,,,Active,http://www.ufc.com/fighter/rashad-evans
+241886,Luke,,Rockhold,Middleweight,1294,16,4,0,False,2,,Active,http://www.ufc.com/fighter/luke-rockhold
+522906,Islam,,Makhachev,Lightweight,2466,16,1,0,False,,,Active,http://www.ufc.com/fighter/islam-makhachev
+553753,Mizuto,Pugnus,Hirota,Lightweight,1177,19,9,2,False,,,Active,http://www.ufc.com/fighter/mizuto-hirota
+601203,Gregor,The Gift,Gillespie,Lightweight,2812,12,0,0,False,,,Active,http://www.ufc.com/fighter/gregor-gillespie
+631544,Sidney,,Outlaw,Welterweight,2916,9,4,0,False,,,Active,http://www.ufc.com/fighter/sidney-outlaw
+369,Urijah,The California Kid,Faber,Bantamweight,959,34,10,0,False,,,NotFighting,http://www.ufc.com/fighter/urijah-faber
+713,Joshua,The People's Warrior,Burkman,Welterweight,407,29,17,0,False,,,Active,http://www.ufc.com/fighter/josh-burkman
+241887,Ronaldo,Jacare,Souza,Middleweight,896,26,6,0,False,3,,Active,http://www.ufc.com/fighter/ronaldo-souza
+458646,Krzysztof,,Jotko,Middleweight,2122,19,5,0,False,,,Active,http://www.ufc.com/fighter/krzysztof-jotko
+553755,Teruto,Yashabo,Ishihara,Bantamweight,2655,11,5,2,False,,,Active,http://www.ufc.com/fighter/teruto-ishihara
+631545,Michael,,Cora,Welterweight,2915,4,2,0,False,,,Active,http://www.ufc.com/fighter/michael-cora
+370,Carlos,The Natural Born Killer,Condit,Welterweight,663,30,12,0,False,,,Active,http://www.ufc.com/fighter/carlos-condit
+458701,Sergio,,Pettis,Flyweight,2118,17,4,0,False,,,Active,http://www.ufc.com/fighter/sergio-pettis
+631546,Ryan,Superman,Spann,Light_Heavyweight,2935,15,5,0,False,,,Active,http://www.ufc.com/fighter/ryan-spann
+656786,Matt,,Sayles,Featherweight,3096,6,2,0,False,,,Active,http://www.ufc.com/fighter/matt-sayles
+663792,Stefan,,Sekulic,Welterweight,3193,12,3,0,False,,,Active,http://www.ufc.com/fighter/stefan-sekulic
+241891,Miesha,Cupcake,Tate,Women_Bantamweight,1317,18,7,0,False,,,NotFighting,http://www.ufc.com/fighter/miesha-tate
+458921,Kiichi,Strasser,Kunimoto,Welterweight,2131,19,6,2,False,,,Active,http://www.ufc.com/fighter/kiichi-kunimoto
+465945,Aleksei,The Boa Constrictor,Oleinik,Heavyweight,2155,57,11,1,False,8,,Active,http://www.ufc.com/fighter/oleksiy-oliynyk
+631548,Karl,Baby K ,Roberson,Middleweight,2936,6,1,0,False,,,Active,http://www.ufc.com/fighter/karl-roberson
+656787,Yazan,Yazzle Dazzle,Hajeh,Featherweight,,6,0,0,False,,,Active,http://www.ufc.com/fighter/yazan-hajeh
+555314,Danny,Hot Chocolate,Roberts,Welterweight,2656,16,3,0,False,,,Active,http://www.ufc.com/fighter/danny-roberts
+631549,Gabriel,Zangief ,Checco,Middleweight,,10,2,0,False,,,Active,http://www.ufc.com/fighter/gabriel-checco
+656788,Anthony,Fluffy,Hernandez,Middleweight,,6,0,0,False,,,Active,http://www.ufc.com/fighter/anthony-hernandez
+375,Cub,,Swanson,Featherweight,1050,25,9,0,False,7,,Active,http://www.ufc.com/fighter/cub-swanson
+459192,Adam,,Khaliev,Welterweight,2140,6,0,0,False,,,Active,http://www.ufc.com/fighter/adam-khaliev
+490180,Sam,Smile'N,Alvey,Light_Heavyweight,2264,33,11,0,False,,,Active,http://www.ufc.com/fighter/sam-alvey
+557184,Francis,The Predator,Ngannou,Heavyweight,2659,11,3,0,False,3,,Active,http://www.ufc.com/fighter/francis-ngannou
+601646,Mike,Platinum,Perry,Welterweight,2813,12,4,0,False,,,Active,http://www.ufc.com/fighter/mike-perry
+631550,Chase,,Waldon,Middleweight,2942,11,3,0,False,,,Active,http://www.ufc.com/fighter/chase-waldon
+656789,Jordan,The Beverly Hills Ninja,Wright,Middleweight,,9,0,0,False,,,Active,http://www.ufc.com/fighter/jordan-wright
+459193,Alex,The Dominican Nightmare,Garcia,Welterweight,2130,15,6,0,False,,,Active,http://www.ufc.com/fighter/alex-garcia
+466035,Claudio,Hannibal,Silva,Welterweight,2162,11,1,0,False,,,Active,http://www.ufc.com/fighter/claudio-henrique-da-silva
+601851,Alexa,,Grasso,Women_Strawweight,2814,10,2,0,False,13,,Active,http://www.ufc.com/fighter/alexa-grasso
+631551,Alonzo,,Menifield,Light_Heavyweight,2686,7,0,0,False,,,Active,http://www.ufc.com/fighter/alonzo-menifield
+656790,Giga,,Chikadze,Featherweight,,5,1,0,False,,,Active,http://www.ufc.com/fighter/giga-chikadze
+241929,Gegard,,Mousasi,Middleweight,786,42,6,2,False,,,NotFighting,http://www.ufc.com/fighter/gegard-mousasi
+557189,Luis,KLB,Henrique,Heavyweight,2658,10,5,0,False,,,Active,http://www.ufc.com/fighter/luis-henrique
+602150,Jason,Nicoya,Gonzalez,Lightweight,2815,11,4,0,False,,,Active,http://www.ufc.com/fighter/jason-gonzalez
+631553,Daniel,Werewolf of Texas,Jolly,Light_Heavyweight,2623,5,3,0,False,,,Active,http://www.ufc.com/fighter/daniel-jolly
+459199,Andre,Touchy,Fili,Featherweight,2119,18,6,0,False,,,Active,http://www.ufc.com/fighter/andre-fili
+466037,Kevin,The Motown Phenom,Lee,Lightweight,2157,16,4,0,False,5,,Active,http://www.ufc.com/fighter/kevin-lee
+477058,Marcos Rogerio,Pezao,De Lima,Light_Heavyweight,1865,16,6,1,False,,,Active,http://www.ufc.com/fighter/marcus-rogerio-de-lima
+602347,Albert,The Warrior,Morales,Bantamweight,2405,7,4,1,False,,,Active,http://www.ufc.com/fighter/albert-morales
+631554,Dan,Dynamite,Ige,Featherweight,2941,9,2,0,False,,,Active,http://www.ufc.com/fighter/dan-ige
+656792,Emiliano,He-Man,Sordi,Light_Heavyweight,,16,6,0,False,,,Active,http://www.ufc.com/fighter/emiliano-sordi
+241942,Jorge,Gamebred,Masvidal,Welterweight,1272,32,13,0,False,9,,Active,http://www.ufc.com/fighter/jorge-masvidal
+459338,Nico,,Musoke,Welterweight,2124,13,5,0,False,,,Active,http://www.ufc.com/fighter/nicholas-musoke
+466038,Tony,,Martin,Lightweight,2159,13,4,0,False,,,Active,http://www.ufc.com/fighter/tony-martin
+524184,Alex,Cowboy,Oliveira,Welterweight,2469,19,4,1,False,15,,Active,http://www.ufc.com/fighter/alex-oliveira
+631555,Luis,Tiger Junior ,Gomez,Featherweight,2938,4,1,0,False,,,Active,http://www.ufc.com/fighter/luis-raul-gomez
+656793,Dwight,The Body Snatcher,Grant,Welterweight,,7,1,0,False,,,Active,http://www.ufc.com/fighter/dwight-grant
+1014,Stefan,Skyscraper,Struve,Heavyweight,649,32,11,0,False,14,,Active,http://www.ufc.com/fighter/stefan-struve
+524895,Bartosz,The Butcher,Fabinski,Middleweight,2490,14,2,0,False,,,Active,http://www.ufc.com/fighter/bartosz-fabinski
+563525,Matheus,,Nicolau,Flyweight,2578,13,3,1,False,,,Active,http://www.ufc.com/fighter/matheus-nicolau
+631557,Phillip,Megatron ,Hawes,Middleweight,2929,4,2,0,False,,,Active,http://www.ufc.com/fighter/phillip-hawes
+656794,Tyler,Zombie,Hill,Welterweight,,6,1,0,False,,,Active,http://www.ufc.com/fighter/tyler-hill
+382,Eddie,,Wineland,Bantamweight,961,23,13,1,False,,,Active,http://www.ufc.com/fighter/eddie-wineland
+724,Gabriel,Napao,Gonzaga,Heavyweight,375,17,11,0,False,,,NotFighting,http://www.ufc.com/fighter/gabriel-gonzaga
+109406,Alex,Bruce Leeroy,Caceres,Featherweight,1755,14,11,0,False,,,Active,http://www.ufc.com/fighter/alex-caceres
+466065,Rashid,Goretz,Magomedov,Lightweight,2158,20,2,0,False,,,Active,http://www.ufc.com/fighter/rashid-magomedov
+565257,Karolina,,Kowalkiewicz,Women_Strawweight,2678,13,4,0,False,6,,Active,http://www.ufc.com/fighter/karolina-kowalkiewicz
+631559,Julian,The Cuban Missile Crisis ,Marquez,Middleweight,2947,7,2,0,False,,,Active,http://www.ufc.com/fighter/julian-marquez
+656796,Antonina,La Pantera,Shevchenko,Women_Flyweight,,6,0,0,False,,,Active,http://www.ufc.com/fighter/antonina-shevchenko
+114,Wanderlei,The Axe Murderer,Silva,Light_Heavyweight,275,35,12,1,False,,,NotFighting,http://www.ufc.com/fighter/wanderlei-silva
+383,Dominick,The Dominator,Cruz,Bantamweight,1057,22,2,0,False,2,,Active,http://www.ufc.com/fighter/dominick-cruz
+631560,Ronaldo,Pacman,Candido ,Flyweight,2927,6,1,0,False,,,Active,http://www.ufc.com/fighter/ronaldo-candido
+656797,Silvana,La Malvada,Juarez,Women_Flyweight,,6,2,0,False,,,Active,http://www.ufc.com/fighter/silvana-juarez
+466134,Mats,,Nilsson,Welterweight,2161,11,4,1,False,,,NotFighting,http://www.ufc.com/fighter/mats-nilsson
+631561,Carlos,The Cannon,Candelario ,Flyweight,2945,7,0,0,False,,,Active,http://www.ufc.com/fighter/carlos-candelario
+656798,Austin,The Flash,Tweedy,Lightweight,,8,2,0,False,,,Active,http://www.ufc.com/fighter/austin-tweedy
+242025,Adlan,Borz,Amagov,Welterweight,1826,13,2,1,False,,,NotFighting,http://www.ufc.com/fighter/adlan-amagov
+631694,Dominick,The Devastator,Reyes,Light_Heavyweight,2907,9,0,0,False,8,,Active,http://www.ufc.com/fighter/dominick-reyes
+656799,Te,Tango,Edwards,Lightweight,3103,6,1,0,False,,,Active,http://www.ufc.com/fighter/te-edwards
+386,Brian,All American,Stann,Middleweight,667,12,6,0,False,,,NotFighting,http://www.ufc.com/fighter/brian-stann
+302601,Conor,The Notorious,McGregor,Lightweight,2057,21,4,0,False,2,8,Active,http://www.ufc.com/fighter/conor-mcgregor
+631825,Amanda,,Lemos,Women_Bantamweight,2908,6,1,1,False,,,Active,http://www.ufc.com/fighter/amanda-lemos
+644621,Rachael,,Ostovich,Women_Flyweight,3043,4,4,0,False,,,Active,http://www.ufc.com/fighter/rachael-ostovich
+603307,Martin,Barracuda,Buschkamp,Featherweight,2818,9,0,0,False,,,Active,http://www.ufc.com/fighter/martin-buschkamp
+632406,Aleksandar,,Rakic,Light_Heavyweight,2924,10,1,0,False,,,Active,http://www.ufc.com/fighter/aleksandar-rakic
+644622,Nicco,,Montano,Women_Flyweight,3041,5,2,0,False,,,Active,http://www.ufc.com/fighter/nicco-montano
+656801,Oscar,Elevation,Cota,Heavyweight,,10,1,0,False,,,Active,http://www.ufc.com/fighter/Oscar-Cota
+603315,Veronica,,Macedo,Women_Flyweight,2816,5,2,1,False,,,Active,http://www.ufc.com/fighter/veronica-macedo
+632519,James,,Bochnovic,Middleweight,2933,8,3,0,False,,,Active,http://www.ufc.com/fighter/james-bochnovic
+656802,Jamall,Pretty Boy,Emmers,Featherweight,,13,4,0,False,,,Active,http://www.ufc.com/fighter/jamall-emmers
+632520,Trevin,,Giles,Middleweight,2932,11,0,0,False,,,Active,http://www.ufc.com/fighter/trevin-giles
+644624,Sijara,SarJ,Eubanks,Women_Flyweight,3042,5,2,0,False,2,,Active,http://www.ufc.com/fighter/sijara-eubanks
+656803,Tim,The Bear,Caron,Middleweight,,9,2,0,False,,,Active,http://www.ufc.com/fighter/tim-caron
+242037,Derek,,Brunson,Middleweight,1806,18,6,0,False,8,,Active,http://www.ufc.com/fighter/derek-brunson
+632521,Cody,Spartan,Stamann,Bantamweight,2930,17,2,0,False,11,,Active,http://www.ufc.com/fighter/cody-stamann
+656804,Andrew,The Sniper,Todhunter,Middleweight,,8,0,0,False,,,Active,http://www.ufc.com/fighter/Andrew-Todhunter
+1025,Evan,,Dunham,Lightweight,648,18,8,1,False,,,Active,http://www.ufc.com/fighter/evan-dunham
+118846,Chris,The All-American,Weidman,Middleweight,1769,14,4,0,False,5,,Active,http://www.ufc.com/fighter/chris-weidman
+632522,Terrion,Flash,Ware,Bantamweight,2931,17,8,0,False,,,Active,http://www.ufc.com/fighter/terrion-ware
+632734,Angel,The Dream,De Anda,Heavyweight,2934,18,6,0,False,,,Active,http://www.ufc.com/fighter/angel-de-anda
+644627,Gillian,The Savage,Robertson,,3031,5,3,0,False,,,Active,http://www.ufc.com/fighter/gillian-robertson
+632898,Nick,,Roehrick,Light_Heavyweight,2950,7,1,0,False,,,Active,http://www.ufc.com/fighter/nick-roehrick
+644628,Montana,,De La Rosa,Women_Flyweight,3037,9,4,0,False,15,,Active,http://www.ufc.com/fighter/montana-de-la-rosa
+738,Mark,The Machine,Hominick,Featherweight,578,20,12,0,False,,,NotFighting,http://www.ufc.com/fighter/mark-hominick
+302965,Tor,The Hammer,Troeng,Middleweight,2058,16,7,1,False,,,NotFighting,http://www.ufc.com/fighter/tor-troeng
+604141,Marcin,,Held,Lightweight,2484,23,7,0,False,,,Active,http://www.ufc.com/fighter/marcin-held
+632975,Kyler ,The Matrix,Phillips ,Bantamweight,2948,5,0,0,False,,,Active,http://www.ufc.com/fighter/kyler-phillips
+604656,Michael,,McBride,Lightweight,2820,8,3,0,False,,,Active,http://www.ufc.com/fighter/michael-mcbride
+632976,Brandon ,Killer B,Davis,Featherweight,2944,9,6,0,False,,,Active,http://www.ufc.com/fighter/brandon-davis
+644630,Barb,The Little Warrior,Honchak,Women_Flyweight,3040,10,5,0,False,,,Active,http://www.ufc.com/fighter/barb-honchak
+242109,Liz,Girlrilla,Carmouche,Women_Flyweight,1618,11,6,0,False,6,,Active,http://www.ufc.com/fighter/liz-carmouche
+477541,Chas,The Scrapper,Skelly,Featherweight,2214,17,3,0,False,,,Active,http://www.ufc.com/fighter/chas-skelly
+632977,James,The Phenom,Gray,Bantamweight,2928,4,2,0,False,,,Active,http://www.ufc.com/fighter/james-gray
+644631,Melinda,,Fábián,Women_Flyweight,3039,4,3,2,False,,,Active,http://www.ufc.com/fighter/melinda-fabian
+664126,Chris,,Fishgold,Featherweight,3195,17,2,1,False,,,Active,http://www.ufc.com/fighter/chris-fishgold
+741,Sam,Hands of Stone,Stout,Lightweight,520,21,12,1,False,,,NotFighting,http://www.ufc.com/fighter/sam-stout
+477542,Mirsad,,Bektic,Featherweight,2213,13,1,0,False,8,,Active,http://www.ufc.com/fighter/mirsad-bektic
+632978,Cheyden ,Steadfast,Leialoha,Bantamweight,2946,6,1,0,False,,,Active,http://www.ufc.com/fighter/cheyden-leialoha
+644632,Shana,Danger,Dobson,Women_Flyweight,3034,3,3,0,False,,,Active,http://www.ufc.com/fighter/shana-dobson
+1032,TJ,,Grant,Lightweight,655,21,5,0,False,,,NotFighting,http://www.ufc.com/fighter/tj-grant
+605121,Rick,The Gladiator,Glenn,Featherweight,2821,21,5,1,False,,,Active,http://www.ufc.com/fighter/rick-glenn
+632979,Austin,Golden Boy ,Arnett,Featherweight,2926,15,5,0,False,,,Active,http://www.ufc.com/fighter/austin-arnett
+459617,Bethe,Pitbull,Correia,Women_Bantamweight,2133,10,3,1,False,11,,Active,http://www.ufc.com/fighter/bethe-correia
+477623,Warlley,,Alves,Welterweight,2247,13,3,0,False,,,Active,http://www.ufc.com/fighter/warlley-alves
+605126,Marc,Bonecrusher,Diakiese,Lightweight,2822,12,3,0,False,,,Active,http://www.ufc.com/fighter/marc-diakiese
+632983,John,Sexi Mexi ,Castaneda ,Bantamweight,2925,14,2,0,False,,,Active,http://www.ufc.com/fighter/john-castaneda
+644634,Emily,Spitfire,Whitmire,Women_Strawweight,3032,3,2,0,False,,,Active,http://www.ufc.com/fighter/emily-whitmire
+656958,Austin,,Springer,Featherweight,,10,3,0,False,,,Active,http://www.ufc.com/fighter/austin-springer
+664136,Khalid,,Murtazaliev,Middleweight,3194,14,2,0,False,,,Active,http://www.ufc.com/fighter/khalid-murtazaliev
+1034,Ricardo,The Bully,Lamas,Featherweight,1054,18,7,0,False,11,,Active,http://www.ufc.com/fighter/ricardo-lamas
+632991,Tom,Da Tank,Gallicchio,Welterweight,2949,19,11,0,False,,,Active,http://www.ufc.com/fighter/tom-gallicchio
+657329,Yan,Fury,Xionan,Women_Strawweight,3010,8,1,0,False,,,Active,http://www.ufc.com/fighter/yan-xionan
+477639,Vitor,Lex Luthor,Miranda,Middleweight,2245,13,7,0,False,,,Active,http://www.ufc.com/fighter/vitor-miranda
+506311,Jared,Tha Killa Gorilla,Cannonier,Light_Heavyweight,2337,11,4,0,False,9,,Active,http://www.ufc.com/fighter/jared-cannonier
+633026,Danny,The Hatchet,Henry,Featherweight,2952,11,2,0,False,,,Active,http://www.ufc.com/fighter/danny-henry
+657408,Weili,Magnum,Zhang,Women_Strawweight,3099,17,1,0,False,,,Active,http://www.ufc.com/fighter/weili-zhang
+133,Josh,The Warmaster,Barnett,Heavyweight,328,35,8,0,False,,,Active,http://www.ufc.com/fighter/josh-barnett
+1036,Raphael,,Assuncao,Bantamweight,1039,27,5,0,False,3,,Active,http://www.ufc.com/fighter/raphael-assuncao
+242123,Alexis,,Davis,Women_Flyweight,1839,19,8,0,False,5,,Active,http://www.ufc.com/fighter/alexis-davis
+633027,Daniel,Kid Dynamite ,Teymur,Lightweight,2953,6,2,0,False,,,Active,http://www.ufc.com/fighter/daniel-teymur
+605719,Jenel,The Demolition Man,Lausa,Flyweight,2823,7,4,0,False,,,Active,http://www.ufc.com/fighter/jenel-lausa
+633095,Jamie,,Pickett,Middleweight,2951,7,2,0,False,,,Active,http://www.ufc.com/fighter/jamie-pickett
+664612,Luigi,The Italian Stallion,Vendramini,Welterweight,3196,8,1,0,False,,,Active,http://www.ufc.com/fighter/luigi-vendramini
+1038,Anthony,Showtime,Pettis,Lightweight,1069,21,8,0,False,8,,Active,http://www.ufc.com/fighter/anthony-pettis
+490665,Colby,Chaos,Covington,Welterweight,2297,14,1,0,False,1,,Active,http://www.ufc.com/fighter/colby-covington
+633730,Roberto,Littlefury,Sanchez,Flyweight,2956,8,2,0,False,,,Active,http://www.ufc.com/fighter/roberto-sanchez
+633731,Joseph,Bopo,Morales,Flyweight,2955,10,1,0,False,,,Active,http://www.ufc.com/fighter/joseph-morales
+490667,Joanna,,Jedrzejczyk,Women_Strawweight,2280,15,3,0,False,2,,Active,http://www.ufc.com/fighter/joanna-jedrzejczyk
+569102,Alvaro,Chango,Herrera,Lightweight,2703,9,6,0,False,,,Active,http://www.ufc.com/fighter/alvaro-herrera
+634220,Gokhan,The Rebel,Saki,Light_Heavyweight,2957,1,2,0,False,,,Active,http://www.ufc.com/fighter/gokhan-saki
+1042,Peter,,Sobotta,Welterweight,668,17,5,1,False,,,Active,http://www.ufc.com/fighter/peter-sobotta
+634221,Syuri,,Kondo,Women_Strawweight,2958,6,1,0,False,,,Active,http://www.ufc.com/fighter/syuri-kondo
+752,Matt,,Wiman,Lightweight,510,16,7,0,False,,,Active,http://www.ufc.com/fighter/matt-wiman
+1043,Todd,,Duffee,Heavyweight,970,9,3,0,False,,,Active,http://www.ufc.com/fighter/todd-duffee
+634224,Sean,Sugar,O'Malley,Bantamweight,2917,10,0,0,False,,,Active,http://www.ufc.com/fighter/sean-o-malley
+140,Sean,Muscle Shark,Sherk,Lightweight,183,38,4,1,False,,,NotFighting,http://www.ufc.com/fighter/sean-sherk
+753,Anderson,The Spider,Silva,Middleweight,235,34,8,0,False,,,Active,http://www.ufc.com/fighter/anderson-silva
+477650,Paulo,The Eraser,Costa,Middleweight,2876,12,0,0,False,7,,Active,http://www.ufc.com/fighter/paulo-henrique-costa
+634225,Eryk,Ya Boi,Anders,Light_Heavyweight,2954,11,2,0,False,,,Active,http://www.ufc.com/fighter/eryk-anders
+1047,Ross,The Real Deal,Pearson,Lightweight,875,22,14,0,False,,,Active,http://www.ufc.com/fighter/ross-pearson
+477652,Antonio,Cara de Sapato,Carlos Junior,Middleweight,2246,11,2,0,False,12,,Active,http://www.ufc.com/fighter/antonio-carlos
+634250,Kyle,Gunz Up,Stewart,Welterweight,2939,8,0,0,False,,,Active,http://www.ufc.com/fighter/kyle-stewart
+467094,Louis,Da Last Samurai,Smolka,Flyweight,2166,11,5,0,False,,,Active,http://www.ufc.com/fighter/louis-smolka
+634251,Calvin,,Kattar,Featherweight,2959,19,3,0,False,,,Active,http://www.ufc.com/fighter/calvin-kattar
+477654,Ricardo,Demente,Abreu,Middleweight,2249,5,1,0,False,,,NotFighting,http://www.ufc.com/fighter/ricardo-abreu
+570125,Enrique,El Fuerte,Barzola,Featherweight,2705,16,3,1,False,,,Active,http://www.ufc.com/fighter/enrique-barzola
+634469,Humberto,,Bandenay,Featherweight,2960,14,5,0,False,,,Active,http://www.ufc.com/fighter/humberto-bandenay
+144,Chuck,The Iceman,Liddell,Light_Heavyweight,113,21,8,0,False,,,NotFighting,http://www.ufc.com/fighter/chuck-liddell
+607021,Brandon,The Assassin Baby,Moreno,Flyweight,2825,14,5,0,False,,,Active,http://www.ufc.com/fighter/brandon-moreno
+634542,Abu,,Azaitar,Middleweight,2961,14,1,1,False,,,Active,http://www.ufc.com/fighter/abu-azaitar
+645587,Magomed,,Ankalaev,Light_Heavyweight,3046,10,1,0,False,,,Active,http://www.ufc.com/fighter/magomed-ankalaev
+758,Michael,The Count,Bisping,Middleweight,368,31,9,0,False,,,Active,http://www.ufc.com/fighter/michael-bisping
+570151,Marco Polo,El Toro,Reyes,Lightweight,2707,7,5,0,False,,,Active,http://www.ufc.com/fighter/polo-reyes
+634566,Arjan,,Singh Bhullar,Heavyweight,2962,8,1,0,False,,,Active,http://www.ufc.com/fighter/arjan-bhullar
+645588,Marcin,,Prachnio,Light_Heavyweight,3045,13,4,0,False,,,Active,http://www.ufc.com/fighter/marcin-prachnio
+657468,Rafael,,Fiziev,Lightweight,,5,0,0,False,,,Active,http://www.ufc.com/fighter/rafael-fiziev
+634865,Geoff,Handz of Steel,Neal,Welterweight,2963,10,2,0,False,,,Active,http://www.ufc.com/fighter/geoff-neal
+657469,Joey,,Gomez,Lightweight,,7,0,0,False,,,Active,http://www.ufc.com/fighter/joey-gomez-1989
+760,Ed,Short Fuse,Herman,Light_Heavyweight,419,24,14,0,False,,,Active,http://www.ufc.com/fighter/ed-herman
+242148,Germaine,The Iron Lady,de Randamie,Women_Bantamweight,1744,8,3,0,False,1,,Active,http://www.ufc.com/fighter/germaine-derandamie
+635302,Daichi,,Abe,Welterweight,2964,6,1,0,False,,,Active,http://www.ufc.com/fighter/daichi-abe
+665473,Kai,,Kara-France,Flyweight,,17,7,0,False,,,Active,http://www.ufc.com/fighter/kai-kara-france
+607243,Zak,The Barbarian,Ottow,Welterweight,2826,16,6,0,False,,,Active,http://www.ufc.com/fighter/zak-ottow
+635808,Zabit,,Magomedsharipov,Featherweight,2965,17,1,0,False,14,,Active,http://www.ufc.com/fighter/zabit-magomedsharipov
+657472,Alton,The Bo-Man,Cunningham,Middleweight,,5,0,0,False,,,Active,http://www.ufc.com/fighter/alton-cunningham
+665870,Jonathan,Dragon,Martinez,Bantamweight,3198,9,2,0,False,,,Active,http://www.ufc.com/fighter/jonathan-martinez
+149,BJ,The Prodigy,Penn,Featherweight,361,16,12,2,False,,,Active,http://www.ufc.com/fighter/bj-penn
+490961,Keith,Sha Bang Bang,Berish,Middleweight,2272,5,1,0,False,,,Active,http://www.ufc.com/fighter/keith-berish
+635818,Everett,,Sims,Heavyweight,2973,4,1,0,False,,,Active,http://www.ufc.com/fighter/everett-sims
+657473,Toby,2Quick,Misech,Featherweight,,10,4,0,False,,,Active,http://www.ufc.com/fighter/toby-misech
+284814,Gunnar,Gunni,Nelson,Welterweight,2015,16,3,1,False,12,,Active,http://www.ufc.com/fighter/gunnar-nelson
+570694,Dong Hyun,The Maestro,Kim,Lightweight,2709,16,8,3,False,,,Active,http://www.ufc.com/fighter/dong-hyun-the-mestro-kim
+607546,Mark,The Hand Of,Godbeer,Heavyweight,2827,13,3,0,False,,,Active,http://www.ufc.com/fighter/mark-godbeer
+635819,Shelton ,“The Gravedigger” ,Graves,Heavyweight,2974,7,3,0,False,,,Active,http://www.ufc.com/fighter/shelton-graves
+657474,Rick,El Gallero,Palacios,Bantamweight,,9,1,0,False,,,Active,http://www.ufc.com/fighter/rick-palacios
+151,Matt,The Terror,Serra,Welterweight,212,17,7,0,False,,,NotFighting,http://www.ufc.com/fighter/matt-serra
+284816,Jimi,Poster Boy,Manuwa,Light_Heavyweight,2009,17,3,0,False,9,,Active,http://www.ufc.com/fighter/jimi-manuwa
+478466,Diego,,Ferreira,Lightweight,2208,13,2,0,False,,,Active,http://www.ufc.com/fighter/carlos-diego-ferreira
+607547,Alexander,Drago,Volkov,Heavyweight,2492,29,7,0,False,5,,Active,http://www.ufc.com/fighter/alexander-volkov
+635820,Ricky,,Simon,Bantamweight,2971,10,1,0,False,,,Active,http://www.ufc.com/fighter/ricky-simon
+657475,Riley,The Perfect Storm,Dutro,Flyweight,,14,3,0,False,,,Active,http://www.ufc.com/fighter/riley-dutro
+284817,Jan,,Blachowicz,Light_Heavyweight,2300,22,7,0,False,4,,Active,http://www.ufc.com/fighter/jan-blachowicz
+607952,Alexander,The Great,Volkanovski,Featherweight,2824,18,1,0,False,10,,Active,http://www.ufc.com/fighter/alex-volkanovski
+635821,Donavon,,Frelow,Bantamweight,2972,6,3,0,False,,,Active,http://www.ufc.com/fighter/donavon-frelow
+657476,Jalin,The Tarantula,Turner,Lightweight,3072,6,4,0,False,,,Active,http://www.ufc.com/fighter/jalin-turner
+635822,Alex,,Perez,Flyweight,2969,21,4,0,False,9,,Active,http://www.ufc.com/fighter/alex-perez
+657477,Max,Mad,Mustaki,Lightweight,,6,2,0,False,,,Active,http://www.ufc.com/fighter/max-mustaki
+285939,John,Chicano,Moraga,Flyweight,2007,19,7,0,False,5,,Active,http://www.ufc.com/fighter/john-moraga
+492532,Jerrod,J-Reazie,Sanders,Bantamweight,2276,15,3,0,False,,,NotFighting,http://www.ufc.com/fighter/jerrod-sanders
+635823,Kevin ,Pocket Herc ,Gray ,Flyweight,2970,9,4,0,False,,,Active,http://www.ufc.com/fighter/kevin-gray
+242230,Sergio,The Panther,Moraes,Welterweight,1992,14,4,1,False,,,Active,http://www.ufc.com/fighter/sergio-moraes
+492533,Claudia,Claudinha,Gadelha,Women_Strawweight,2277,16,3,0,False,5,,Active,http://www.ufc.com/fighter/claudia-gadelha
+635824,Peter,The Joker,Petties ,Featherweight,2967,5,3,0,False,,,Active,http://www.ufc.com/fighter/peter-petties
+242231,Cezar,Mutante,Ferreira,Middleweight,1991,14,6,0,False,,,Active,http://www.ufc.com/fighter/cezar-ferreira
+608234,Poliana,,Botelho,Women_Strawweight,2830,7,1,0,False,,,Active,http://www.ufc.com/fighter/poliana-botelho
+635825,Julio,,Arce ,Featherweight,2968,15,3,0,False,,,Active,http://www.ufc.com/fighter/julio-arce
+645896,Priscila,Zombie Girl,Cachoeira,Women_Flyweight,3047,8,1,0,False,,,Active,http://www.ufc.com/fighter/priscila-cachoeira
+1065,Tim,The Barbarian,Boetsch,Middleweight,435,21,12,0,False,,,Active,http://www.ufc.com/fighter/tim-boetsch
+608521,Jack,The Hammer,Marshman,Welterweight,2831,22,7,0,False,,,Active,http://www.ufc.com/fighter/jack-marshman
+645897,Polyana,Dama de Ferro,Viana,Women_Strawweight,3049,10,2,0,False,,,Active,http://www.ufc.com/fighter/polyana-viana
+657509,Luis,Violent Bob Ross,Pena,Lightweight,3107,5,1,0,False,,,Active,http://www.ufc.com/fighter/luis-pena
+771,Anthony,The Hippo,Perosh,Light_Heavyweight,175,15,10,0,False,,,NotFighting,http://www.ufc.com/fighter/anthony-perosh
+467329,Beneil,,Dariush,Lightweight,2168,15,4,1,False,,,Active,http://www.ufc.com/fighter/beneil-dariush
+635828,Jamelle,The Beast ,Jones,Light_Heavyweight,2966,7,5,0,False,,,Active,http://www.ufc.com/fighter/jamelle-jones
+645898,Maia,,Stevenson,Women_Strawweight,3048,6,5,0,False,,,Active,http://www.ufc.com/fighter/maia-stevenson
+657510,Richie,,Smullen,Lightweight,3108,3,1,1,False,,,Active,http://www.ufc.com/fighter/richie-smullen
+242234,Francisco,Massaranduba,Trinaldo,Lightweight,1997,23,6,0,False,13,,Active,http://www.ufc.com/fighter/francisco-trinaldo
+572133,Jason,The Kid,Knight,Featherweight,2724,20,6,0,False,,,Active,http://www.ufc.com/fighter/jason-knight
+635977,Tiffany,Rainbow Renegade,Masters,Women_Strawweight,2975,2,1,0,False,,,Active,http://www.ufc.com/fighter/tiffany-masters
+657511,Elias,,Garcia,Flyweight,3109,6,1,0,False,,,Active,http://www.ufc.com/fighter/elias-garcia
+572276,Abdul-Kerim,,Edilov,Light_Heavyweight,2725,16,4,0,False,,,Active,http://www.ufc.com/fighter/abdul-kerim-edilov
+609202,Charlie,Relentless,Ward,Welterweight,2833,3,3,0,False,,,Active,http://www.ufc.com/fighter/charlie-ward
+635978,Jamie,,Colleen,Women_Strawweight,2976,4,1,0,False,,,Active,http://www.ufc.com/fighter/jamie-colleen
+646374,Mark,Bumblebee,De La Rosa,Bantamweight,3050,11,1,0,False,,,Active,http://www.ufc.com/fighter/mark-de-la-rosa
+775,.,,To Be Announced,,,,,,False,,,Active,http://www.ufc.com/fighter/To-be-announced
+572774,Ryan,The Wizard,Hall,Featherweight,2726,6,1,0,False,,,Active,http://www.ufc.com/fighter/ryan-hall
+635979,Martin,The Spartan,Day,Flyweight,2977,5,2,0,False,,,Active,http://www.ufc.com/fighter/martin-day
+242237,Rony,,Jason,Featherweight,1994,15,7,0,False,,,Active,http://www.ufc.com/fighter/rony-jason
+479575,Anthony,Freight Train,Hamilton,Heavyweight,2215,15,9,0,False,,,Active,http://www.ufc.com/fighter/anthony-hamilton
+527135,Tom,,Breese,Middleweight,2510,11,1,0,False,,,Active,http://www.ufc.com/fighter/tom-breese
+609611,Paul,BearJew,Craig,Light_Heavyweight,2834,9,2,0,False,,,Active,http://www.ufc.com/fighter/paul-craig
+635980,Jaime,,Alvarez,Flyweight,2978,7,1,0,False,,,Active,http://www.ufc.com/fighter/jamie-alvarez
+242238,Godofredo,Pepey,Pepey,Featherweight,1993,14,6,0,False,,,Active,http://www.ufc.com/fighter/godofredo-castro
+286579,Adriano,,Martins,Lightweight,915,28,9,0,False,,,Active,http://www.ufc.com/fighter/adriano-martins
+507055,...,,To be announced,,,,,,False,,,Active,http://www.ufc.com/fighter/to-be-announced-female
+572777,Julian,Juicy J,Erosa,Lightweight,2728,22,7,0,False,,,Active,http://www.ufc.com/fighter/Julian-Erosa
+609910,Gadzhimurad,,Antigulov,Light_Heavyweight,2829,20,5,0,False,,,Active,http://www.ufc.com/fighter/gadzhimurad-antigulov
+635981,Cameron,Cap'n Crunch,Olson,Light_Heavyweight,2980,8,3,0,False,,,Active,http://www.ufc.com/fighter/cameron-olson
+1074,Antoni,Mr. Wonderful,Hardonk,Heavyweight,261,8,6,0,False,,,NotFighting,http://www.ufc.com/fighter/antoni-hardonk
+286657,Kyung Ho,Mr. Perfect,Kang,Bantamweight,2018,14,8,0,False,,,Active,http://www.ufc.com/fighter/kyung-ho-kang
+527458,Mickael,Ragnar,Lebout,Lightweight,2503,14,5,1,False,,,Active,http://www.ufc.com/fighter/mickael-lebout
+572779,Chris,Gritz,Gruetzemacher,Lightweight,1622,14,3,0,False,,,Active,http://www.ufc.com/fighter/chris-gruetzemacher
+609911,Darren,The Dentist,Stewart,Middleweight,2828,9,3,0,False,,,Active,http://www.ufc.com/fighter/darren-stewart
+635982,Karl,No Worries,Reed,Light_Heavyweight,2979,2,1,0,False,,,Active,http://www.ufc.com/fighter/karl-reed
+659203,Jaimee,Queenie,Nievera,Women_Flyweight,,7,4,0,False,,,Active,http://www.ufc.com/fighter/jaimee-nievera
+1075,Gleison,,Tibau,Lightweight,514,40,14,0,False,,,Active,http://www.ufc.com/fighter/gleison-tibau
+286973,Jussier,,Formiga,Flyweight,2011,22,5,0,False,1,,Active,http://www.ufc.com/fighter/jussier-formiga
+527472,Stevie,Braveheart,Ray,Lightweight,2502,22,8,0,False,,,Active,http://www.ufc.com/fighter/stevie-ray
+572780,Artem,The Russian Hammer,Lobov,Featherweight,2729,14,15,1,False,,,Active,http://www.ufc.com/fighter/artem-lobov
+609925,Viviane,Sucuri,Pereira,Women_Strawweight,2835,13,1,0,False,,,Active,http://www.ufc.com/fighter/viviane-pereira
+635983,Grant,KGD,Dawson,Featherweight,2981,12,1,0,False,,,Active,http://www.ufc.com/fighter/grant-dawson
+659370,Jordan,Bomaye,Williams,Middleweight,,8,2,0,False,,,Active,http://www.ufc.com/fighter/jordan-williams
+287176,Abel,Killa,Trujillo,Lightweight,2013,15,8,0,False,,,Active,http://www.ufc.com/fighter/abel-trujillo
+527667,Ben,10,Nguyen,Flyweight,2505,17,7,0,False,,,Active,http://www.ufc.com/fighter/ben-nguyen
+610010,Claudio,El Nino ,Puelles,Lightweight,2836,9,2,0,False,,,Active,http://www.ufc.com/fighter/claudio-puelles
+635984,Adrian,,Diaz,Featherweight,2982,11,5,1,False,,,Active,http://www.ufc.com/fighter/adrian-diaz
+646738,Israel,The Last Stylebender,Adesanya,Middleweight,3051,15,0,0,False,6,,Active,http://www.ufc.com/fighter/israel-adesanya
+659371,Josh,,Parisian,Heavyweight,,7,2,0,False,,,Active,http://www.ufc.com/fighter/josh-parisian
+479780,Patrick,The Animal,Williams,Bantamweight,2219,8,7,0,False,,,Active,http://www.ufc.com/fighter/patrick-williams
+527883,Damian,Webster,Stasiak,Bantamweight,2504,10,6,0,False,,,Active,http://www.ufc.com/fighter/damian-stasiak
+610011,Martin,El Toro,Bravo,Featherweight,2837,12,2,0,False,,,Active,http://www.ufc.com/fighter/martin-bravo
+636378,Nick,,Urso,Flyweight,2990,10,4,0,False,,,Active,http://www.ufc.com/fighter/nick-urso
+659401,Maycee,The Future,Barber,Women_Strawweight,3114,5,0,0,False,,,Active,http://www.ufc.com/fighter/maycee-barber
+479909,Alex,The Spartan,White,Lightweight,2216,12,5,0,False,,,Active,http://www.ufc.com/fighter/alex-white
+573816,Damian,The Polish Pitbull,Grabowski,Heavyweight,2732,20,5,0,False,,,Active,http://www.ufc.com/fighter/damian-grabowski
+636379,Jordan,,Espinosa,Flyweight,2991,12,5,0,False,,,Active,http://www.ufc.com/fighter/jordan-espinosa
+784,Yushin,Thunder,Okami,Welterweight,479,34,12,0,False,,,Active,http://www.ufc.com/fighter/yushin-okami
+287189,Hyun Gyu,The Ace,Lim,Welterweight,2020,13,7,1,False,,,Active,http://www.ufc.com/fighter/hyun-gyu-lim
+636380,Mark,The Pride of Bloomfield,Cherico,Featherweight,2988,11,2,0,False,,,Active,http://www.ufc.com/fighter/mark-cherico
+659403,Vince,Vandetta,Morales,Bantamweight,,7,1,0,False,,,Active,http://www.ufc.com/fighter/vince-morales
+636381,Mike,Little Bully,Santiago,Featherweight,2989,21,12,0,False,,,Active,http://www.ufc.com/fighter/mike-santiago
+659404,Domingo,Son of Fire,Pilarte,Bantamweight,,8,1,0,False,,,Active,http://www.ufc.com/fighter/domingo-pilarte
+242266,Bobby,King,Green,Lightweight,1683,24,8,1,False,,,Active,http://www.ufc.com/fighter/bobby-green
+610265,Brett,The Pikey,Johns,Bantamweight,2839,15,2,0,False,,,Active,http://www.ufc.com/fighter/brett-johns
+636382,JP,,Buys,Flyweight,2987,4,2,0,False,,,Active,http://www.ufc.com/fighter/jp-buys
+659405,Maki,Coconut Bombz,Pitolo,Middleweight,,9,4,0,False,,,Active,http://www.ufc.com/fighter/maki-pitolo
+473,Jeremy,Lil' Heathen,Stephens,Featherweight,545,28,15,0,False,6,,Active,http://www.ufc.com/fighter/jeremy-stephens
+787,Martin,The Hitman,Kampmann,Welterweight,474,20,7,0,False,,,NotFighting,http://www.ufc.com/fighter/martin-kampmann
+480074,Corey,Overtime,Anderson,Light_Heavyweight,2281,12,4,0,False,10,,Active,http://www.ufc.com/fighter/corey-anderson
+610266,Kwan Ho,The Handsome,Kwak,Bantamweight,2838,9,2,0,False,,,Active,http://www.ufc.com/fighter/kwan-ho-kwak
+636383,Steven,Ocho,Peterson,Featherweight,2985,17,7,0,False,,,Active,http://www.ufc.com/fighter/steven-peterson
+659406,Chibwikem,,Onyenegecha-Palmer,Middleweight,,6,0,0,False,,,Active,http://www.ufc.com/fighter/chibwikem-onyenegecha
+1084,Keita,K-Taro,Nakamura,Welterweight,525,33,8,2,False,,,Active,http://www.ufc.com/fighter/keita-nakamura
+492800,Juliana,Ju Thai,Lima,Women_Strawweight,2279,9,5,0,False,,,Active,http://www.ufc.com/fighter/juliana-lima
+528648,Elizeu,Capoeira,Zaleski dos Santos,Welterweight,2508,20,5,0,False,14,,Active,http://www.ufc.com/fighter/elizeu-zaleski-dos-santos
+636384,Benito,Golden Boy,Lopez,Bantamweight,2986,9,0,0,False,,,Active,http://www.ufc.com/fighter/benito-lopez
+659407,Austin,AK-47,Vanderford,Welterweight,,4,0,0,False,,,Active,http://www.ufc.com/fighter/austin-vanderford
+492976,Lauren,Lucky,Murphy,Women_Flyweight,2293,10,4,0,False,8,,Active,http://www.ufc.com/fighter/lauren-murphy
+636385,Kennedy,African Savage,Nzechukwu,Light_Heavyweight,2984,6,0,0,False,,,Active,http://www.ufc.com/fighter/kennedy-nzechukwu
+659408,Angelo,Baby Monster,Trevino,Welterweight,,7,2,0,False,,,Active,http://www.ufc.com/fighter/angelo-trevino
+790,Jamie,,Varner,Lightweight,530,21,11,1,False,,,NotFighting,http://www.ufc.com/fighter/jamie-varner
+480077,Brian,T-City,Ortega,Featherweight,2238,14,1,0,False,1,,Active,http://www.ufc.com/fighter/brian-ortega
+636454,Janay,,Harding,Women_Bantamweight,,3,2,0,False,,,Active,http://www.ufc.com/fighter/janay-harding
+659409,Edmen,The Golden Boy,Shahbazyan,Middleweight,,6,0,0,False,,,Active,http://www.ufc.com/fighter/edmen-shahbazyan
+791,Alan,The Talent,Belcher,Middleweight,521,17,7,0,False,,,NotFighting,http://www.ufc.com/fighter/alan-belcher
+242293,Julie,Fireball,Kedzie,Women_Bantamweight,1197,16,13,0,False,,,NotFighting,http://www.ufc.com/fighter/julie-kedzie
+530031,Magomed,,Mustafaev,Lightweight,2529,13,2,0,False,,,Active,http://www.ufc.com/fighter/magomed-mustafaev
+636456,Kelly,Killer,Velasco,Women_Bantamweight,3000,2,2,0,False,,,Active,http://www.ufc.com/fighter/kelly-velasco
+659410,Antonio,Doomsday,Jones,Middleweight,,7,0,0,False,,,Active,http://www.ufc.com/fighter/antonio-jones
+666299,Hannah,Shockwave,Cifers,Women_Strawweight,3208,8,3,0,False,,,Active,http://www.ufc.com/fighter/hannah-cifers
+636457,Adam,Captain Chaos,Antolin,Flyweight,1285,13,3,0,False,,,Active,http://www.ufc.com/fighter/adam-antolin
+647180,Livinha,The Brazilian Gangster,Souza,Women_Strawweight,3052,12,1,0,False,,,Active,http://www.ufc.com/fighter/livinha-souza
+793,Joe,,Lauzon,Lightweight,524,27,16,0,False,,,Active,http://www.ufc.com/fighter/joe-lauzon
+636458,Don'Tale,King Kong,Mayes,Heavyweight,2997,5,2,0,False,,,Active,http://www.ufc.com/fighter/don-tale-mayes
+647235,Mackenzie,,Dern,Women_Strawweight,3054,7,0,0,False,15,,Active,http://www.ufc.com/fighter/mackenzie-dern
+659523,Kevin,Angel of Death,Aguilar,Lightweight,,14,1,0,False,,,Active,http://www.ufc.com/fighter/kevin-aguilar
+666312,Laureano,Pepi,Staropoli,Welterweight,,7,1,0,False,,,Active,http://www.ufc.com/fighter/laureano-staropoli
+1092,Erik,New Breed,Koch,Lightweight,1092,15,6,0,False,,,Active,http://www.ufc.com/fighter/erik-koch
+242414,Ryan,,LaFlare,Welterweight,2055,13,3,0,False,,,Active,http://www.ufc.com/fighter/ryan-laFlare
+480087,Dhiego,,Lima,Welterweight,2282,14,7,0,False,,,Active,http://www.ufc.com/fighter/dhiego-lima
+574489,David,,Teymur,Lightweight,2734,8,1,0,False,,,Active,http://www.ufc.com/fighter/david-teymur
+636460,Allen,Pretty Boy,Crowder,Heavyweight,2998,9,3,0,False,,,Active,http://www.ufc.com/fighter/allen-crowder
+659577,Jim,,Crute,Light_Heavyweight,,8,0,0,False,,,Active,http://www.ufc.com/fighter/jim-crute
+666313,Jesus,El Mudo,Pinedo,Lightweight,,15,4,1,False,,,Active,http://www.ufc.com/fighter/jesus-pinedo
+468640,Alexander,Thunder Of The North,Yakovlev,Welterweight,2200,23,8,1,False,,,Active,http://www.ufc.com/fighter/alexander-yakovlev
+636461,Bevon,,Lewis,Middleweight,2995,5,0,0,False,,,Active,http://www.ufc.com/fighter/bevon-lewis
+659578,Chris,The Big Buck,Birchler,Light_Heavyweight,,7,4,0,False,,,Active,http://www.ufc.com/fighter/chris-birchler
+468641,Joe,Excalibur,Ellenberger,Lightweight,2176,15,2,0,False,,,Active,http://www.ufc.com/fighter/joe-ellenberger
+530242,Michael,,Graves,Welterweight,2586,6,0,1,False,,,NotFighting,http://www.ufc.com/fighter/michael-graves
+574554,Jarjis,Man Mountain,Danho,Heavyweight,2736,6,1,1,False,,,Active,http://www.ufc.com/fighter/jarjis-danho
+636463,Matt,The SteamRolla,Frevola,Lightweight,2994,6,1,1,False,,,Active,http://www.ufc.com/fighter/matt-frevola
+647437,Yana,,Kunitskaya,Women_Featherweight,3053,11,4,0,False,9,,Active,http://www.ufc.com/fighter/yana-kunitskaya
+659579,Mike,,Davis,Featherweight,,5,1,0,False,,,Active,http://www.ufc.com/fighter/mike-davis
+666314,Ariane,The Queen of Violence,Lipski,Women_Flyweight,,11,3,0,False,,,Active,http://www.ufc.com/fighter/ariane-lipski
+307091,Uriah,Prime Time,Hall,Middleweight,2069,14,9,0,False,14,,Active,http://www.ufc.com/fighter/uriah-hall
+530246,Nathan,Soulforce,Coy,Welterweight,1296,15,7,0,False,,,Active,http://www.ufc.com/fighter/nathan-coy
+574620,Alex,The Great White,Morono,Welterweight,2737,14,5,0,False,,,Active,http://www.ufc.com/fighter/alex-morono
+636464,Luke,,Flores,Lightweight,2629,7,1,0,False,,,Active,http://www.ufc.com/fighter/luke-flores
+659580,Sodiq,Super,Yusuff,Featherweight,,6,1,0,False,,,Active,http://www.ufc.com/fighter/sodiq-yusuff
+487,Rani,,Yahya,Bantamweight,1044,26,9,0,False,15,,Active,http://www.ufc.com/fighter/rani-yahya
+307092,Kelvin,,Gastelum,Middleweight,2070,16,3,0,False,4,,Active,http://www.ufc.com/fighter/kelvin-gastelum
+480092,Anton,The Body Snatcher,Berzin,Light_Heavyweight,2983,5,2,0,False,,,Active,http://www.ufc.com/fighter/anton-berzin
+530247,Sabah,The Problem,Homasi,Welterweight,1462,11,8,0,False,,,Active,http://www.ufc.com/fighter/sabah-homasi
+636493,Ramazan,Gorets,Emeev,Middleweight,3001,18,3,0,False,,,Active,http://www.ufc.com/fighter/ramazan-emeev
+659581,Jeff,,Hughes,Heavyweight,,10,1,0,False,,,Active,http://www.ufc.com/fighter/jeff-hughes
+1098,Igor,The Duke,Pokrajac,Light_Heavyweight,966,25,13,0,False,,,Active,http://www.ufc.com/fighter/igor-pokrajac
+13184,Rafael,Sapo,Natal,Middleweight,1594,21,9,1,False,,,Active,http://www.ufc.com/fighter/rafael-natal
+497149,Frankie,,Saenz,Bantamweight,2304,13,5,0,False,,,Active,http://www.ufc.com/fighter/frankie-saenz
+636494,Oskar,Imadlo,Piechota,Middleweight,2992,11,1,1,False,,,Active,http://www.ufc.com/fighter/oskar-piechota
+659583,Josh,The Juggernaut,Appelt,Heavyweight,,15,7,0,False,,,Active,http://www.ufc.com/fighter/josh-appelt
+242453,Trevor,Hot Sauce,Smith,Middleweight,1810,15,8,0,False,,,Active,http://www.ufc.com/fighter/trevor-smith
+610965,Devin,,Powell,Lightweight,2841,9,3,0,False,,,Active,http://www.ufc.com/fighter/devin-powell
+636538,Randall,Braveheart,Wallace,Middleweight,2993,15,7,0,False,,,Active,http://www.ufc.com/fighter/randall-wallace
+659584,Chase,,Hooper,Featherweight,,5,0,0,False,,,Active,http://www.ufc.com/fighter/chase-hooper
+1100,Jake,The Juggernaut,Ellenberger,Welterweight,965,31,15,0,False,,,Active,http://www.ufc.com/fighter/jake-ellenberger
+307095,Josh,Anqa,Samman,Middleweight,2066,12,5,0,False,,,NotFighting,http://www.ufc.com/fighter/josh-samman
+497232,Paige,12 Gauge,VanZant,Women_Flyweight,2305,7,4,0,False,,,Active,http://www.ufc.com/fighter/paige-vanzant
+611131,Tyson,,Pedro,Light_Heavyweight,2840,7,1,0,False,,,Active,http://www.ufc.com/fighter/tyson-pedro
+636913,Mads,,Burnell,Featherweight,3002,9,3,0,False,,,Active,http://www.ufc.com/fighter/mads-burnell
+659585,Canaan,,Kawaihae,Featherweight,,4,1,0,False,,,Active,http://www.ufc.com/fighter/canaan-kawaihae
+666386,Sergei,,Pavlovich,Heavyweight,,12,0,0,False,,,Active,http://www.ufc.com/fighter/sergei-pavlovich
+803,Thales,,Leites,Middleweight,449,28,9,0,False,,,Active,http://www.ufc.com/fighter/thales-leites
+242506,Yancy,,Medeiros,Welterweight,1481,15,5,0,False,,,Active,http://www.ufc.com/fighter/yancy-medeiros
+469195,Li,The Leech,Jingliang,Welterweight,2206,14,5,0,False,,,Active,http://www.ufc.com/fighter/li-jingliang
+480246,Leslie,The Peacemaker,Smith,Women_Bantamweight,2221,10,7,1,False,,,Active,http://www.ufc.com/fighter/leslie-smith
+493738,Alan,Brahma,Jouban,Welterweight,2291,16,6,0,False,,,Active,http://www.ufc.com/fighter/alan-jouban
+530256,Vicente,The Silent Assassin,Luque,Welterweight,2588,14,6,1,False,,,Active,http://www.ufc.com/fighter/vicente-luque
+575897,Luke,Cool Hand,Sanders,Bantamweight,1737,13,3,0,False,,,Active,http://www.ufc.com/fighter/luke-sanders
+611147,Brian,Mantis,Camozzi,Welterweight,2842,7,5,0,False,,,Active,http://www.ufc.com/fighter/brian-camozzi
+659711,Nick,Notorious,Newell,Lightweight,,14,1,0,False,,,Active,http://www.ufc.com/fighter/nick-newell
+1102,Nik,The Carny,Lentz,Lightweight,1137,31,9,2,False,,,Active,http://www.ufc.com/fighter/nik-lentz
+575996,Alex,The Spartan,Nicholson,Middleweight,2740,7,4,0,False,,,Active,http://www.ufc.com/fighter/alex-nicholson
+659712,Alex,,Munoz,Lightweight,,4,0,0,False,,,Active,http://www.ufc.com/fighter/alex-munoz
+1103,Ben,,Rothwell,Heavyweight,969,36,10,0,False,,,Active,http://www.ufc.com/fighter/ben-rothwell
+242511,Jordan,Young Gun,Mein,Welterweight,1867,30,12,0,False,,,Active,http://www.ufc.com/fighter/jordan-mein
+461726,.,,To Be Determined,Welterweight,,,,,False,,,Active,http://www.ufc.com/fighter/To-Be-Determined
+469417,George,The Silencer,Sullivan,Welterweight,2174,17,7,0,False,,,Active,http://www.ufc.com/fighter/george-sullivan
+575997,Randy,Rudeboy,Brown,Welterweight,2739,10,3,0,False,,,Active,http://www.ufc.com/fighter/randy-brown
+611512,Irene,,Aldana,Women_Bantamweight,2843,9,4,0,False,10,,Active,http://www.ufc.com/fighter/irene-aldana
+659713,Allan,Tigre,Zuniga,Lightweight,3124,13,2,0,False,,,Active,http://www.ufc.com/fighter/allan-zuniga
+667258,Vinicius,,Castro,Light_Heavyweight,,9,1,0,False,,,Active,http://www.ufc.com/fighter/vinicius-castro
+242513,Brian,,Melancon,Welterweight,1823,7,3,0,False,,,NotFighting,http://www.ufc.com/fighter/brian-melancon
+480361,Tim,,Williams,Middleweight,2943,15,5,0,False,,,Active,http://www.ufc.com/fighter/tim-williams
+530259,Kamaru,Nigerian Nightmare,Usman,Welterweight,2587,13,1,0,False,2,,Active,http://www.ufc.com/fighter/kamarudeen-usman
+611963,Abdul Razak,,Alhassan,Welterweight,2634,10,1,0,False,,,Active,http://www.ufc.com/fighter/abdul-razak-alhassan
+659714,John,The Machine,Gunther,Lightweight,3123,7,2,0,False,,,Active,http://www.ufc.com/fighter/john-gunther
+667360,Suman,,Mokhtarian,Bantamweight,,8,0,0,False,,,Active,http://www.ufc.com/fighter/suman-mokhtarian
+807,Clay,The Carpenter,Guida,Lightweight,459,34,15,0,False,,,Active,http://www.ufc.com/fighter/clay-guida
+530260,Jason,Jah-Son,Jackson,Welterweight,2937,7,3,0,False,,,Active,http://www.ufc.com/fighter/jason-jackson
+667366,Anderson,,dos Santos,Featherweight,,19,6,0,False,,,Active,http://www.ufc.com/fighter/anderson-dos-santos
+499,Minotauro,,Nogueira,Heavyweight,272,34,10,1,False,,,NotFighting,http://www.ufc.com/fighter/minotauro-nogueira
+307107,Zak,,Cummings,Welterweight,1422,21,6,0,False,,,Active,http://www.ufc.com/fighter/zak-cummings
+500,Mark,,Bocek,Lightweight,452,12,5,0,False,,,NotFighting,http://www.ufc.com/fighter/mark-bocek
+501,Anthony,Rumble,Johnson,Light_Heavyweight,516,22,6,0,False,,,NotFighting,http://www.ufc.com/fighter/anthony-johnson
+242524,Yoel,Soldier of God,Romero,Middleweight,1866,13,3,0,False,1,,Active,http://www.ufc.com/fighter/yoel-romero
+288999,Cat,Alpha,Zingano,Women_Bantamweight,2017,10,3,0,False,5,,Active,http://www.ufc.com/fighter/cat-zingano
+612265,Gerald,GM3,Meerschaert,Middleweight,2844,28,9,0,False,,,Active,http://www.ufc.com/fighter/gerald-meerschaert
+289000,Sara,,McMann,Women_Bantamweight,2022,11,5,0,False,8,,Active,http://www.ufc.com/fighter/sara-mcmann
+1110,Roy,Big Country,Nelson,Heavyweight,1015,23,14,0,False,,,Active,http://www.ufc.com/fighter/roy-nelson
+289022,Jon,The Super Saiyan,Tuck,Lightweight,2019,10,5,0,False,,,Active,http://www.ufc.com/fighter/jon-tuck
+637453,Lauren,Princess Tiger,Mueller,Women_Flyweight,3003,6,0,0,False,,,Active,http://www.ufc.com/fighter/lauren-mueller
+659750,Tyler,,Diamond,Featherweight,3129,9,2,0,False,,,Active,http://www.ufc.com/fighter/tyler-diamond
+667635,Sumudaerji,,Sumudaerji,Bantamweight,,8,1,0,False,,,Active,http://www.ufc.com/fighter/sumudaerji
+504,Manny,The Anvil,Gamburyan,Bantamweight,438,18,11,0,False,,,NotFighting,http://www.ufc.com/fighter/manny-gamburyan
+242566,Ovince,,Saint Preux,Light_Heavyweight,1499,22,11,0,False,11,,Active,http://www.ufc.com/fighter/ovince-st-preux
+659751,Bryce,Thug Nasty,Mitchell,Featherweight,3130,10,1,0,False,,,Active,http://www.ufc.com/fighter/bryce-mitchell
+667650,Chris,,Gutierrez,Bantamweight,,12,3,1,False,,,Active,http://www.ufc.com/fighter/chris-gutierrez
+814,Chael,,Sonnen,Light_Heavyweight,296,29,14,1,False,,,NotFighting,http://www.ufc.com/fighter/chael-sonnen
+1112,Brendan,Big Brown,Schaub,Heavyweight,1161,11,5,0,False,,,NotFighting,http://www.ufc.com/fighter/brendan-schaub
+497684,Joe,,Soto,Bantamweight,2309,18,7,0,False,,,Active,http://www.ufc.com/fighter/joe-soto
+659752,Jay,MellowFellow,Cucciniello,Featherweight,3127,9,1,0,False,,,Active,http://www.ufc.com/fighter/jay-cucciniello
+667921,Juan,,Espino,Heavyweight,3220,9,1,0,False,,,Active,http://www.ufc.com/fighter/Juan-Espino
+506,Nate,,Diaz,Welterweight,538,20,11,0,False,10,,Active,http://www.ufc.com/fighter/nate-diaz
+530951,Michelle,The Karate Hottie,Waterson,Women_Strawweight,1347,16,6,0,False,8,,Active,http://www.ufc.com/fighter/michelle-waterson
+648191,Curtis,Curtious,Millender,Welterweight,2419,16,3,0,False,,,Active,http://www.ufc.com/fighter/curtis-millender
+659753,Brad,Superman,Katona,Featherweight,3128,8,0,0,False,,,Active,http://www.ufc.com/fighter/brad-katona
+667922,Justin,,Frazier,Heavyweight,3217,11,2,0,False,,,Active,http://www.ufc.com/fighter/justin-frazier
+242571,Tarec,Sponge,Saffiedine,Welterweight,942,16,7,0,False,,,Active,http://www.ufc.com/fighter/tarec-saffiedine
+613359,Matt,Danger,Schnell,Flyweight,2846,11,4,0,False,15,,Active,http://www.ufc.com/fighter/matt-schnell
+659755,Michael,The Lone Wolf,Trizano,Lightweight,3125,9,0,0,False,,,Active,http://www.ufc.com/fighter/michael-trizano
+667923,Pannie,Banzai,Kianzad,Women_Featherweight,3218,11,3,,False,,,Active,http://www.ufc.com/fighter/pannie-kianzad
+576605,Augusto,Tanquinho,Mendes,Bantamweight,2748,6,2,0,False,,,Active,http://www.ufc.com/fighter/augusto-mendes
+613436,Shane,Hurricane,Burgos,Featherweight,2847,11,1,0,False,,,Active,http://www.ufc.com/fighter/shane-burgos
+637824,Carlos,,Felipe,Heavyweight,,8,0,0,False,,,Active,http://www.ufc.com/fighter/carlos-felipe
+659760,Joe,Skeletor,Giannetti,Lightweight,3126,7,1,0,False,,,Active,http://www.ufc.com/fighter/joe-giannetti
+667924,Macy,,Chiasson,Women_Featherweight,3221,3,0,,False,,,Active,http://www.ufc.com/fighter/macy-chiasson
+480477,Ray,The Tazmexican Devil,Borg,Flyweight,2217,11,3,0,False,3,,Active,http://www.ufc.com/fighter/ray-borg
+637828,Talita,,Bernardo,Women_Bantamweight,3005,6,3,0,False,15,,Active,http://www.ufc.com/fighter/talita-bernardo
+667925,Maurice,The Crochet Boss,Greene,Heavyweight,3222,5,3,0,False,,,Active,http://www.ufc.com/fighter/maurice-greene
+819,Spencer,The King,Fisher,Lightweight,269,25,9,0,False,,,NotFighting,http://www.ufc.com/fighter/spencer-fisher
+497847,Shinsho,Animal,Anzai,Welterweight,2310,10,2,0,False,,,Active,http://www.ufc.com/fighter/shinsho-anzai
+532822,Darren,The Gorilla,Till,Welterweight,2544,17,1,1,False,3,,Active,http://www.ufc.com/fighter/darren-till
+648460,Cory,,Sandhagen,Bantamweight,3055,9,1,0,False,,,Active,http://www.ufc.com/fighter/cory-sandhagen
+667926,Michel,El Panda,Batista,Heavyweight,3223,4,1,0,False,,,Active,http://www.ufc.com/fighter/michel-batista
+820,Thiago,Pitbull,Alves,Welterweight,511,27,13,0,False,,,Active,http://www.ufc.com/fighter/thiago-alves
+667927,Julija,,Stoliarenko,Women_Featherweight,3224,4,3,1,False,,,Active,http://www.ufc.com/fighter/julija-stoliarenko
+512,Gray,,Maynard,Featherweight,374,14,8,1,False,,,Active,http://www.ufc.com/fighter/gray-maynard
+1119,Alexander,The Mauler,Gustafsson,Light_Heavyweight,1139,18,4,0,False,2,,Active,http://www.ufc.com/fighter/alexander-gustafsson
+205617,Johnny,,Eduardo,Bantamweight,1860,28,12,0,False,,,Active,http://www.ufc.com/fighter/johnny-eduardo
+242759,Anthony,Lionheart,Smith,Light_Heavyweight,1843,31,13,0,False,3,,Active,http://www.ufc.com/fighter/anthony-smith
+290029,Rustam,Tiger,Khabilov,Lightweight,2023,23,3,0,False,,,Active,http://www.ufc.com/fighter/rustam-khabilov
+510517,Jake,The Prototype,Collier,Light_Heavyweight,2364,11,4,0,False,,,Active,http://www.ufc.com/fighter/jake-collier
+576903,Kyle,Crash,Bochniak,Featherweight,2749,8,3,0,False,,,Active,http://www.ufc.com/fighter/kyle-bochniak
+613870,Saparbeg,,Safarov,Light_Heavyweight,2849,8,2,0,False,,,Active,http://www.ufc.com/fighter/saparbeg-safarov
+667928,Leah,Nidas,Letson,Women_Featherweight,3225,4,2,0,False,,,Active,http://www.ufc.com/fighter/leah-letson
+205676,Stipe,,Miocic,Heavyweight,1852,18,3,0,False,1,9,Active,http://www.ufc.com/fighter/stipe-miocic
+637988,Rob,Razor,Wilkinson,Middleweight,3004,11,2,0,False,,,Active,http://www.ufc.com/fighter/rob-wilkinson
+667929,Alex,Hitman,Gorgees,Lightweight,3226,6,0,0,False,,,Active,http://www.ufc.com/fighter/alex-gorgees
+205677,Felipe,Sertanejo,Arantes,Bantamweight,1858,18,9,1,False,,,Active,http://www.ufc.com/fighter/felipe-arantes
+577025,Mike,The Truth,Jackson,Welterweight,2751,1,1,0,False,,,Active,http://www.ufc.com/fighter/mike-jackson
+667930,Damir,,Ismagulov,Lightweight,,16,2,0,False,,,Active,http://www.ufc.com/fighter/damir-ismagulov
+577026,Mickey,,Gall,Welterweight,2750,5,1,0,False,,,Active,http://www.ufc.com/fighter/mickey-gall
+668029,Jesse,,Ronson,Lightweight,,20,8,0,False,,,Active,http://www.ufc.com/fighter/jesse-ronson
+648670,Hakeem,Mean,Dawodu,Featherweight,3056,8,0,1,False,,,Active,http://www.ufc.com/fighter/hakeem-dawodu
+660478,Roosevelt,The Predator,Roberts,Lightweight,,6,0,0,False,,,Active,http://www.ufc.com/fighter/roosevelt-roberts
+668212,Ben,,Askren,Welterweight,,18,0,0,False,,,Active,http://www.ufc.com/fighter/ben-askren
+614475,Niko,The Hybrid,Price,Welterweight,2851,12,2,0,False,,,Active,http://www.ufc.com/fighter/niko-price
+660479,Garrett,Glory to God,Gross,Lightweight,,11,7,0,False,,,Active,http://www.ufc.com/fighter/garrett-gross
+668305,Kyle,,Nelson,Lightweight,,12,1,0,False,,,Active,http://www.ufc.com/fighter/kyle-nelson
+578548,Bojan,,Mihajlovic,Heavyweight,2752,10,5,0,False,,,Active,http://www.ufc.com/fighter/bojan-mihajlovic
+660480,Mitchell,The Sniper,Sipe,Heavyweight,,4,1,0,False,,,Active,http://www.ufc.com/fighter/mitchell-sipe
+668654,Kron,,Gracie,Featherweight,,4,0,0,False,,,Active,http://www.ufc.com/fighter/Kron-Gracie
+829,Mirko,,Cro Cop,Heavyweight,219,31,11,2,False,,,NotFighting,http://www.ufc.com/fighter/mirko-cro-cop
+242826,Gian,,Villante,Light_Heavyweight,1742,17,10,0,False,,,Active,http://www.ufc.com/fighter/gian-villante
+660482,Ian,The Hurricane,Heinisch,Middleweight,,11,1,0,False,,,Active,http://www.ufc.com/fighter/ian-heinisch
+524,Mauricio,Shogun,Rua,Light_Heavyweight,457,25,11,0,False,13,,Active,http://www.ufc.com/fighter/mauricio-rua
+206616,Jimy,The Kid,Hettes,Featherweight,1859,11,3,0,False,,,Active,http://www.ufc.com/fighter/jim-hettes
+579875,Damir,,Hadzovic,Lightweight,2758,12,4,0,False,,,Active,http://www.ufc.com/fighter/damir-hadzovic
+660483,Justin,The Fort,Sumter,Middleweight,,6,2,0,False,,,Active,http://www.ufc.com/fighter/justin-sumter
+579876,Bojan,Serbian Steel,Velickovic,Welterweight,2754,15,6,1,False,,,Active,http://www.ufc.com/fighter/bojan-velickovic
+660484,Maurice,,Mitchell,Featherweight,,11,2,0,False,,,Active,http://www.ufc.com/fighter/maurice-mitchell
+498037,Scott,Hot Sauce,Holtzman,Lightweight,2558,12,2,0,False,,,Active,http://www.ufc.com/fighter/scott-holtzman
+579877,Marcin,Tybur,Tybura,Heavyweight,2753,17,4,0,False,10,,Active,http://www.ufc.com/fighter/marcin-tybura
+615245,Aiemann,,Zahabi,Bantamweight,2852,7,1,0,False,,,Active,http://www.ufc.com/fighter/aiemann-zahabi
+649370,Manny,The Bermudez Triangle,Bermudez,Bantamweight,3057,13,0,0,False,,,Active,http://www.ufc.com/fighter/manny-bermudez
+833,Frankie,The Answer,Edgar,Featherweight,451,23,6,1,False,3,,Active,http://www.ufc.com/fighter/frankie-edgar
+290166,Bradley,Bear,Scott,Welterweight,2030,12,6,0,False,,,Active,http://www.ufc.com/fighter/brad-scott
+579878,Alessio,Manzo,Di Chirico,Middleweight,2755,12,2,0,False,,,Active,http://www.ufc.com/fighter/alessio-di-chirico
+660486,Juan,The Kraken,Adams,Heavyweight,,4,0,0,False,,,Active,http://www.ufc.com/fighter/juan-adams
+1131,Antonio Rogerio,,Nogueira,Light_Heavyweight,797,23,8,0,False,,,Active,http://www.ufc.com/fighter/antonio-rogerio-nogueira
+242979,Tim,,Elliott,Flyweight,1970,16,8,1,False,10,,Active,http://www.ufc.com/fighter/Tim-Elliott
+450465,Thiago,de Lima Marreta,Santos,Middleweight,2087,19,6,0,False,15,,Active,http://www.ufc.com/fighter/thiago-santos
+660487,Shawn,,Teed,Heavyweight,,5,2,0,False,,,Active,http://www.ufc.com/fighter/shawn-teed
+615940,John,The Welsh Wrecking Machine,Phillips,Middleweight,2853,21,6,0,False,,,Active,http://www.ufc.com/fighter/john-phillips
+837,Fabricio,Vai Cavalo,Werdum,Heavyweight,308,23,7,1,False,,,Active,http://www.ufc.com/fighter/fabricio-werdum
+1134,Brad,One Punch,Pickett,Bantamweight,1170,26,14,0,False,,,NotFighting,http://www.ufc.com/fighter/brad-pickett
+539,Donald,Cowboy,Cerrone,Welterweight,1076,34,11,0,False,13,,Active,http://www.ufc.com/fighter/donald-cerrone
+471161,Aljamain,Funk Master,Sterling,Bantamweight,2177,15,3,0,False,7,,Active,http://www.ufc.com/fighter/aljamain-sterling
+616449,Drakkar,,Klose,Lightweight,2854,9,1,1,False,,,Active,http://www.ufc.com/fighter/drakkar-klose
+580570,Thibault,GT,Gouti,Lightweight,2756,12,5,0,False,,,Active,http://www.ufc.com/fighter/thibault-gouti
+545,Hector,Showeather,Lombard,Middleweight,768,34,10,1,False,,,Active,http://www.ufc.com/fighter/hector-lombard
+546,Demian,,Maia,Welterweight,326,25,9,0,False,8,,Active,http://www.ufc.com/fighter/demian-maia
+617300,Ricardo,,Ramos,Bantamweight,2857,12,1,0,False,,,Active,http://www.ufc.com/fighter/ricardo-ramos
+845,Shane,,Carwin,Heavyweight,232,12,2,0,False,,,NotFighting,http://www.ufc.com/fighter/shane-carwin
+127777,Costas,,Philippou,Middleweight,1781,13,5,0,False,,,NotFighting,http://www.ufc.com/fighter/constantinos-philippou
+511032,Sultan,,Aliev,Welterweight,2365,14,3,0,False,,,Active,http://www.ufc.com/fighter/sultan-aliev
+617302,Jordan,,Johnson,Light_Heavyweight,2856,10,0,0,False,,,Active,http://www.ufc.com/fighter/jordan-johnson
+548,Brock,,Lesnar,Heavyweight,305,6,3,0,False,,,NotFighting,http://www.ufc.com/fighter/brock-lesnar
+511034,Ashlee,Rebel Girl,Evans-Smith,Women_Flyweight,2368,6,3,0,False,11,,Active,http://www.ufc.com/fighter/ashlee-evans-smith
+617323,Eric,Showtime,Shelton,Flyweight,2859,11,6,0,False,14,,Active,http://www.ufc.com/fighter/eric-shelton
+650588,Alexander,The Great,Hernandez,Lightweight,3058,10,1,0,False,12,,Active,http://www.ufc.com/fighter/alexander-hernandez
+511416,Jonathan,Jonny Bravo,Wilson,Middleweight,2367,7,3,0,False,,,Active,http://www.ufc.com/fighter/jonathan-wilson
+582930,Cyril,Silverback,Asker,Heavyweight,2761,9,4,0,False,,,Active,http://www.ufc.com/fighter/cyril-asker
+617324,Alexandre,The Cannibal,Pantoja,Flyweight,2858,19,3,0,False,7,,Active,http://www.ufc.com/fighter/alexandre-pantoja
+650723,Andrea,KGB,Lee,Women_Flyweight,3059,9,2,0,False,13,,Active,http://www.ufc.com/fighter/andrea-lee
+849,Mike,Quicksand,Pyle,Welterweight,870,27,14,1,False,,,Active,http://www.ufc.com/fighter/mike-pyle
+1145,Takanori,The Fireball Kid,Gomi,Lightweight,721,35,14,0,False,,,Active,http://www.ufc.com/fighter/takanori-gomi
+1146,James,,Te Huna,Middleweight,1476,18,9,0,False,,,NotFighting,http://www.ufc.com/fighter/james-te-huna
+130419,Johny,Bigg Rigg,Hendricks,Middleweight,947,18,8,0,False,,,Active,http://www.ufc.com/fighter/johny-hendricks
+309184,Santiago,Gente Boa,Ponzinibbio,Welterweight,2107,27,3,0,False,7,,Active,http://www.ufc.com/fighter/santiago-ponzinibbio
+584034,Damien,Beatdown,Brown,Lightweight,2762,17,12,0,False,,,Active,http://www.ufc.com/fighter/damien-brown
+1147,Chad,Money,Mendes,Featherweight,1484,18,4,0,False,5,,Active,http://www.ufc.com/fighter/chad-mendes
+309185,Leonardo,,Santos,Lightweight,2078,16,4,1,False,,,Active,http://www.ufc.com/fighter/leonardo-santos
+584451,Adam,The Prototype,Milstead,Light_Heavyweight,2763,8,2,0,False,,,Active,http://www.ufc.com/fighter/adam-milstead
+309271,Antonio Braga,,Neto,Middleweight,2072,9,3,0,False,,,Active,http://www.ufc.com/fighter/antonio-braga-neto
+498601,Eddie,The Underground King,Alvarez,Lightweight,890,29,6,0,False,,,Active,http://www.ufc.com/fighter/eddie-alvarez
+585029,Curtis,Razor,Blaydes,Heavyweight,2764,10,1,0,False,4,,Active,http://www.ufc.com/fighter/curtis-blaydes
+660648,Khalid,The Warrior,Taha,Featherweight,3149,12,2,0,False,,,Active,http://www.ufc.com/fighter/khalid-taha
+135403,Iuri,Marajo,Alcantara,Bantamweight,1706,35,10,0,False,,,Active,http://www.ufc.com/fighter/iuri-alcantara
+498725,Alejandro,Turbo,Perez,Bantamweight,2354,22,6,1,False,12,,Active,http://www.ufc.com/fighter/alejandro-perez
+651330,Dmitry,,Sosnovskiy,Heavyweight,2850,10,0,0,False,,,Active,http://www.ufc.com/fighter/dmitry-sosnovskiy
+462402,...,,To be determined,,,,,,False,,,Active,http://www.ufc.com/fighter/To-Be-Determined-Female
+585590,Henrique,Frankenstein,da Silva,Light_Heavyweight,2768,12,4,0,False,,,Active,http://www.ufc.com/fighter/luiz-henrique-da-silva
+639377,Alex,The Executioner,Reyes,Welterweight,3007,13,3,,False,,,Active,http://www.ufc.com/fighter/alex-reyes
+498730,Henry,Bure,Briones,Bantamweight,2356,19,8,1,False,,,Active,http://www.ufc.com/fighter/henry-briones
+585888,Anna,Panda,Elmose,Women_Strawweight,2769,3,2,0,False,,,NotFighting,http://www.ufc.com/fighter/anna-elmose
+144963,Tony,El Cucuy,Ferguson,Lightweight,1815,26,3,0,False,1,13,Active,http://www.ufc.com/fighter/tony-ferguson
+498731,Marco,Psycho,Beltran,Flyweight,2358,8,7,0,False,,,Active,http://www.ufc.com/fighter/marco-beltran
+512243,Cody,No Love,Garbrandt,Bantamweight,2369,11,2,0,False,1,,Active,http://www.ufc.com/fighter/cody-garbrandt
+585889,Ion,The Hulk,Cutelaba,Light_Heavyweight,2765,14,3,0,False,,,Active,http://www.ufc.com/fighter/ion-cutelaba
+1158,Darren,The Damage,Elkins,Featherweight,1486,25,6,0,False,15,,Active,http://www.ufc.com/fighter/darren-elkins
+586048,Alberto,,Uda,Middleweight,2766,9,2,0,False,,,Active,http://www.ufc.com/fighter/alberto-uda
+498733,Jose,Teco,Quinonez,Bantamweight,2355,8,2,0,False,,,Active,http://www.ufc.com/fighter/jose-quinonez
+651503,Nad,Smiler,Narimani,Lightweight,3060,11,2,0,False,,,Active,http://www.ufc.com/fighter/nad-narimani
+1160,Chan Sung,The Korean Zombie,Jung,Featherweight,1494,14,5,0,False,13,,Active,http://www.ufc.com/fighter/chan-sung-jung
+498734,Gabriel,Moggly,Benitez,Featherweight,2360,21,7,0,False,,,Active,http://www.ufc.com/fighter/gabriel-benitez
+247,Yves,,Edwards,Lightweight,283,42,22,1,False,,,NotFighting,http://www.ufc.com/fighter/yves-edwards
+1161,Demetrious,Mighty Mouse,Johnson,Flyweight,1495,27,3,1,False,,,Active,http://www.ufc.com/fighter/demetrious-johnson
+452997,Jessica,Evil,Eye,Women_Flyweight,2099,12,6,0,False,1,,Active,http://www.ufc.com/fighter/jessica-eye
+498735,Yair,El Pantera,Rodriguez,Featherweight,2362,12,2,0,False,12,,Active,http://www.ufc.com/fighter/yair-rodriguez
+586298,Dmitrii,The Lifeguard,Smoliakov,Heavyweight,2767,8,2,0,False,,,Active,http://www.ufc.com/fighter/dmitry-smolyakov
+1162,Cyrille,The Snake,Diabate,Light_Heavyweight,699,20,10,3,False,,,NotFighting,http://www.ufc.com/fighter/cyrille-diabate
+293593,Neil,,Magny,Welterweight,2047,21,7,0,False,11,,Active,http://www.ufc.com/fighter/neil-magny
+568,Ben,Killa B,Saunders,Welterweight,502,22,11,2,False,,,Active,http://www.ufc.com/fighter/ben-saunders
+1163,Claude,The Prince,Patrick,Welterweight,1508,14,2,0,False,,,NotFighting,http://www.ufc.com/fighter/claude-patrick
+513257,Marion,The Belizean Bruiser,Reneau,Women_Bantamweight,2376,9,4,1,False,6,,Active,http://www.ufc.com/fighter/marion-reneau
+453365,Justin,,Scoggins,Flyweight,2126,11,5,0,False,,,Active,http://www.ufc.com/fighter/justin-scoggins
+618557,Marcel,Maozinha,Fortuna,Light_Heavyweight,2861,9,3,0,False,,,Active,http://www.ufc.com/fighter/marcel-fortuna
+251,Frank,,Mir,Heavyweight,377,18,11,0,False,,,Active,http://www.ufc.com/fighter/frank-mir
+1165,Travis,Hapa,Browne,Heavyweight,1515,18,7,1,False,,,Active,http://www.ufc.com/fighter/travis-browne
+148105,Erick,The Tiger,Silva,Welterweight,1820,19,9,0,False,,,Active,http://www.ufc.com/fighter/erick-silva
+453391,Dustin,,Ortiz,Flyweight,1504,19,7,0,False,8,,Active,http://www.ufc.com/fighter/dustin-ortiz
+618560,Gavin,The Newfoundland Terror,Tucker,Featherweight,2862,10,1,0,False,,,Active,http://www.ufc.com/fighter/gavin-tucker
+498749,Marlon,Chito,Vera,Bantamweight,2359,11,5,1,False,,,Active,http://www.ufc.com/fighter/marlon-vera
+513470,Makwan,Mr. Finland,Amirkhani,Featherweight,2373,14,3,0,False,,,Active,http://www.ufc.com/fighter/makwan-amirkhani
+1167,Renan,The Baron,Barao,Bantamweight,1527,36,7,0,False,,,Active,http://www.ufc.com/fighter/renan-barao
+472403,Douglas,D Silva,Silva de Andrade,Bantamweight,2183,25,2,0,False,14,,Active,http://www.ufc.com/fighter/douglas-silva-de-andrade
+498752,Guido,Ninja,Cannetti,Bantamweight,2357,8,3,0,False,,,Active,http://www.ufc.com/fighter/guido-cannetti
+586592,Darrell,The Saint,Horcher,Lightweight,2771,13,3,0,False,,,Active,http://www.ufc.com/fighter/darrell-horcher
+1168,Charles,Do Bronx,Oliveira,Lightweight,1531,24,8,0,False,,,Active,http://www.ufc.com/fighter/charles-oliveira
+463239,Drew,,Dober,Welterweight,1340,20,8,0,False,,,Active,http://www.ufc.com/fighter/drew-dober
+618953,Jeremy,Grizzly,Kimball,Light_Heavyweight,2860,15,8,0,False,,,Active,http://www.ufc.com/fighter/jeremy-kimball
+640139,Jodie,,Esquibel,Women_Strawweight,3008,6,4,0,False,,,Active,http://www.ufc.com/fighter/jodie-esquibel
+640288,Wu,Mulan,Yanan,Women_Bantamweight,3009,9,2,0,False,,,Active,http://www.ufc.com/fighter/Yanan-Wu
+453440,Davey,Dangerous,Grant,Bantamweight,2137,10,4,0,False,,,Active,http://www.ufc.com/fighter/david-grant
+587062,Tatiana,,Suarez,Women_Strawweight,2791,8,0,0,False,3,,Active,http://www.ufc.com/fighter/tatiana-saurez
+619015,Volkan,No Time,Oezdemir,Light_Heavyweight,2863,15,3,0,False,6,,Active,http://www.ufc.com/fighter/volkan-oezdemir
+640289,Yan,Nine,Xiaonan ,Women_Strawweight,3010,8,1,0,False,,,Active,http://www.ufc.com/fighter/xiaonan-yan
+498761,Diego,Pitbull,Rivas,Bantamweight,2335,7,2,0,False,,,Active,http://www.ufc.com/fighter/diego-rivas
+587577,Amanda,ABC,Cooper,Women_Strawweight,2792,4,5,0,False,,,Active,http://www.ufc.com/fighter/amanda-cooper
+587578,Andrew,El Dirte,Sanchez,Middleweight,2789,11,4,0,False,,,Active,http://www.ufc.com/fighter/andrew-sanchez
+619388,Jarred,The Monkey God,Brooks,Flyweight,2864,14,2,0,False,,,Active,http://www.ufc.com/fighter/jarred-brooks
+260,Aaron,,Riley,Lightweight,431,29,14,1,False,,,NotFighting,http://www.ufc.com/fighter/aaron-riley
+1174,David,,Branch,Middleweight,1540,22,5,0,False,11,,Active,http://www.ufc.com/fighter/dave-branch
+472511,Alberto,Soldier of God,Mina,Welterweight,2186,13,1,0,False,,,Active,http://www.ufc.com/fighter/alberto-mina
+587580,Eric,Zebrinha,Spicely,Middleweight,2782,10,5,0,False,,,Active,http://www.ufc.com/fighter/eric-spicely
+261,Robbie,Ruthless,Lawler,Welterweight,471,28,12,0,False,6,,Active,http://www.ufc.com/fighter/robbie-lawler
+453456,Chris ,Holds It Down,Holdsworth,Bantamweight,2136,7,0,0,False,,,Active,http://www.ufc.com/fighter/chris-holdsworth
+619989,Michel,Capo,Quinones,Lightweight,2865,8,3,0,False,,,Active,http://www.ufc.com/fighter/michael-quinones

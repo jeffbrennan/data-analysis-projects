@@ -1,0 +1,363 @@
+dataset <- read.csv("C:/Users/jeffb/Desktop/Life/data-analysis/UFC/output/dataset.csv")
+View(dataset)
+library(ggplot2)
+UFC = read.csv('dataset.csv', header=TRUE)
+ggplot(data = UFC) +
+aes(x = Age) +
+geom_histogram(bins = 15, fill = "#4babe9") +
+theme_minimal()
+ggplot(data = UFC) +
+aes(x = BMI) +
+geom_histogram(bins = 15, fill = "#4babe9") +
+theme_minimal()
+ggplot(data = spotify_data, aes(x=HR_Ratio ,y=W/L))+
+geom_point()+
+theme_classic()
+ggplot(data = UFC, aes(x=HR_Ratio ,y=W/L))+
+geom_point()+
+theme_classic()
+ggplot(data = UFC, aes(x='HR_Ratio' , y='W/L'))+
+geom_point()+
+theme_classic()
+ggplot(data = UFC, aes(x='HR_Ratio' , y='W/L'))+
+geom_point()+
+theme_classic()
+View(UFC)
+ggplot(data = UFC, aes(x=HR_Ratio , y=W.L))+
+geom_point()+
+theme_classic()
+ggplot(data = UFC) +
+aes(x = HR_Ratio) +
+geom_histogram(bins = 15, fill = "#4babe9") +
+theme_minimal()
+median(UFC$HR_Ratio)
+median(UFC$HR_Ratio)
+median(UFC$HR_Ratio, na.rm=TRUE)
+mean(UFC$HR_Ratio, na.rm=TRUE)
+mean(UFC$HR_Ratio, na.rm=TRUE)
+ggplot(data = UFC) +
+aes(x = Style, y = W.L) +
+geom_boxplot(fill = "#4292c6") +
+labs(title = "Win/Loss Ratio by Striking Stance",
+x = "Striking Style",
+y = "W/L Ratio") +
+theme_classic()
+UFC = read.csv('dataset.csv', header=TRUE)
+View(UFC)
+UFC = read.csv('dataset.csv', header=TRUE)
+ggplot(data = UFC) +
+aes(x = Country) +
+geom_histogram(bins = 15, fill = "#4babe9") +
+theme_minimal()
+ggplot(data = UFC) +
+aes(x = Country, stat = "count") +
+geom_histogram(bins = 15, fill = "#4babe9") +
+theme_minimal()
+summary(UFC$Country)
+source('C:/Users/jeffb/Desktop/Life/data-analysis/UFC/analysis/UFC_Analysis.R', echo=TRUE)
+table(UFC$Country)
+table(UFC$Country)
+table(UFC$Country, order=DESC)
+table(UFC$Country, order=DESCENDING)
+list(UFC$Country, order=DESCENDING)
+UFC[order(-Country$count)],[1:10,]
+head(UFC$Country)
+table(UFC$Country)
+esquisse:::esquisser()
+ggplot(data = UFC) +
+aes(x = Country) +
+geom_bar(fill = "#0c4c8a") +
+scale_x_discrete(limits = positions) +
+theme_minimal()
+ggplot(data = UFC) +
+aes(x = Country) +
+geom_bar(fill = "#0c4c8a") +
+scale_x_discrete(limits = levels[UFC$Country]) +
+theme_minimal()
+ggplot(data = UFC) +
+aes(x = reorder(Country, -table(Country)[Country])) +
+geom_bar(fill = "#0c4c8a") +
+theme_minimal()
+ggplot(data = UFC) +
+aes(x = reorder(Country, -table(Country)[Country])) +
+geom_bar(fill = "#0c4c8a") +
+xlim(0,10) +
+theme_minimal()
+ggplot(data = UFC) +
+aes(x = reorder(Country, -table(Country)[Country])) +
+geom_bar(fill = "#0c4c8a") +
+theme_minimal()
+ggplot(data = UFC) +
+aes(x = reorder(Country, -table(Country)[Country])) +
+geom_bar(fill = "#0c4c8a") +
+theme_minimal()
+ggplot(data = UFC) +
+aes(x = reorder(Country, -table(Country)[Country])) +
+geom_bar(fill = "#0c4c8a") +
+coord_cartesian(xlim = c(1, 10)) +
+theme_minimal()
+ggplot(data = UFC) +
+aes(x = reorder(Country, -table(Country)[Country])) +
+geom_bar(fill = "#0c4c8a") +
+coord_cartesian(xlim = c(1, 20)) +
+theme_minimal()
+ggplot(data = UFC) +
+aes(x = reorder(Country, -table(Country)[Country])) +
+geom_bar(fill = "#0c4c8a") +
+coord_cartesian(xlim = c(1, 20)) +
+labs(title = "Number of Fighters per Country/State",
+x = "Country",
+y = "Count") +
+theme_minimal()
+ggplot(data = UFC)
+aes(x = TSAC_F_TOT, y = W.L) +
+geom_boxplot(fill = "#4292c6") +
+labs(title = "Win/Loss Ratio by Striking Stance",
+x = "Striking Style",
+y = "W/L Ratio") +
+theme_classic()
+type(UFC$TSAC_F_TOT)
+as.numeric(levels(UFC$TSAC_F_TOT)[UFC$TSAC_F_TOT])
+UFC$TSAC_F_TOT
+as.numeric(sub("%", "", UFC$TSAC_F_TOT))
+TSAC_F_TOT = as.numeric(sub("%", "", UFC$TSAC_F_TOT))
+ggplot(data = UFC)
+aes(x = TSAC_F_TOT, y = W.L) +
+geom_boxplot(fill = "#4292c6") +
+labs(title = "Win/Loss Ratio by Striking Stance",
+x = "Striking Style",
+y = "W/L Ratio") +
+theme_classic()
+TSAC_F_TOT_PCT = as.numeric(sub("%", "", UFC$TSAC_F_TOT)) / 100
+TSAC_F_TOT = NA
+UFC$TSAC_F_TOT_PCT = TSAC_F_TOT_PCT
+ggplot(data = UFC)
+aes(x = TSAC_F_TOT_PCT, y = W.L) +
+geom_boxplot(fill = "#4292c6") +
+labs(title = "Win/Loss Ratio by Striking Stance",
+x = "Striking Style",
+y = "W/L Ratio") +
+theme_classic()
+ggplot(data = UFC)
+aes(x = TSAC_F_TOT_PCT, y = W.L) +
+geom_point() +
+labs(title = "Win/Loss Ratio by Striking Accuracy",
+x = "Striking Style",
+y = "W/L Ratio") +
+theme_classic()
+ggplot(data = UFC)
+aes(x = TSAC_F_TOT_PCT, y = W.L) +
+geom_point() +
+labs(title = "Win/Loss Ratio by Striking Accuracy",
+x = "Striking Style",
+y = "W/L Ratio") +
+theme_classic()
+View(UFC)
+typeof(UFC$TSAC_F_TOT_PCT)
+ggplot(data = UFC, aes(x = TSAC_F_TOT_PCT, y = W.L)) +
+geom_point() +
+labs(title = "Win/Loss Ratio by Striking Accuracy",
+x = "Striking Style",
+y = "W/L Ratio") +
+theme_classic()
+ggplot(data = UFC, aes(x = STR_F_MIN, y = W.L)) +
+geom_point() +
+labs(title = "Win/Loss Ratio by Strikes per Minute",
+x = "Strikes per Minute",
+y = "W/L Ratio") +
+theme_classic()
+ggplot(data = UFC, aes(x = SIG_STR_F_MIN, y = W.L)) +
+geom_point() +
+labs(title = "Win/Loss Ratio by Strikes per Minute",
+x = "Strikes per Minute",
+y = "W/L Ratio") +
+theme_classic()
+ggplot(data = UFC, aes(x = BMI, y = W.L)) +
+geom_point() +
+labs(title = "Win/Loss Ratio by Strikes per Minute",
+x = "Strikes per Minute",
+y = "W/L Ratio") +
+theme_classic()
+ggplot(data = UFC, aes(x = BMI, y = W.L)) +
+geom_point() +
+labs(title = "Win/Loss Ratio by BMI",
+x = "BMI",
+y = "W/L Ratio") +
+theme_classic()
+UFC$Weight_Class = cut(UFC$Weight,
+breaks = c(-1, 115, 125, 135, 145, 155, 170, 185, 205, 265),
+labels=c("Strawweight", "Flyweight", "Bantamweight",
+"Featherweight", "Lightweight", "Welterweight",
+"Middleweight", "Light Heavyweight", "Heavyweight"))
+View(UFC)
+moveMe(UFC, c("Weight_Class"), "after", "Weight")
+moveMe <- function(data, tomove, where = "last", ba = NULL) {
+temp <- setdiff(names(data), tomove)
+x <- switch(
+where,
+first = data[c(tomove, temp)],
+last = data[c(temp, tomove)],
+before = {
+if (is.null(ba)) stop("must specify ba column")
+if (length(ba) > 1) stop("ba must be a single character string")
+data[append(temp, values = tomove, after = (match(ba, temp)-1))]
+},
+after = {
+if (is.null(ba)) stop("must specify ba column")
+if (length(ba) > 1) stop("ba must be a single character string")
+data[append(temp, values = tomove, after = (match(ba, temp)))]
+})
+x
+}
+moveMe(UFC, c("Weight_Class"), "after", "Weight")
+View(UFC)
+moveMe <- function(data, tomove, where = "last", ba = NULL) {
+temp <- setdiff(names(data), tomove)
+x <- switch(
+where,
+first = data[c(tomove, temp)],
+last = data[c(temp, tomove)],
+before = {
+if (is.null(ba)) stop("must specify ba column")
+if (length(ba) > 1) stop("ba must be a single character string")
+data[append(temp, values = tomove, after = (match(ba, temp)-1))]
+},
+after = {
+if (is.null(ba)) stop("must specify ba column")
+if (length(ba) > 1) stop("ba must be a single character string")
+data[append(temp, values = tomove, after = (match(ba, temp)))]
+})
+x
+}
+moveMe(UFC, "Weight_Class", "after", "Weight")
+moveMe(UFC, "Weight_Class", "after", "Weight")
+UFC_test = moveMe(UFC, "Weight_Class", "after", "Weight")
+UFC = moveMe(UFC, "Weight_Class", "after", "Weight")
+View(UFC)
+ggplot(data = spotify_data) +
+aes(x = Weight_Class, y = Age) +
+geom_boxplot(fill = "#4292c6") +
+labs(title = "Age by Weight Class",
+x = "Weight Class",
+y = "Age") +
+theme_classic()
+ggplot(data = UFC) +
+aes(x = Weight_Class, y = Age) +
+geom_boxplot(fill = "#4292c6") +
+labs(title = "Age by Weight Class",
+x = "Weight Class",
+y = "Age") +
+theme_classic()
+ggplot(data = UFC) +
+aes(x = Weight_Class, y = Age) +
+geom_boxplot(fill = "#4292c6") +
+labs(title = "Age by Weight Class",
+x = "Weight Class",
+y = "Age") +
+scale_x_discrete(labels=c('SW', 'FW', 'BW', 'FW', 'LW', 'WW', 'MW', 'LHW', 'HW'))
+theme_classic()
+ggplot(data = UFC) +
+aes(x = Weight_Class, y = Age) +
+geom_boxplot(fill = "#4292c6") +
+labs(title = "Age by Weight Class",
+x = "Weight Class",
+y = "Age") +
+scale_x_discrete(labels=c('SW', 'FW', 'BW', 'FW', 'LW', 'WW', 'MW', 'LHW', 'HW')) +
+theme_classic()
+ggplot(data = UFC) +
+aes(x = Weight_Class, y = Age) +
+geom_boxplot(fill = "#4292c6") +
+labs(title = "Age by Weight Class",
+x = "Weight Class",
+y = "Age") +
+scale_x_discrete(labels=c('SW', 'FW', 'BW', 'FW', 'LW', 'WW', 'MW', 'LHW', 'HW')) +
+theme_classic()
+ggplot(data = UFC) +
+aes(x = Weight_Class, y = Reach) +
+geom_boxplot(fill = "#4292c6") +
+labs(title = "Reach by Weight Class",
+x = "Weight Class",
+y = "Reach") +
+scale_x_discrete(labels=c('SW', 'FW', 'BW', 'FW', 'LW', 'WW', 'MW', 'LHW', 'HW')) +
+theme_classic()
+ggplot(data = UFC) +
+aes(x = Weight_Class, y = HR_Ratio) +
+geom_boxplot(fill = "#4292c6") +
+labs(title = "Reach by Weight Class",
+x = "Weight Class",
+y = "Reach") +
+scale_x_discrete(labels=c('SW', 'FW', 'BW', 'FW', 'LW', 'WW', 'MW', 'LHW', 'HW')) +
+theme_classic()
+ggplot(data = UFC) +
+aes(x = Weight_Class, y = BMI) +
+geom_boxplot(fill = "#4292c6") +
+labs(title = "BMI by Weight Class",
+x = "Weight Class",
+y = "BMI") +
+scale_x_discrete(labels=c('SW', 'FW', 'BW', 'FW', 'LW', 'WW', 'MW', 'LHW', 'HW')) +
+theme_classic()
+ggplot(data = UFC) +
+aes(x = Weight_Class, y = FIGHTS) +
+geom_boxplot(fill = "#4292c6") +
+labs(title = "Fights by Weight Class",
+x = "Weight Class",
+y = "# of Fights") +
+scale_x_discrete(labels=c('SW', 'FW', 'BW', 'FW', 'LW', 'WW', 'MW', 'LHW', 'HW')) +
+theme_classic()
+ggplot(data = UFC) +
+aes(x = reorder(Weight_Class, -table(Weight_Class)[Weight_Class])) +
+geom_bar(fill = "#0c4c8a") +
+labs(title = "Number of Fighters per Weight CLass",
+x = "Weight_Class",
+y = "Count") +
+scale_x_discrete(labels=c('SW', 'FW', 'BW', 'FW', 'LW', 'WW', 'MW', 'LHW', 'HW')) +
+theme_minimal()
+ggplot(data = UFC) +
+aes(x = reorder(Weight_Class, -table(Weight_Class)[Weight_Class])) +
+geom_bar(fill = "#0c4c8a") +
+labs(title = "Number of Fighters per Weight CLass",
+x = "Weight_Class",
+y = "Count") +
+# scale_x_discrete(labels=c('SW', 'FW', 'BW', 'FW', 'LW', 'WW', 'MW', 'LHW', 'HW')) +
+theme_minimal()
+ggplot(data = UFC) +
+aes(x = reorder(Weight_Class, -table(Weight_Class)[Weight_Class])) +
+geom_bar(fill = "#0c4c8a") +
+labs(title = "Number of Fighters per Weight CLass",
+x = "Weight_Class",
+y = "Count") +
+scale_x_discrete(labels=c('WW', 'LW', 'BW', 'FW', 'MW', 'LHW', 'FW', 'HW', 'SW')) +
+theme_minimal()
+ggplot(data = UFC, aes(x = SIG_STR_O_MIN, y = W.L)) +
+geom_point() +
+labs(title = "Win/Loss Ratio by Signifcant Strikes per Minute",
+x = "Opponent Significant Strikes per Minute",
+y = "W/L Ratio") +
+theme_classic()
+ggplot(data = UFC, aes(x = SIG_STR_O_MIN, y = W.L)) +
+geom_point() +
+geom_smooth(method='lm', formula = y~x) +
+labs(title = "Win/Loss Ratio by Signifcant Strikes per Minute",
+x = "Opponent Significant Strikes per Minute",
+y = "W/L Ratio") +
+theme_classic()
+strike_fit = lm(UFC$W.L ~ UFC$SIG_STR_O_MIN)
+summary(strike_fit)$r.squared
+View(strike_fit)
+ggplot(data = UFC) +
+aes(x = Age) +
+geom_histogram(bins = 15, fill = "#4babe9") +
+theme_minimal()
+library(ggplot2)
+ggplot(data = UFC) +
+aes(x = Age) +
+geom_histogram(bins = 15, fill = "#4babe9") +
+theme_minimal()
+ggplot(data = UFC) +
+aes(x = Weight_Class, y = HR_Ratio) +
+geom_boxplot(fill = "#4292c6") +
+labs(title = "Reach by Weight Class",
+x = "Weight Class",
+y = "Reach") +
+scale_x_discrete(labels=c('SW', 'FW', 'BW', 'FW', 'LW', 'WW', 'MW', 'LHW', 'HW')) +
+theme_classic()

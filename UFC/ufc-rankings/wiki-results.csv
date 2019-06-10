@@ -1,0 +1,574 @@
+Full_Name,Country,Age,Height
+Andrei Arlovski,Belarus,39,75
+Alistair Overeem,Netherlands,38,77
+Cain Velasquez,United States,36,73
+Fabricio Werdum,Brazil,41,76
+Junior dos Santos,Brazil,34,76
+Stefan Struve,Netherlands,30,84
+Todd Duffee,United States,33,76
+Ben Rothwell,United States,37,76
+Travis Browne,United States,36,79
+Daniel Cormier,United States,39,71
+Stipe Miocic,United States,36,76
+Walt Harris,United States,35,77
+Derrick Lewis,United States,33,75
+Marcos Rogerio de Lima,Brazil,33,73
+Ruslan Magomedov,Russian Federation,32,75
+Aleksei Oleinik,Russian Federation,41,74
+Jarjis Danho,Syria,35,75
+Shamil Abdurakhimov,Russian Federation,37,75
+Chris de la Rocha,United States,39,75
+Francis Ngannou,Cameroon,32,76
+Curtis Blaydes,United States,27,76
+Cyril Asker,France,32,72
+Marcin Tybura,Poland,33,75
+Dmitry Smolyakov,Russian Federation,36,74
+Alexander Volkov,Russian Federation,30,79
+Daniel Spitz,United States,28,79
+Justin Willis,United States,31,75
+Junior Albini,Brazil,27,75
+Arjan Bhullar,Canada,32,73
+Marcelo Golm,Brazil,26,75
+Adam Wieczorek,Poland,26,77
+Tai Tuivasa,Australia,25,74
+Allen Crowder,United States,29,75
+Dmitry Sosnovskiy,Russian Federation,29,75
+Blagoy Ivanov,Bulgaria,32,71
+Augusto Sakai,Brazil,27,76
+Sergey Pavlovich,Russian Federation,26,75
+Maurice Greene,United States,32,79
+Michel Batista,Cuba,34,75
+Justin Frazier,United States,29,72
+Juan Espino,Spain,38,76
+Juan Adams,United States,26,77
+Ed Herman,United States,38,74
+Mauricio Rua,Brazil,37,73
+Jon Jones,United States,31,76
+Igor Pokrajac,Croatia,39,72
+Alexander Gustafsson,Sweden,31,77
+Antonio Rogerio Nogueira,Brazil,42,74
+Ovince Saint Preux,United States,35,75
+Daniel Cormier,United States,39,71
+Gian Villante,United States,33,74
+Glover Teixeira,Brazil,39,74
+Jimi Manuwa,England,38,74
+Ilir Latifi,Sweden,35,70
+Thiago Santos,Brazil,34,72
+Nikita Krylov,Ukraine,26,72
+Patrick Cummins,United States,38,74
+Corey Anderson,United States,29,75
+Sam Alvey,United States,32,74
+Jan Blachowicz,Poland,35,74
+Jake Collier,United States,30,75
+Misha Cirkunov,Canada,31,75
+Anthony Smith,United States,30,77
+Ion Cutelaba,Moldova,25,73
+Khalil Rountree,United States,28,73
+Devin Clark,United States,28,72
+Justin Ledet,United States,30,76
+Gadzhimurad Antigulov,Russian Federation,31,71
+Tyson Pedro,Australia,27,75
+Saparbek Safarov,Russian Federation,32,73
+Paul Craig,Scotland,31,76
+Bojan Mihajlovic,Serbia,38,71
+Volkan Oezdemir,Switzerland,29,74
+Rashad Coulter,United States,37,71
+Dominick Reyes,United States,28,76
+Nick Roehrick,United States,31,75
+Eryk Anders,United States,31,74
+Aleksandar Rakic,Austria,26,77
+Gokhan Saki,Turkey,35,72
+Yaozong Hu,China,23,74
+Michal Oleksiejczuk,Poland,23,72
+Marcin Prachnio,Poland,30,75
+Magomed Ankalaev,Russian Federation,26,74
+Mike Rodriguez,United States,30,75
+Darko Stosic,Serbia,26,72
+Ryan Spann,United States,27,77
+Johnny Walker,England,26,77
+Jimmy Crute,Australia,23,74
+Nick Diaz,United States,35,72
+Anderson Silva,Brazil,43,74
+Luke Rockhold,United States,34,75
+CB Dollaway,United States,35,74
+Ronaldo Souza,Brazil,39,73
+David Branch,United States,37,73
+Tim Boetsch,United States,37,72
+Brad Tavares,United States,31,73
+Chris Weidman,United States,34,74
+Derek Brunson,United States,34,73
+Trevor Smith,United States,37,75
+Yoel Romero,Cuba,41,70
+Marcelo Guimaraes,Brazil,35,72
+Hector Lombard,Cuba,40,69
+Cezar Ferreira,Brazil,33,73
+Robert Whittaker,Australia,28,72
+Uriah Hall,Jamaica,34,72
+Antonio Braga Neto,Brazil,31,75
+Kelvin Gastelum,United States,27,69
+Zak Cummings,United States,34,72
+Omari Akhmedov,Russian Federation,31,72
+Krzysztof Jotko,Poland,29,73
+Elias Theodorou,Canada,30,73
+Antonio Carlos Junior,Brazil,28,73
+Keith Berish,United States,33,72
+Jared Cannonier,United States,34,71
+Tom Breese,England,27,75
+Jonathan Wilson,United States,31,74
+Alessio Di Chirico,Italy,29,72
+Andrew Sanchez,United States,30,73
+Marvin Vettori,Italy,25,72
+Jack Hermansson,Sweden,30,73
+Jack Marshman,Wales,29,72
+Darren Stewart,England,27,70
+Gerald Meerschaert,United States,31,73
+Jordan Johnson,United States,30,74
+Paulo Costa,Brazil,27,72
+Trevin Giles,United States,26,72
+Karl Roberson,United States,28,73
+Markus Perez,Brazil,28,74
+Julian Marquez,United States,28,74
+Israel Adesanya,Nigeria,29,74
+Charles Byrd,United States,35,70
+John Phillips,Wales,33,71
+Oskar Piechota,Poland,28,72
+Abu Azaitar,Germany,32,70
+Kevin Holland,United States,26,75
+Khalid Murtazaliev,Russian Federation,25,71
+Adam Yandiev,Russian Federation,30,71
+Ian Heinisch,United States,30,71
+Edmen Shahbazyan,United States,21,74
+Robbie Lawler,United States,36,71
+Diego Sanchez,United States,36,70
+Thiago Alves,Brazil,35,69
+Josh Burkman,United States,38,70
+Yushin Okami,Japan,37,74
+Keita Nakamura,Japan,34,71
+Carlos Condit,United States,34,74
+Matt Brown,United States,37,72
+Donald Cerrone,United States,35,72
+Demian Maia,Brazil,41,73
+Ben Saunders,United States,35,74
+Dong Hyun Kim,South Korea,37,73
+Rafael dos Anjos,Brazil,34,68
+Peter Sobotta,Germany,31,72
+Tyron Woodley,United States,36,69
+Yancy Medeiros,United States,31,71
+Tarec Saffiedine,Belgium,32,70
+Court McGee,United States,34,71
+Jorge Masvidal,United States,34,70
+Jordan Mein,Canada,29,72
+Stephen Thompson,United States,35,72
+Tim Means,United States,34,74
+Siyar Bahadurzada,Netherlands,34,71
+Sergio Moraes,Brazil,36,71
+Gunnar Nelson,Iceland,30,71
+Brad Scott,England,29,73
+Neil Magny,United States,31,75
+Michel Prazeres,Brazil,37,68
+James Krause,United States,32,74
+Santiago Ponzinibbio,Argentina,32,72
+Alex Garcia,Dominican Republic,31,69
+Anthony Rocco Martin,United States,29,72
+Claudio Silva,Brazil,36,71
+Sean Strickland,United States,32,70
+Chad Laprise,Canada,32,70
+Nordine Taleb,France,37,73
+Sheldon Westcott,Canada,34,73
+Jingliang Li,China,30,72
+Warlley Alves,Brazil,27,71
+Alexander Yakovlev,Russian Federation,34,75
+Jake Matthews,Australia,24,69
+Dhiego Lima,Brazil,29,74
+Alan Jouban,United States,37,72
+Colby Covington,United States,30,71
+Alberto Mina,Brazil,36,72
+Shinsho Anzai,Japan,33,72
+Paul Felder,United States,34,71
+Leon Edwards,England,27,72
+Bryan Barberena,United States,29,72
+Sultan Aliev,Russian Federation,34,72
+Alex Oliveira,Brazil,30,71
+Bartosz Fabinski,Poland,32,72
+Stevie Ray,Scotland,28,70
+Darren Till,England,25,72
+Elizeu Zaleski dos Santos,Brazil,32,71
+Kamaru Usman,Nigeria,30,72
+Vicente Luque,Brazil,27,71
+Lyman Good,United States,33,72
+Danny Roberts,England,31,72
+Nathan Coy,United States,40,70
+Alex Morono,United States,28,71
+Randy Brown,United States,28,75
+Mickey Gall,United States,26,74
+Mike Jackson,United States,33,74
+Luan Chagas,Brazil,25,71
+Belal Muhammad,United States,30,70
+Mike Perry,United States,27,70
+Max Griffin,United States,33,72
+CM Punk,United States,40,74
+Zak Ottow,United States,31,71
+Abdul Razak Alhassan,Ghana,33,70
+Brian Camozzi,United States,27,74
+Emil Weber Meek,Norway,30,71
+Niko Price,United States,29,72
+Luke Jumeau,New Zealand,30,71
+Frank Camacho,Guam,29,69
+Ramazan Emeev,Russian Federation,31,70
+Salim Touahri,Poland,29,71
+Kenan Song,China,28,72
+Muslim Salikhov,Russian Federation,34,71
+Curtis Millender,United States,31,75
+Geoff Neal,United States,28,71
+Ricky Rainey,United States,35,73
+Carlo Pedersoli Jr.,Italy,25,71
+Chance Rencountre,United States,31,74
+Hector Aldana,Mexico,30,69
+David Zawada,Germany,28,72
+Alexey Kunchenko,Russian Federation,34,70
+Stefan Sekulic,Serbia,26,73
+Luigi Vendramini,Brazil,22,68
+Craig White,England,28,74
+Laureano Staropoli,Argentina,25,72
+Dwight Grant,United States,34,73
+Nate Diaz,United States,33,72
+Clay Guida,United States,37,67
+Joe Lauzon,United States,34,70
+Dong Hyun Kim,South Korea,30,71
+Jim Miller,United States,35,68
+Anthony Pettis,United States,31,70
+Ross Pearson,England,34,68
+Nik Lentz,United States,34,68
+Gray Maynard,United States,39,68
+Erik Koch,United States,30,70
+Charles Oliveira,Brazil,29,70
+Dustin Poirier,United States,29,69
+Edson Barboza,Brazil,32,71
+John Makdessi,Canada,33,68
+Tony Ferguson,United States,34,71
+Khabib Nurmagomedov,Russian Federation,30,70
+Michael Chiesa,United States,31,73
+Al Iaquinta,United States,31,67
+Francisco Trinaldo,Brazil,40,69
+Mizuto Hirota,Japan,37,67
+Jon Tuck,Guam,34,71
+Drew Dober,United States,30,68
+Abel Trujillo,United States,35,68
+Rustam Khabilov,Russian Federation,32,69
+Vinc Pichel,United States,36,70
+Leonardo Santos,Brazil,38,73
+James Krause,United States,32,74
+Conor McGregor,Ireland,30,69
+James Vick,United States,31,75
+Alan Patrick,Brazil,35,71
+Mairbek Taisumov,Russian Federation,30,69
+Beneil Dariush,Iran,29,70
+Kevin Lee,United States,26,69
+Olivier Aubin-Mercier,Canada,29,69
+Alex White,United States,30,72
+Nick Hein,Germany,34,66
+Dan Hooker,New Zealand,28,72
+Carlos Diego Ferreira,Brazil,33,68
+Gilbert Burns,Brazil,32,70
+Gregor Gillespie,United States,31,69
+Teemu Packalen,Finland,31,73
+Islam Makhachev,Russian Federation,27,70
+Magomed Mustafaev,Russian Federation,30,69
+Joseph Duffy,Ireland,30,70
+Andrew Holbrook,United States,32,71
+Scott Holtzman,United States,35,69
+Joaquim Silva,Brazil,29,68
+Alvaro Herrera,Mexico,28,72
+Chris Gruetzemacher,United States,32,68
+David Teymur,Sweden,29,69
+Thibault Gouti,France,31,70
+Damir Hadzovic,Bosnia and Herzegovina,32,71
+Darrell Horcher,United States,31,70
+Polo Reyes,Mexico,34,71
+Lando Vannata,United States,26,69
+Felipe Silva,Brazil,34,72
+Jessin Ayari,Germany,26,72
+Jason Gonzalez,United States,28,74
+Marc Diakiese,England,25,70
+Claudio Puelles,Peru,22,71
+Devin Powell,United States,30,72
+Drakkar Klose,United States,30,68
+Davi Ramos,Brazil,32,68
+Desmond Green,United States,29,70
+Jared Gordon,United States,30,69
+Justin Gaethje,United States,30,71
+Alex Reyes,United States,32,71
+Nasrat Haqparast,Germany,23,70
+Matt Frevola,United States,28,69
+Alexander Hernandez,United States,28,69
+Dan Moret,United States,32,72
+Luis Pena,United States,25,75
+John Gunther,United States,33,69
+Allan Zuniga,Costa Rica,26,67
+Michael Trizano,United States,26,71
+Christos Giagos,United States,28,70
+Te Edwards,United States,28,68
+Don Madge,South Africa,28,72
+Devonte Smith,United States,25,68
+Julian Erosa,United States,29,72
+Thiago Moises,Brazil,23,69
+Jesus Pinedo,Peru,22,70
+Roosevelt Roberts,United States,24,73
+Alex Gorgees,Australia,23,74
+Damir Ismagulov,Russian Federation,27,70
+Kyle Nelson,Canada,24,71
+Gilbert Melendez,United States,36,69
+Frankie Edgar,United States,37,66
+Cub Swanson,United States,35,67
+Jeremy Stephens,United States,32,68
+Jose Aldo,Brazil,32,67
+Ricardo Lamas,United States,36,67
+Chad Mendes,United States,33,66
+Darren Elkins,United States,34,70
+Chan Sung Jung,South Korea,31,69
+Michael Johnson,United States,32,69
+Alex Caceres,United States,30,70
+Dennis Bermudez,United States,32,66
+Max Holloway,United States,27,71
+Myles Jury,United States,30,71
+Kurt Holobaugh,United States,32,71
+Andre Fili,United States,28,71
+Zubaira Tukhugov,Russian Federation,27,68
+Mirsad Bektic,Bosnia and Herzegovina,27,68
+Chas Skelly,United States,33,71
+Ryan Hall,United States,33,70
+Brian Ortega,United States,27,68
+Charles Rosa,United States,32,69
+Gabriel Benitez,Mexico,30,68
+Yair Rodriguez,Mexico,26,71
+Doo Ho Choi,South Korea,27,70
+Renato Moicano,Brazil,29,71
+Makwan Amirkhani,Finland,30,70
+Arnold Allen,England,24,68
+Enrique Barzola,Peru,29,67
+Jason Knight,United States,26,70
+Artem Lobov,Russian Federation,32,69
+Kyle Bochniak,United States,31,67
+Josh Emmett,United States,33,67
+Jordan Rinaldi,United States,31,70
+Rick Glenn,United States,29,72
+Martin Bravo,Mexico,25,68
+Alexander Volkanovski,Australia,30,66
+Shane Burgos,United States,27,71
+Gavin Tucker,Canada,32,67
+Rolando Dy,Philippines,27,68
+Daniel Teymur,Sweden,30,67
+Danny Henry,Scotland,30,71
+Calvin Kattar,United States,30,71
+Humberto Bandenay,Peru,24,73
+Zabit Magomedsharipov,Russian Federation,27,73
+Shane Young,New Zealand,25,68
+Guan Wang,China,32,71
+Sheymon Moraes,Brazil,28,68
+Matt Bessette,United States,33,70
+Julio Arce,United States,29,67
+Dan Ige,United States,27,67
+Brandon Davis,United States,28,70
+Austin Arnett,United States,27,72
+Steven Peterson,United States,28,69
+Hakeem Dawodu,Canada,27,68
+Tyler Diamond,United States,27,67
+Bryce Mitchell,United States,24,70
+Nad Narimani,England,31,68
+Khalid Taha,Germany,26,67
+Matt Sayles,United States,24,67
+Chris Fishgold,England,26,68
+Bobby Moffett,United States,28,70
+Anderson dos Santos,Brazil,33,67
+Kevin Aguilar,United States,30,67
+Suman Mokhtarian,Australia,26,70
+Sodiq Yusuff,Nigeria,25,69
+Jordan Griffin,United States,28,70
+Eddie Wineland,United States,34,68
+Rani Yahya,Brazil,34,66
+Dominick Cruz,United States,33,68
+Bryan Caraway,United States,34,68
+Raphael Assuncao,Brazil,36,65
+Renan Barao,Brazil,31,66
+Iuri Alcantara,Brazil,38,69
+Johnny Eduardo,Brazil,38,68
+John Dodson,United States,34,63
+TJ Dillashaw,United States,32,66
+John Lineker,Brazil,28,63
+Mitch Gagnon,Canada,34,65
+Kyung Ho Kang,South Korea,31,69
+Sergio Pettis,United States,25,66
+Davey Grant,England,33,68
+Teruto Ishihara,Japan,27,67
+Douglas Silva de Andrade,Brazil,33,67
+Aljamain Sterling,United States,29,67
+Pedro Munhoz,Brazil,32,66
+Patrick Williams,United States,37,68
+Louis Smolka,United States,27,69
+Rob Font,United States,31,68
+Frankie Saenz,United States,38,66
+Thomas Almeida,Brazil,27,67
+Henry Briones,Mexico,38,67
+Guido Cannetti,Argentina,39,66
+Alejandro Perez,Mexico,29,66
+Jose Alberto Quinonez,Mexico,28,68
+Marlon Vera,Ecuador,26,68
+Cody Garbrandt,United States,27,67
+Jimmie Rivera,United States,29,64
+Luke Sanders,United States,33,67
+Matthew Lopez,United States,31,67
+Brett Johns,Wales,26,67
+Kwan Ho Kwak,South Korea,29,67
+Ricardo Ramos,Brazil,23,69
+Aiemann Zahabi,Canada,31,68
+Andre Soukhamthath,United States,30,69
+Tom Duquesnoy,France,25,67
+Brian Kelleher,United States,32,66
+Marlon Moraes,Brazil,30,66
+Cody Stamann,United States,29,66
+Terrion Ware,United States,32,68
+Bharat Kandare,India,29,67
+Cory Sandhagen,United States,26,71
+Yadong Song,China,24,66
+Wuliji Buren,China,28,68
+Sean O'Malley,United States,24,71
+Merab Dvalishvili,Georgia (country),27,66
+Benito Lopez,United States,24,70
+Manny Bermudez,United States,24,66
+Ricky Simon,United States,26,66
+Nathaniel Wood,England,25,66
+Brad Katona,Canada,27,66
+Petr Yan,Russian Federation,25,67
+Raoni Barcelos,Brazil,31,67
+Pingyuan Liu,China,25,66
+Montel Jackson,United States,26,70
+Jin Soo Son,South Korea,25,66
+Andre Ewell,United States,30,71
+Jonathan Martinez,United States,32,67
+Mudaerji Su,China,22,68
+Martin Day,United States,30,69
+Vince Morales,United States,28,67
+Chris Gutierrez,United States,27,68
+Joseph Benavidez,United States,34,64
+Tim Elliott,United States,31,67
+John Moraga,United States,34,66
+Jussier Formiga,Brazil,33,65
+Dustin Ortiz,United States,29,65
+Ryan Benoit,United States,29,65
+Ray Borg,United States,25,64
+Joby Sanchez,United States,27,66
+Wilson Reis,Brazil,33,64
+Henry Cejudo,United States,31,64
+Matheus Nicolau,Brazil,25,64
+Brandon Moreno,Mexico,25,67
+Matt Schnell,United States,28,68
+Alexandre Pantoja,Brazil,28,65
+Eric Shelton,United States,27,66
+Magomed Bibulatov,Russian Federation,30,65
+Deiveson  Figueiredo,Brazil,31,65
+Ashkan Mokhtarian,Australia,33,66
+Naoki Inoue,Japan,21,68
+Joseph Morales,United States,24,66
+Alex Perez,United States,26,64
+Mark de la Rosa,United States,24,66
+Said Nurmagomedov,Russian Federation,26,68
+Kai Kara-France,New Zealand,25,65
+Holly Holm,United States,37,68
+Cris Cyborg,Brazil,33,68
+Megan Anderson,Australia,28,72
+Leah Letson,United States,26,67
+Julija Stoliarenko,Lithuania,25,67
+Pannie Kianzad,Sweden,27,67
+Macy Chiasson,United States,27,69
+Germaine de Randamie,Netherlands,34,69
+Ronda Rousey,United States,31,67
+Cat Zingano,United States,36,66
+Sara McMann,United States,38,66
+Amanda Nunes,Brazil,30,68
+Raquel Pennington,United States,30,67
+Julianna Pena,United States,29,67
+Bethe Correia,Brazil,35,65
+Sarah Moras,Canada,30,67
+Marion Reneau,United States,41,66
+Holly Holm,United States,37,68
+Lina Lansberg,Sweden,36,67
+Ketlen Vieira,Brazil,27,68
+Irene Aldana,Mexico,30,69
+Gina Mazany,United States,30,66
+Lucie Pudilova,The Czech Republic,24,68
+Tonya Evinger,United States,37,67
+Yana Kunitskaya,Russian Federation,29,66
+Amanda Lemos,Brazil,21,64
+Talita Bernardo,Brazil,31,64
+Aspen Ladd,United States,23,66
+Liz Carmouche,United States,34,66
+Alexis Davis,Canada,34,66
+Jessica Eye,United States,32,66
+Roxanne Modafferi,United States,36,66
+Joanna Jedrzejczyk,Poland,31,66
+Lauren Murphy,United States,35,67
+Paige VanZant,United States,24,64
+Ashlee Evans-Smith,United States,31,68
+Valentina Shevchenko,Kyrgyzstan,30,65
+Justine Kish,United States,30,65
+Katlyn Chookagian,United States,29,69
+Joanne Calderwood,Scotland,31,66
+Veronica Macedo,Venezuela,23,63
+Ji Yeon Kim,South Korea,29,66
+Mara Romero Borella,Italy,32,66
+Kalindra Faria,Brazil,32,65
+Jessica-Rose Clark,Australia,31,64
+Yanan Wu,China,22,69
+Nicco Montano,United States,30,65
+Melinda Fabian,Hungary,31,66
+Montana de la Rosa,United States,23,67
+Rachael Ostovich,United States,27,63
+Shana Dobson,United States,29,66
+Gillian Robertson,Canada,23,62
+Priscila Cachoeira,Brazil,30,67
+Lauren Mueller,United States,27,65
+Andrea Lee,United States,29,66
+Molly McCann,England,28,64
+Sijara Eubanks,United States,33,64
+Jennifer Maia,Brazil,30,64
+Mayra Bueno Silva,Brazil,27,66
+Antonina Shevchenko,Kyrgyzstan,34,68
+Jessica Andrade,Brazil,27,62
+Claudia Gadelha,Brazil,30,64
+Juliana Lima,Brazil,36,65
+Nina Ansaroff,United States,33,65
+Carla Esparza,United States,31,61
+Rose Namajunas,United States,26,65
+Jessica Penne,United States,35,65
+Randa Markos,Canada,33,64
+Felice Herrig,United States,34,64
+Tecia Torres,United States,29,61
+Alex Chambers,Australia,40,63
+Angela Hill,United States,32,63
+Maryna Moroz,Ukraine,27,67
+Aleksandra Albu,Russian Federation,28,63
+Michelle Waterson,United States,32,63
+Cortney Casey,United States,31,67
+Jessica Aguilar,Mexico,36,64
+Karolina Kowalkiewicz,Poland,33,63
+Tatiana Suarez,United States,28,65
+Amanda Cooper,United States,27,63
+Alexa Grasso,Mexico,25,65
+JJ Aldrich,United States,26,65
+Ashley Yoder,United States,31,67
+Cynthia Calvillo,Mexico,31,64
+Chan-Mi Jeon,South Korea,21,65
+Syuri Kondo,Japan,29,64
+Poliana Botelho,Brazil,30,68
+Jodie Esquibel,United States,32,61
+Nadia Kassem,Australia,23,67
+Xiaonan Yan,China,29,65
+Emily Whitmire,United States,27,65
+Polyana Viana,Brazil,26,67
+Maia Stevenson,United States,36,64
+Mackenzie Dern,United States,25,63
+Weili Zhang,China,29,63
+Livia Renata Souza,Brazil,27,64
+Marina Rodriguez,Brazil,31,67
+Maycee Barber,United States,20,67
+Hannah Cifers,United States,26,61

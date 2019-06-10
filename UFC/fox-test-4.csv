@@ -1,0 +1,741 @@
+,Fighter_ID,First_Name,Nickname,Last_Name,Weight_Class,StatID,Wins,Losses,Draws,Title_Holder,Rank,P4P_Rank,Status,Link,Full_Name,Country,Age,Height,Weight,BMI,AvgFightTimeLong,AvgFightTimeShort,TakedownsLanded,TakedownDefense,TakedownAccuracy,SubmissionAttempts,SubmissionAverage,SigStrikesLanded,SigStrikesAccuracy,Knockdowns,SLpM,SApM,PlusMinus,SigStrikingDefense,TotStrikesLanded,Fights,TotStrike,StrikeAcc,HeadStrike,HeadAcc,BodyStrike,BodyAcc,LegStrike,LegAcc
+0,241895,Cris,,Cyborg,Women_Featherweight,1194,20,1,0,TRUE,C,11,Active,http://www.ufc.com/fighter/cris-cyborg,Cris Cyborg,Brazil,33,68,145,22.04476644,,,,,,,,,58.16,,6.81,,4.84,72.7,,6,335,58.20%,200,48.30%,91,79.80%,44,91.70%
+1,573335,Valentina,Bullet,Shevchenko,Women_Flyweight,2731,16,3,0,TRUE,C,,Active,http://www.ufc.com/fighter/valentina-shevchenko,Valentina Shevchenko,Kyrgyzstan,30,65,125,20.79881657,17:42,,,,,,,,,,,,,,,7,416,51.30%,259,43.80%,54,64.30%,103,76.30%
+2,490666,Henry,The Messenger,Cejudo,Flyweight,2299,13,2,0,TRUE,C,10,Active,http://www.ufc.com/fighter/henry-cejudo,Henry Cejudo,United States,31,64,125,21.45385742,,,,,,,,,,,,,,,,10,422,42.60%,222,30.80%,163,74.80%,37,69.80%
+3,231394,TJ,,Dillashaw,Bantamweight,1905,17,3,0,TRUE,C,5,Active,http://www.ufc.com/fighter/tj-dillashaw,TJ Dillashaw,United States,32,66,135,21.78719008,,,,,,,,,,,,,,,,17,1004,41.20%,686,37.20%,151,68.30%,167,76.60%
+4,235332,Max,Blessed,Holloway,Featherweight,1936,20,3,0,TRUE,C,4,Active,http://www.ufc.com/fighter/max-holloway,Max Holloway,United States,27,71,145,20.22118627,,,,,,,,1627,,,6.9,,2.87,,1773,20,1552,46.50%,1130,45.10%,329,73.10%,93,78.20%
+5,232925,Khabib,The Eagle,Nurmagomedov,Lightweight,1919,27,0,0,TRUE,C,2,Active,http://www.ufc.com/fighter/khabib-nurmagomedov,Khabib Nurmagomedov,Russian Federation,30,70,155,22.2377551,,,52,,,,,,,,,,,,,13,634,49.40%,554,48.30%,52,71.20%,28,90.30%
+6,241944,Tyron,The Chosen One,Woodley,Welterweight,1386,19,3,1,TRUE,C,7,Active,http://www.ufc.com/fighter/tyron-woodley,Tyron Woodley,United States,36,69,170,25.10186936,,,,97.6,,,,,,,,,,,,12,414,46.60%,248,31.00%,122,72.20%,44,84.60%
+7,290162,Robert,The Reaper,Whittaker,Middleweight,2037,21,4,0,TRUE,C,12,Active,http://www.ufc.com/fighter/robert-whittaker,Robert Whittaker,Australia,28,72,185,25.08777006,,,,,,,,,,,,,,,,15,721,40.30%,489,43.20%,101,58.40%,131,81.40%
+8,241888,Daniel,DC,Cormier,Heavyweight,1409,22,1,0,TRUE,C,1,Active,http://www.ufc.com/fighter/daniel-cormier,Daniel Cormier,United States,39,71,265,36.95596112,,,,,,,,,,,,,,,,14,625,51.30%,450,48.30%,99,73.90%,76,76.00%
+9,241888,Daniel,DC,Cormier,Heavyweight,1409,22,1,0,TRUE,C,1,Active,http://www.ufc.com/fighter/daniel-cormier,Daniel Cormier,United States,39,71,265,36.95596112,,,,,,,,,,,,,,,,14,625,51.30%,450,48.30%,99,73.90%,76,76.00%
+10,501827,Rose,Thug,Namajunas,Women_Strawweight,2344,9,3,0,TRUE,C,15,Active,http://www.ufc.com/fighter/rose-namajunas,Rose Namajunas,United States,26,65,115,19.13491124,,,,,,,,,,,,,,,,8,381,41.70%,291,37.30%,64,65.30%,26,76.50%
+11,242516,Amanda,The Lioness,Nunes,Women_Bantamweight,1719,16,4,0,TRUE,C,14,Active,http://www.ufc.com/fighter/amanda-nunes,Amanda Nunes,Brazil,30,68,135,20.52443772,,,,,,,,,,,,,,,,11,404,51.30%,241,43.90%,62,63.90%,101,62.70%
+12,586,Gilbert,El Niño,Melendez,Lightweight,778,22,7,0,FALSE,,,Active,http://www.ufc.com/fighter/gilbert-melendez,Gilbert Melendez,United States,36,69,155,22.88699853,,,,,,,,,,,,,,,,7,271,29.90%,210,43.40%,43,64.20%,18,62.10%
+13,1177,Court,The Crusher,McGee,Welterweight,1543,20,7,1,FALSE,,,Active,http://www.ufc.com/fighter/court-mcgee,Court McGee,United States,34,71,170,23.7075977,,,,,,,,,,,,,,,,14,893,36.20%,514,38.00%,178,51.30%,201,80.10%
+14,620099,Justin,Big Pretty,Willis,Heavyweight,2867,6,1,0,FALSE,9,,Active,http://www.ufc.com/fighter/justin-willis,Justin Willis,United States,31,75,265,33.11911111,,,,,,,,,,,,,,,,4,209,60.20%,174,57.80%,19,73.10%,16,80.00%
+15,640578,Mara,Kunoichici,Romero Borella,Women_Flyweight,3011,12,5,0,FALSE,12,,Active,http://www.ufc.com/fighter/mara-romero-borella,Mara Romero Borella,Italy,32,66,125,20.17332415,,,,,,,,,,,,,,,,3,82,38.00%,48,27.60%,3,50.00%,31,86.10%
+16,587586,JJ,,Aldrich,Women_Strawweight,2848,7,2,0,FALSE,,,Active,http://www.ufc.com/fighter/jj-aldrich,JJ Aldrich,United States,26,65,115,19.13491124,,,,,,,,,,,,,,,,4,223,39.90%,167,34.60%,33,66.00%,23,85.20%
+17,640579,Kalindra,,Faria,,3012,18,8,1,FALSE,,,Active,http://www.ufc.com/fighter/kalindra-faria,Kalindra Faria,Brazil,32,65,,,,,,,,,,,,,,,,,,3,51,56.00%,38,51.40%,9,75.00%,4,80.00%
+18,652656,Ricky,The Sniper,Rainey,Welterweight,2511,13,5,0,FALSE,,,Active,http://www.ufc.com/fighter/ricky-rainey,Ricky Rainey,United States,35,73,170,22.42634641,,,,,,,,,,,,,,,,2,25,44.60%,12,32.40%,6,75.00%,7,63.60%
+19,1180,Brad,,Tavares,Middleweight,1546,17,6,0,FALSE,10,,Active,http://www.ufc.com/fighter/brad-tavares,Brad Tavares,United States,31,73,185,24.40514168,,,,,,,,,,,,,,,,17,696,40.80%,416,37.30%,118,62.40%,162,82.70%
+20,472614,Pedro,The Young Punisher,Munhoz,Bantamweight,2191,16,3,0,FALSE,9,,Active,http://www.ufc.com/fighter/pedro-munhoz,Pedro Munhoz,Brazil,32,66,135,21.78719008,,,,,,,,,,,,,,,,11,473,42.80%,272,36.80%,86,48.60%,115,69.30%
+21,587587,Ashley,SpiderMonkey,Yoder,Women_Strawweight,2845,6,4,0,FALSE,,,Active,http://www.ufc.com/fighter/ashley-yoder,Ashley Yoder,United States,31,67,115,18.00957897,,,,,,,,,,,,,,,,4,160,35.10%,101,28.20%,44,55.00%,15,83.30%
+22,499765,Paul,The Irish Dragon,Felder,Lightweight,2316,15,4,0,FALSE,15,,Active,http://www.ufc.com/fighter/paul-felder,Paul Felder,United States,34,71,155,21.61575084,,,,,,,,,,,,,,,,13,444,43.70%,249,32.70%,97,69.30%,98,84.50%
+23,621769,Desmond,The Predator,Green,Lightweight,2872,21,8,0,FALSE,,,Active,http://www.ufc.com/fighter/desmond-green,Desmond Green,United States,29,70,155,22.2377551,,,,,,,,,,,,,,71.5,,5,241,42.30%,159,35.50%,41,57.70%,41,80.40%
+24,621780,Cynthia,,Calvillo,Women_Strawweight,2870,6,1,0,FALSE,12,,Active,http://www.ufc.com/fighter/cynthia-calvillo,Cynthia Calvillo,Mexico,31,64,115,19.73754883,,,,,,,2.6,,,,,,,,,6,177,38.60%,92,28.10%,60,73.20%,25,50.00%
+25,653083,Dan,The Hitman,Moret,Lightweight,3061,13,5,0,FALSE,,,Active,http://www.ufc.com/fighter/dan-moret,Dan Moret,United States,32,72,155,21.01948302,,,,,,,,,,,,,,,,1,20,34.50%,10,23.30%,4,44.40%,6,100.00%
+26,899,Cain,,Velasquez,Heavyweight,497,14,2,0,FALSE,,,Active,http://www.ufc.com/fighter/cain-velasquez,Cain Velasquez,United States,36,73,265,34.95871646,,,,,,,,,57.62,,6.49,,4.14,,,15,700,57.50%,526,68.40%,75,86.20%,99,88.40%
+27,226169,Alistair,The Demolition Man,Overeem,Heavyweight,808,43,17,0,FALSE,6,,Active,http://www.ufc.com/fighter/alistair-overeem,Alistair Overeem,Netherlands,38,77,265,31.42098162,,,,,,,,,73.06,,,,,,,15,442,73.10%,201,48.70%,173,85.60%,68,91.90%
+28,535498,Jessica,Jag,Aguilar,Women_Strawweight,2569,20,6,0,FALSE,,,Active,http://www.ufc.com/fighter/jessica-aguilar,Jessica Aguilar,Mexico,36,64,115,19.73754883,,,,,,,,,,,,,,,,5,264,52.20%,145,38.80%,61,83.60%,58,98.30%
+29,621781,Daniel,Daddy Long Legs,Spitz,Heavyweight,2875,6,2,0,FALSE,,,Active,http://www.ufc.com/fighter/daniel-spitz,Daniel Spitz,United States,28,79,265,29.85018427,,,,,,,,,,,,,,,,3,73,39.70%,39,28.90%,18,60.00%,16,84.20%
+30,485169,Dan,The Hangman,Hooker,Lightweight,2254,18,7,0,FALSE,14,,Active,http://www.ufc.com/fighter/dan-hooker,Dan Hooker,New Zealand,28,72,155,21.01948302,,,,,,,,,,,,,,,,11,416,43.10%,292,38.40%,58,56.90%,66,64.10%
+31,640649,Nadia,,Kassem,Women_Strawweight,2894,5,0,0,FALSE,,,Active,http://www.ufc.com/fighter/nadia-kassem,Nadia Kassem,Australia,23,67,115,18.00957897,,,,,,,,,,,,,,,,3,52,49.50%,25,38.50%,17,63.00%,10,76.90%
+32,641213,Nasrat,,Haqparast,Lightweight,3014,10,2,0,FALSE,,,Active,http://www.ufc.com/fighter/nasrat-haqparast,Nasrat Haqparast,Germany,23,70,155,22.2377551,,,,,,,,,,,,,,,,3,244,46.10%,195,42.40%,32,65.30%,17,85.00%
+33,309715,Ilir,The Sledgehammer,Latifi,Light_Heavyweight,2060,15,5,0,FALSE,5,,Active,http://www.ufc.com/fighter/ilir-latifi,Ilir Latifi,Sweden,35,70,205,29.41122449,,,,,,,,,,,,,,,,12,153,42.00%,104,48.10%,24,72.70%,25,83.30%
+34,453490,Tonya,Triple Threat,Evinger,Women_Featherweight,1200,19,7,0,FALSE,11,,Active,http://www.ufc.com/fighter/tonya-evinger,Tonya Evinger,United States,37,67,145,22.70773001,,,,,,,,,,,,,,,,2,41,40.60%,15,24.60%,15,62.50%,11,68.80%
+35,621921,Andre,The Asian Sensation ,Soukhamthath,Bantamweight,2874,13,6,0,FALSE,,,Active,http://www.ufc.com/fighter/andre-soukhamthath,Andre Soukhamthath,United States,30,69,135,19.93383743,,,,,,,,,,,,,,,,5,213,45.30%,103,30.90%,77,79.40%,33,82.50%
+36,641333,Sheymon,,Moraes,Featherweight,3017,11,2,0,FALSE,,,Active,http://www.ufc.com/fighter/sheymon-moraes,Sheymon Moraes,Brazil,28,68,145,22.04476644,,,,,,,,,,,,,,,,3,123,40.30%,60,28.20%,56,68.30%,7,70.00%
+37,904,Dong Hyun,The Stun Gun,Kim,Welterweight,455,22,4,1,FALSE,,,Active,http://www.ufc.com/fighter/dong-hyun-kim,Dong Hyun Kim,South Korea,37,73,170,22.42634641,,,,,,,,,,,,,,,,20,424,49.00%,327,45.70%,44,77.20%,53,77.90%
+38,904,Dong Hyun,The Stun Gun,Kim,Welterweight,455,22,4,1,FALSE,,,Active,http://www.ufc.com/fighter/dong-hyun-kim,Dong Hyun Kim,South Korea,37,73,170,22.42634641,,,,,,,,,,,,,,,,5,203,45.70%,143,39.70%,28,57.10%,32,91.40%
+39,904,Dong Hyun,The Stun Gun,Kim,Welterweight,455,22,4,1,FALSE,,,Active,http://www.ufc.com/fighter/dong-hyun-kim,Dong Hyun Kim,South Korea,30,71,170,23.7075977,,,,,,,,,,,,,,,,20,424,49.00%,327,45.70%,44,77.20%,53,77.90%
+40,904,Dong Hyun,The Stun Gun,Kim,Welterweight,455,22,4,1,FALSE,,,Active,http://www.ufc.com/fighter/dong-hyun-kim,Dong Hyun Kim,South Korea,30,71,170,23.7075977,,,,,,,,,,,,,,,,5,203,45.70%,143,39.70%,28,57.10%,32,91.40%
+41,570694,Dong Hyun,The Maestro,Kim,Lightweight,2709,16,8,3,FALSE,,,Active,http://www.ufc.com/fighter/dong-hyun-the-mestro-kim,Dong Hyun Kim,South Korea,37,73,155,20.44755114,,,,,,,,,,,,,,,,20,424,49.00%,327,45.70%,44,77.20%,53,77.90%
+42,570694,Dong Hyun,The Maestro,Kim,Lightweight,2709,16,8,3,FALSE,,,Active,http://www.ufc.com/fighter/dong-hyun-the-mestro-kim,Dong Hyun Kim,South Korea,37,73,155,20.44755114,,,,,,,,,,,,,,,,5,203,45.70%,143,39.70%,28,57.10%,32,91.40%
+43,570694,Dong Hyun,The Maestro,Kim,Lightweight,2709,16,8,3,FALSE,,,Active,http://www.ufc.com/fighter/dong-hyun-the-mestro-kim,Dong Hyun Kim,South Korea,30,71,155,21.61575084,,,,,,,,,,,,,,,,20,424,49.00%,327,45.70%,44,77.20%,53,77.90%
+44,570694,Dong Hyun,The Maestro,Kim,Lightweight,2709,16,8,3,FALSE,,,Active,http://www.ufc.com/fighter/dong-hyun-the-mestro-kim,Dong Hyun Kim,South Korea,30,71,155,21.61575084,,,,,,,,,,,,,,,,5,203,45.70%,143,39.70%,28,57.10%,32,91.40%
+45,641432,Michal,Lord,Oleksiejczuk,Light_Heavyweight,3016,13,2,0,FALSE,,,Active,http://www.ufc.com/fighter/michael-oleksiejczuk,Michal Oleksiejczuk,Poland,23,72,205,27.79996142,,,,,,,,,,,,,,,,1,76,58.50%,40,44.90%,29,87.90%,7,87.50%
+46,653900,Nathaniel,The Prospect,Wood,Bantamweight,3062,14,3,0,FALSE,,,Active,http://www.ufc.com/fighter/nathaniel-wood,Nathaniel Wood,England,25,66,135,21.78719008,,,,,,,,,,,,,,,,2,33,34.00%,20,27.40%,3,42.90%,10,58.80%
+47,589459,Luan,Tarzan,Chagas,Welterweight,2772,15,2,1,FALSE,,,Active,http://www.ufc.com/fighter/luan-chagas,Luan Chagas,Brazil,25,71,170,23.7075977,,,,,,,,,,,,,,,,5,193,47.10%,129,41.00%,23,48.90%,41,85.40%
+48,641486,Salim,Grizzly,Touahri,Welterweight,3019,10,2,0,FALSE,,,Active,http://www.ufc.com/fighter/salim-touahri,Salim Touahri,Poland,29,71,170,23.7075977,,,,,,,,,,,,,,,,3,69,45.10%,26,28.60%,38,66.70%,5,100.00%
+49,589584,Josh,,Emmett,Featherweight,2773,13,2,0,FALSE,9,,Active,http://www.ufc.com/fighter/josh-emmett,Josh Emmett,United States,33,67,145,22.70773001,,,,,,,,,,,,,,,,7,277,37.30%,153,26.60%,67,67.00%,57,85.10%
+50,500044,Holly,The Preacher's Daughter,Holm,Women_Featherweight,2317,12,4,0,FALSE,2,,Active,http://www.ufc.com/fighter/holly-holm,Holly Holm,United States,37,68,145,22.04476644,17:51,,,,,,,,,,,,,,,9,453,34.10%,216,23.00%,128,59.80%,109,63.40%
+51,500044,Holly,The Preacher's Daughter,Holm,Women_Featherweight,2317,12,4,0,FALSE,2,,Active,http://www.ufc.com/fighter/holly-holm,Holly Holm,United States,37,68,145,22.04476644,17:51,,,,,,,,,,,,,,,9,453,34.10%,216,23.00%,128,59.80%,109,63.40%
+52,654154,Don,Magic Man,Madge,Lightweight,3063,8,1,0,FALSE,,,Active,http://www.ufc.com/fighter/don-madge,Don Madge,South Africa,28,72,155,21.01948302,,,,,,,,,,,,,,,,1,21,67.70%,14,60.90%,6,85.70%,1,100.00%
+53,15,Andrei,The Pit Bull,Arlovski,Heavyweight,367,27,17,0,FALSE,13,,Active,http://www.ufc.com/fighter/andrei-arlovski,Andrei Arlovski,Belarus,39,75,265,33.11911111,,,,,,,,,,,,,,,,28,705,41.50%,407,31.70%,117,69.60%,181,73.60%
+54,464235,Ryan,Baby Face,Benoit,Flyweight,2134,10,5,0,FALSE,13,,Active,http://www.ufc.com/fighter/ryan-benoit,Ryan Benoit,United States,29,65,125,20.79881657,,,,,,,,,,,,,,,,7,146,36.20%,117,36.00%,18,54.50%,11,55.00%
+55,535918,Arnold,Almighty,Allen,Featherweight,2570,13,1,0,FALSE,,,Active,http://www.ufc.com/fighter/arnold-allen,Arnold Allen,England,24,68,145,22.04476644,,,,,,,,,,,,,,,,6,115,33.80%,88,30.10%,21,55.30%,6,60.00%
+56,654330,Said,,Nurmagomedov,Flyweight,3066,11,1,0,FALSE,12,,Active,http://www.ufc.com/fighter/said-nurmagomedov,Said Nurmagomedov,Russian Federation,26,68,125,19.004109,,,,,,,,,,,,,,,,2,65,57.50%,40,48.20%,13,81.30%,12,85.70%
+57,660910,David,Sagat,Zawada,Welterweight,3159,16,4,0,FALSE,,,Active,http://www.ufc.com/fighter/david-zawada,David Zawada,Germany,28,72,170,23.05362654,,,,,,,,,,,,,,,,2,106,42.70%,73,34.80%,29,85.30%,4,100.00%
+58,623083,Davi,Tasmanian Devil,Ramos,Lightweight,2877,8,2,0,FALSE,,,Active,http://www.ufc.com/fighter/davi-ramos,Davi Ramos,Brazil,32,68,155,23.56509516,,,,,,,,,,,,,,,,4,100,38.00%,78,34.40%,13,50.00%,9,90.00%
+59,654331,Jennifer,,Maia,Women_Flyweight,3065,15,5,1,FALSE,14,,Active,http://www.ufc.com/fighter/jennifer-maia,Jennifer Maia,Brazil,30,64,125,21.45385742,,,,,,,,,,,,,,,,1,42,40.40%,19,26.40%,14,60.90%,9,100.00%
+60,453503,Sarah,Cheesecake,Moras,Women_Bantamweight,2240,5,5,0,FALSE,,,Active,http://www.ufc.com/fighter/sarah-moras,Sarah Moras,Canada,30,67,135,21.14167966,,,,,,,,,,,,,,,,6,116,37.20%,99,34.60%,10,58.80%,7,77.80%
+61,911,Jose,,Aldo,Featherweight,1052,27,4,0,FALSE,2,,Active,http://www.ufc.com/fighter/jose-aldo,Jose Aldo,Brazil,32,67,145,22.70773001,17:08,,,90.6,,,,,,,,,,,,14,680,42.10%,510,45.90%,85,61.60%,85,85.90%
+62,266905,Marcelo,,Guimaraes,Middleweight,1989,9,2,1,FALSE,,,Active,http://www.ufc.com/fighter/marcelo-guimaraes,Marcelo Guimaraes,Brazil,35,72,185,25.08777006,,,,,,,,,,,,,,,,4,211,52.00%,63,31.00%,36,64.30%,112,87.50%
+63,514567,Renato,,Moicano,Featherweight,2375,12,1,1,FALSE,4,,Active,http://www.ufc.com/fighter/renato-moicano,Renato Moicano,Brazil,29,71,145,20.22118627,,,,,,,,,,,,,,,,9,404,46.90%,258,38.30%,40,60.60%,106,86.90%
+64,453508,Gina,Danger,Mazany,Women_Bantamweight,2866,5,2,0,FALSE,,,Active,http://www.ufc.com/fighter/gina-mazany,Gina Mazany,United States,30,66,135,21.78719008,,,,,,,,,,,,,,,,3,76,48.70%,33,33.30%,29,74.40%,14,77.80%
+65,591269,Jordan,,Rinaldi,Featherweight,2774,14,6,0,FALSE,,,Active,http://www.ufc.com/fighter/jordan-rinaldi,Jordan Rinaldi,United States,31,70,145,20.80306122,,,,,,,,,,,,,,,,5,51,40.50%,34,35.10%,5,35.70%,12,80.00%
+66,654789,Darko,,Stosic,Light_Heavyweight,3067,13,1,0,FALSE,,,Active,http://www.ufc.com/fighter/darko-stosic,Darko Stosic,Serbia,26,72,205,27.79996142,,,,,,,,,,,,,,,,2,9,56.30%,8,66.70%,0,0.00%,1,50.00%
+67,453509,Roxanne,The Happy Warrior,Modafferi,Women_Flyweight,1430,23,15,0,FALSE,7,,Active,http://www.ufc.com/fighter/roxanne-modafferi,Roxanne Modafferi,United States,36,66,125,20.17332415,,,,,,,,,,,,,,,,4,253,29.90%,211,32.90%,25,49.00%,17,81.00%
+68,623650,Lucie,,Pudilova,Women_Bantamweight,2879,8,2,0,FALSE,14,,Active,http://www.ufc.com/fighter/lucie-pudilova,Lucie Pudilova,The Czech Republic,24,68,135,20.52443772,,,,,,,,,,,,,,,,5,332,39.70%,270,36.50%,40,64.50%,22,64.70%
+69,654846,Hector,El Charro,Aldana,Welterweight,3069,4,1,0,FALSE,,,Active,http://www.ufc.com/fighter/hector-aldana,Hector Aldana,Mexico,30,69,170,25.10186936,,,,,,,,,,,,,,,,2,108,41.50%,62,31.80%,13,59.10%,33,76.70%
+70,623818,Magomed,Chaborz,Bibulatov,Flyweight,2880,14,1,0,FALSE,11,,Active,http://www.ufc.com/fighter/magomed-bibulatov,Magomed Bibulatov,Russian Federation,30,65,125,20.79881657,,,,,,,,,,,,,,,,3,56,44.80%,38,40.00%,12,54.50%,6,75.00%
+71,641626,Marcelo,,Golm,Heavyweight,3013,6,2,0,FALSE,,,Active,http://www.ufc.com/fighter/marcelo-golm,Marcelo Golm,Brazil,26,75,265,33.11911111,,,,,,,,,,,,,,,,3,137,60.10%,89,50.90%,24,85.70%,24,96.00%
+72,654847,Petr,No Mercy,Yan,Bantamweight,3068,10,1,0,FALSE,,,Active,http://www.ufc.com/fighter/Petr-Yan,Petr Yan,Russian Federation,25,67,135,21.14167966,,,,,,,,,,,,,,,,3,125,46.00%,105,42.30%,17,81.00%,3,100.00%
+73,453512,Raquel,Rocky,Pennington,Women_Bantamweight,2150,9,8,0,FALSE,4,,Active,http://www.ufc.com/fighter/raquel-pennington,Raquel Pennington,United States,30,67,135,21.14167966,,,,,,,,,,,,,,,,10,487,47.40%,308,45.80%,112,76.20%,67,85.90%
+74,641628,Raoni,,Barcelos,Featherweight,3018,12,1,0,FALSE,,,Active,http://www.ufc.com/fighter/raoni-barcelos,Raoni Barcelos,Brazil,31,67,145,22.70773001,,,,,,,,,,,,,,,,2,117,56.00%,109,55.10%,5,71.40%,3,75.00%
+75,654933,Kevin,Trailblazer,Holland,Middleweight,3086,13,4,0,FALSE,,,Active,http://www.ufc.com/fighter/kevin-holland,Kevin Holland,United States,26,75,185,23.12088889,,,,,,,,,,,,,,,,2,154,63.60%,94,56.00%,39,76.50%,21,91.30%
+76,464450,Mairbek,Beckan,Taisumov,Lightweight,2144,27,5,0,FALSE,,,Active,http://www.ufc.com/fighter/mairbek-taisumov,Mairbek Taisumov,Russian Federation,30,69,155,22.88699853,,,,,,,,,,,,,,,,12,182,41.80%,105,41.00%,34,54.00%,43,82.70%
+77,592624,Jack,The Joker,Hermansson,Middleweight,2775,17,4,0,FALSE,,,Active,http://www.ufc.com/fighter/jack-hermansson,Jack Hermansson,Sweden,30,73,185,24.40514168,,,,,,,,,,,,,3.15,,,8,244,56.60%,166,52.70%,31,68.90%,47,66.20%
+78,654935,Montel,Quik,Jackson,Bantamweight,3082,6,0,0,FALSE,,,Active,http://www.ufc.com/fighter/montel-jackson,Montel Jackson,United States,26,70,135,19.36836735,,,,,,,,,,,,,,,,2,42,44.70%,27,35.50%,13,86.70%,2,66.70%
+79,231392,Dennis,The Menace,Bermudez,Featherweight,1907,17,9,0,FALSE,,,Active,http://www.ufc.com/fighter/dennis-bermudez,Dennis Bermudez,United States,32,66,145,23.40105601,,,,,,,,,,,,,,,,16,734,47.80%,494,49.10%,105,63.30%,135,88.20%
+80,453765,Wilson,,Reis,Flyweight,2095,22,9,0,FALSE,6,,Active,http://www.ufc.com/fighter/wilson-reis,Wilson Reis,Brazil,33,64,125,21.45385742,,,,,,,,,,,,,,,,12,270,29.60%,152,21.90%,35,50.70%,83,83.00%
+81,661593,Bobby,The Wolfman,Moffett,Featherweight,3155,14,3,0,FALSE,,,Active,http://www.ufc.com/fighter/bobby-moffett,Bobby Moffett,United States,28,70,145,20.80306122,,,,,,,,,,,,,,,,1,20,35.70%,13,27.70%,1,50.00%,6,85.70%
+82,473164,Patrick,Durkin,Cummins,Light_Heavyweight,1694,10,6,0,FALSE,,,Active,http://www.ufc.com/fighter/patrick-cummins,Patrick Cummins,United States,38,74,205,26.31756757,,,,,,,,,,,,,,,,14,476,50.20%,388,45.40%,51,76.10%,37,82.20%
+83,231395,John,The Magician,Dodson,Bantamweight,1904,21,10,0,FALSE,8,,Active,http://www.ufc.com/fighter/john-dodson,John Dodson,United States,34,63,135,23.91156463,,,,,,,,,,,,,,,,14,646,40.80%,354,30.80%,201,77.00%,91,89.20%
+84,593837,Jessin,,Ayari,Welterweight,2776,16,5,0,FALSE,,,Active,http://www.ufc.com/fighter/jessin-ayari,Jessin Ayari,Germany,26,72,170,23.05362654,,,,,,,,,,,,,,,,3,161,38.20%,118,32.70%,20,58.80%,23,85.20%
+85,231402,Bryan,Kid Lightning,Caraway,Bantamweight,1184,21,9,0,FALSE,,,Active,http://www.ufc.com/fighter/bryan-caraway,Bryan Caraway,United States,34,68,135,20.52443772,,,,,,,,,,,,,,,,11,309,34.50%,248,35.10%,32,61.50%,29,78.40%
+86,310600,Derrick,The Black Beast,Lewis,Heavyweight,2082,21,6,0,FALSE,2,,Active,http://www.ufc.com/fighter/derrick-lewis,Derrick Lewis,United States,33,75,265,33.11911111,,,,,,,,,,,,,,,,16,419,51.00%,332,47.40%,66,72.50%,21,70.00%
+87,486125,Rob,,Font,Bantamweight,2266,15,4,0,FALSE,10,,Active,http://www.ufc.com/fighter/rob-font,Rob Font,United States,31,68,135,20.52443772,,,,,,,,,,,,,,,,9,402,40.50%,282,34.00%,84,71.20%,36,78.30%
+88,501693,Joanne,JoJo,Calderwood,Women_Flyweight,2339,12,3,0,FALSE,10,,Active,http://www.ufc.com/fighter/joanne-calderwood,Joanne Calderwood,Scotland,31,66,125,20.17332415,,,,,,,,,,,,,,,,10,406,50.60%,185,38.30%,86,60.10%,135,76.30%
+89,624468,Ashkan,The Assassin ,Mokhtarian,Flyweight,2883,13,3,0,FALSE,,,Active,http://www.ufc.com/fighter/ashkan-mokhtarian,Ashkan Mokhtarian,Australia,33,66,125,20.17332415,,,,,,,,,,,,,,,,4,54,43.50%,22,26.80%,13,65.00%,19,86.40%
+90,661596,Devonte,King Kage,Smith,Lightweight,3153,9,1,0,FALSE,,,Active,http://www.ufc.com/fighter/devonte-smith,Devonte Smith,United States,25,68,155,23.56509516,,,,,,,,,,,,,,,,1,13,68.40%,9,60.00%,2,100.00%,2,100.00%
+91,501694,Alex,Astro Girl,Chambers,Women_Strawweight,2346,5,5,0,FALSE,,,Active,http://www.ufc.com/fighter/alex-chambers,Alex Chambers,Australia,40,63,115,20.36911061,,,,,,,,,,,,,,,,5,135,54.00%,78,48.10%,29,69.00%,28,60.90%
+92,536796,Lyman,Cyborg,Good,Welterweight,2584,20,4,0,FALSE,,,Active,http://www.ufc.com/fighter/lyman-good,Lyman Good,United States,33,72,170,23.05362654,,,,,,,,,,,,,,,,6,144,49.10%,108,43.20%,24,82.80%,12,85.70%
+93,593993,Belal,Remember The Name,Muhammad,Welterweight,2778,14,2,0,FALSE,,,Active,http://www.ufc.com/fighter/belal-muhammad,Belal Muhammad,United States,30,70,170,24.38979592,,,,,,,,,,,,,,,,9,420,43.30%,298,36.60%,43,66.20%,79,85.90%
+94,624585,Tom,Fire Kid,Duquesnoy,Bantamweight,2882,15,2,0,FALSE,,,Active,http://www.ufc.com/fighter/tom-duquesnoy,Tom Duquesnoy,France,25,67,135,21.14167966,,,,,,,,,,,,,,,,4,136,45.30%,66,31.00%,30,65.20%,40,97.60%
+95,924,CB,The Doberman,Dollaway,Middleweight,507,18,10,0,FALSE,,,Active,http://www.ufc.com/fighter/cb-dollaway,CB Dollaway,United States,35,74,185,23.75,,,,,,,,,,,,,,,,20,436,47.50%,288,45.00%,92,68.10%,56,86.20%
+96,537071,Andrew,,Holbrook,Lightweight,2585,12,2,0,FALSE,,,Active,http://www.ufc.com/fighter/andrew-holbrook,Andrew Holbrook,United States,32,71,155,21.61575084,,,,,,,2.12,,,,,,,,,6,78,49.40%,47,40.90%,23,69.70%,8,80.00%
+97,594162,Devin,Brown Bear,Clark,Light_Heavyweight,2780,9,2,0,FALSE,,,Active,http://www.ufc.com/fighter/devin-clark,Devin Clark,United States,28,72,205,27.79996142,,,,,,,,,,,,,,,,6,213,58.20%,135,50.40%,43,75.40%,35,85.40%
+98,454212,Alan,Nuguette,Patrick,Lightweight,2101,15,2,0,FALSE,,,Active,http://www.ufc.com/fighter/alan-patrick,Alan Patrick,Brazil,35,71,155,21.61575084,,,,,,,,,,,,,,,,8,158,43.30%,107,47.10%,32,51.60%,19,82.60%
+99,594164,Matthew,,Lopez,Bantamweight,2781,10,4,0,FALSE,,,Active,http://www.ufc.com/fighter/matthew-lopez,Matthew Lopez,United States,31,67,135,21.14167966,,,,,,,,,,,,,,,,6,212,51.00%,141,43.80%,48,69.60%,23,92.00%
+100,654962,Blagoy,Baga,Ivanov,Heavyweight,3070,16,2,1,FALSE,15,,Active,http://www.ufc.com/fighter/blagoy-ivanov,Blagoy Ivanov,Bulgaria,32,71,265,36.95596112,,,,,,,,,,,,,,,,1,51,22.30%,40,18.80%,10,66.70%,1,100.00%
+101,927,Matt,The Immortal,Brown,Welterweight,432,23,16,0,FALSE,,,Active,http://www.ufc.com/fighter/matt-brown,Matt Brown,United States,37,72,170,23.05362654,,,,,,,,,,,,,,,,27,829,54.00%,516,43.20%,237,80.60%,76,70.40%
+102,537552,Jimmie,El Terror,Rivera,Bantamweight,2589,21,2,0,FALSE,5,,Active,http://www.ufc.com/fighter/jimmie-rivera,Jimmie Rivera,United States,29,64,135,23.17016602,,,,,,,,,,,,,,,,8,342,42.20%,184,31.50%,75,57.70%,83,87.40%
+103,625980,Naoki,,Inoue,Flyweight,2885,11,0,0,FALSE,,,Active,http://www.ufc.com/fighter/naoki-inoue,Naoki Inoue,Japan,21,68,125,19.004109,,,,,,,,,,,,,,,,2,110,35.30%,82,30.70%,4,57.10%,24,63.20%
+104,501701,Carla,Cookie Monster,Esparza,Women_Strawweight,2338,14,6,0,FALSE,9,,Active,http://www.ufc.com/fighter/Carla-Esparza,Carla Esparza,United States,31,61,115,21.72668637,,,,,,,,,,,,,,,,8,243,38.40%,177,32.70%,37,72.50%,29,72.50%
+105,626218,Marlon,Magic,Moraes,Bantamweight,2887,21,5,1,FALSE,4,,Active,http://www.ufc.com/fighter/marlon-moraes,Marlon Moraes,Brazil,30,66,135,21.78719008,,,,,,,,,,,,,,,,5,103,33.90%,48,21.20%,30,68.20%,25,73.50%
+106,486257,Gilbert,Durinho,Burns,Lightweight,2288,14,3,0,FALSE,,,Active,http://www.ufc.com/fighter/gilbert-burns,Gilbert Burns,Brazil,32,70,155,22.2377551,,,,,,,,,,,,,,,,11,317,41.90%,196,32.90%,77,75.50%,44,74.60%
+107,501702,Felice,Lil Bulldog,Herrig,Women_Strawweight,2343,14,8,0,FALSE,10,,Active,http://www.ufc.com/fighter/felice-herrig,Felice Herrig,United States,34,64,115,19.73754883,,,,,,,,,,,,,,,,8,369,36.60%,225,28.80%,103,65.20%,41,59.40%
+108,626441,Jared,Flash,Gordon,Lightweight,2890,14,2,0,FALSE,,,Active,http://www.ufc.com/fighter/jared-gordon,Jared Gordon,United States,30,69,155,22.88699853,,,,,,,,,,,,,,,,4,292,53.90%,248,52.10%,24,58.50%,20,80.00%
+109,641981,Merab,,Dvalishvili,Bantamweight,3020,8,3,0,FALSE,,,Active,http://www.ufc.com/fighter/merab-dvalishvili,Merab Dvalishvili,Georgia (country),27,66,135,21.78719008,,,,,,,,,,,,,,,,3,170,34.50%,127,29.40%,23,63.90%,20,80.00%
+110,642113,Muslim,King of Kung Fu,Salikhov,Welterweight,3021,14,2,0,FALSE,,,Active,http://www.ufc.com/fighter/muslim-salikhov,Muslim Salikhov,Russian Federation,34,71,170,23.7075977,,,,,,,,,,,,,,,,2,35,46.70%,14,29.20%,11,68.80%,10,90.90%
+111,269255,Myles,Fury,Jury,Featherweight,1974,17,3,0,FALSE,,,Active,http://www.ufc.com/fighter/myles-jury,Myles Jury,United States,30,71,145,20.22118627,,,,,,,,,,,,1.48,,71.4,,13,251,40.20%,177,51.60%,27,46.60%,47,62.70%
+112,595768,Marvin,The Italian Dream,Vettori,Middleweight,2783,12,4,1,FALSE,,,Active,http://www.ufc.com/fighter/marvin-vettori,Marvin Vettori,Italy,25,72,185,25.08777006,,,,,,,,,,,,,,,,5,220,39.30%,157,32.40%,25,78.10%,38,86.40%
+113,627511,Luke,The Jedi,Jumeau,Welterweight,2891,13,4,0,FALSE,,,Active,http://www.ufc.com/fighter/luke-jumeau,Luke Jumeau,New Zealand,30,71,170,23.7075977,,,,,,,,,,,,,,,,3,152,49.40%,91,39.70%,27,62.80%,34,94.40%
+114,232026,Siyar,The Great,Bahadurzada,Welterweight,1902,23,6,1,FALSE,,,Active,http://www.ufc.com/fighter/siyar-bahadurzada,Siyar Bahadurzada,Netherlands,34,71,170,23.7075977,,,,,,,,,,,,,,,,8,212,49.20%,151,49.50%,48,78.70%,13,65.00%
+115,501819,Angela,Overkill,Hill,Women_Strawweight,2352,8,5,0,FALSE,,,Active,http://www.ufc.com/fighter/angela-hill,Angela Hill,United States,32,63,115,20.36911061,,,,,,,,,,,,,,,,8,624,51.20%,369,41.80%,148,68.50%,107,88.40%
+116,538284,Teemu,Pacu,Packalen,Lightweight,2604,8,2,0,FALSE,,,Active,http://www.ufc.com/fighter/teemu-packalen,Teemu Packalen,Finland,31,73,155,20.44755114,,,,,,,,,,,,,,,,4,42,57.50%,34,52.30%,7,100.00%,1,100.00%
+117,595807,Lando,Groovy,Vannata,Lightweight,2784,9,3,2,FALSE,,,Active,http://www.ufc.com/fighter/landon-vannata,Lando Vannata,United States,26,69,155,22.88699853,,,,,,,,,,,,,,,,6,347,42.70%,188,33.00%,79,56.80%,80,76.90%
+118,627678,Rashad,Daywalker,Coulter,Heavyweight,2470,8,4,0,FALSE,,,Active,http://www.ufc.com/fighter/rashad-coulter,Rashad Coulter,United States,37,71,265,36.95596112,,,,,,,,,,,,,,,,4,174,55.10%,140,49.80%,26,96.30%,8,100.00%
+119,501823,Justine,,Kish,Women_Flyweight,2697,6,2,0,FALSE,,,Active,http://www.ufc.com/fighter/justine-kish,Justine Kish,United States,30,65,125,20.79881657,,,,,,,,,,,,,,,,5,259,50.10%,133,39.50%,61,65.60%,65,74.70%
+120,538698,Cortney,Cast Iron,Casey,Women_Strawweight,2603,8,5,0,FALSE,11,,Active,http://www.ufc.com/fighter/cortney-casey,Cortney Casey,United States,31,67,115,18.00957897,,,,,,,,,,,,,,,,10,538,38.20%,384,32.00%,55,58.50%,99,86.80%
+121,655522,Craig,The Thundercat,White,Welterweight,3071,14,9,0,FALSE,,,Active,http://www.ufc.com/fighter/craig-white,Craig White,England,28,74,170,21.82432432,,,,,,,,,,,,,,,,2,24,40.70%,17,34.70%,4,80.00%,3,60.00%
+122,501825,Randa,Quiet Storm,Markos,Women_Strawweight,2350,8,7,1,FALSE,14,,Active,http://www.ufc.com/fighter/randa-markos,Randa Markos,Canada,33,64,115,19.73754883,,,,,,,,,,,,,,,,10,407,41.10%,323,36.60%,33,70.20%,51,83.60%
+123,310,Nick,,Diaz,Middleweight,506,26,10,0,FALSE,,,Active,http://www.ufc.com/fighter/nick-diaz,Nick Diaz,United States,35,72,185,25.08777006,,,,,,,,,,,,,,,,14,722,41.20%,491,37.00%,176,67.20%,55,57.90%
+124,311758,Michel,Tractor,Prazeres,Welterweight,2074,25,2,0,FALSE,,,Active,http://www.ufc.com/fighter/michel-prazeres,Michel Prazeres,Brazil,37,68,170,25.84558824,,,,,,,,,,,,,,,,12,386,47.40%,261,40.80%,61,59.80%,64,81.00%
+125,661962,Andre,,Ewell,Bantamweight,3161,14,4,0,FALSE,,,Active,http://www.ufc.com/fighter/andre-ewell,Andre Ewell,United States,30,71,135,18.8266217,,,,,,,,,,,,,,,,2,53,43.10%,41,39.40%,11,68.80%,1,33.30%
+126,473935,Nick,Sergeant,Hein,Lightweight,2207,14,4,0,FALSE,,,Active,http://www.ufc.com/fighter/nick-hein,Nick Hein,Germany,34,66,155,25.01492195,,,,,,,,,,,,,,,,9,239,33.80%,168,28.20%,39,53.40%,32,80.00%
+127,501830,Jessica,,Penne,Women_Strawweight,2341,12,6,0,FALSE,,,Active,http://www.ufc.com/fighter/jessica-penne,Jessica Penne,United States,35,65,115,19.13491124,,,,,,,,,,,,,,,,6,160,35.20%,91,26.10%,56,62.90%,13,72.20%
+128,627823,Aspen,,Ladd,Women_Bantamweight,2893,7,0,0,FALSE,7,,Active,http://www.ufc.com/fighter/aspen-ladd,Aspen Ladd,United States,23,66,135,21.78719008,,,,,,,,,,,,,,,,2,76,57.10%,62,53.40%,14,82.40%,0,-
+129,655582,Molly,Meatball,McCann,Women_Flyweight,3064,7,2,0,FALSE,,,Active,http://www.ufc.com/fighter/molly-mccann,Molly McCann,England,28,64,125,21.45385742,,,,,,,,,,,,,,,,1,10,30.30%,10,31.30%,0,0.00%,0,-
+130,661963,Adam,Boroda,Yandiev,Middleweight,3160,9,1,0,FALSE,,,Active,http://www.ufc.com/fighter/Adam-Yandiev,Adam Yandiev,Russian Federation,30,71,185,25.79944455,,,,,,,,,,,,,,,,1,1,8.30%,0,0.00%,0,0.00%,1,100.00%
+131,945,Jon,Bones,Jones,Light_Heavyweight,549,23,1,0,FALSE,1,3,Active,http://www.ufc.com/fighter/jon-jones,Jon Jones,United States,31,76,205,24.95065789,,,,95,,,,,,,,,,,,20,1116,55.80%,574,45.60%,263,74.10%,279,72.50%
+132,269482,James,The Texecutioner,Vick,Lightweight,1984,13,2,0,FALSE,11,,Active,http://www.ufc.com/fighter/james-vick,James Vick,United States,31,75,155,19.37155556,,,,,,,,,,,,,,,,12,395,38.60%,256,31.70%,99,61.50%,40,72.70%
+133,515764,CM,,Punk,Welterweight,2796,0,2,0,FALSE,,,Active,http://www.ufc.com/fighter/cm-punk,CM Punk,United States,40,74,170,21.82432432,,,,,,,,,,,,,,,,2,19,23.20%,10,15.60%,7,53.80%,2,40.00%
+134,628288,Justin,The Highlight,Gaethje,Lightweight,2896,19,2,0,FALSE,7,,Active,http://www.ufc.com/fighter/justin-gaethje,Justin Gaethje,United States,30,71,155,21.61575084,,,,,,,,,,,,,,,,4,348,54.50%,190,41.80%,33,82.50%,125,87.40%
+135,269485,Al,Raging,Iaquinta,Lightweight,1983,13,4,1,FALSE,4,,Active,http://www.ufc.com/fighter/al-iaquinta,Al Iaquinta,United States,31,67,155,24.27378035,,,,,,,,,,,,,,,,14,637,41.40%,446,45.50%,112,62.20%,79,91.90%
+136,501836,Tecia,The Tiny Tornado,Torres,Women_Strawweight,2340,10,3,0,FALSE,7,,Active,http://www.ufc.com/fighter/tecia-torres,Tecia Torres,United States,29,61,115,21.72668637,,,,,,,,,,,,,,,,10,559,48.90%,345,40.30%,106,68.40%,108,82.40%
+137,269498,Vinc,From Hell,Pichel,Lightweight,1986,11,2,0,FALSE,,,Active,http://www.ufc.com/fighter/vinc-pichel,Vinc Pichel,United States,36,70,155,22.2377551,,,,,63,,,,,,,,,,,6,187,42.10%,85,27.70%,39,78.00%,63,76.80%
+138,269499,Michael,Maverick,Chiesa,Lightweight,1985,14,4,0,FALSE,9,,Active,http://www.ufc.com/fighter/michael-chiesa,Michael Chiesa,United States,31,73,155,20.44755114,,,,,,,,,,,,,,,,13,193,37.90%,132,31.70%,42,76.40%,19,90.50%
+139,596663,Katlyn,Blonde Fighter,Chookagian,Women_Flyweight,2785,11,1,0,FALSE,3,,Active,http://www.ufc.com/fighter/katlyn-chookagian,Katlyn Chookagian,United States,29,69,125,18.45725688,,,,,,,,,,,,,,,,6,367,31.00%,223,22.90%,80,60.20%,64,84.20%
+140,662432,Marina,,Rodriguez,Women_Strawweight,3168,10,0,1,FALSE,,,Active,http://www.ufc.com/fighter/Marina-Rodriguez,Marina Rodriguez,Brazil,31,67,115,18.00957897,,,,,,,,,,,,,,,,2,60,42.30%,26,26.30%,13,72.20%,21,84.00%
+141,312928,Nikita,The Miner,Krylov,Light_Heavyweight,2076,24,6,0,FALSE,15,,Active,http://www.ufc.com/fighter/nikita-krylov,Nikita Krylov,Ukraine,26,72,205,27.79996142,,4:51,,,,,,,58.91,,,,2.97,,,10,271,58.90%,174,42.50%,60,63.80%,37,75.50%
+142,643289,Tai,Bam Bam,Tuivasa,Heavyweight,3015,10,0,0,FALSE,11,,Active,http://www.ufc.com/fighter/tai-tuivasa,Tai Tuivasa,Australia,25,74,265,34.02027027,,,,,,,,,,,,,,,,4,130,52.20%,91,44.80%,27,87.10%,12,80.00%
+143,596985,Justin,El Blanco,Ledet,Heavyweight,2788,9,1,0,FALSE,,,Active,http://www.ufc.com/fighter/justin-ledet,Justin Ledet,United States,30,76,265,32.25328947,,,,,,,,,,,,,,,,5,164,41.70%,161,41.60%,3,75.00%,0,0.00%
+144,643297,Jessica-Rose,,Clark,Women_Flyweight,3022,9,4,0,FALSE,9,,Active,http://www.ufc.com/fighter/jessica-rose-clark,Jessica-Rose Clark,Australia,31,64,125,21.45385742,,,,,,,,,,,,,,,,3,207,50.40%,127,41.20%,41,69.50%,39,88.60%
+145,643382,Markus,Maluko,Perez,Middleweight,3023,10,2,0,FALSE,,,Active,http://www.ufc.com/fighter/markus-perez,Markus Perez,Brazil,28,74,185,23.75,,,,,,,,,,,,,,,,4,88,47.30%,37,30.60%,44,78.60%,7,77.80%
+146,662436,Augusto,,Sakai,Heavyweight,2554,12,1,1,FALSE,,,Active,http://www.ufc.com/fighter/augusto-sakai,Augusto Sakai,Brazil,27,76,265,32.25328947,,,,,,,,,,,,,,,,1,111,50.90%,81,47.90%,21,60.00%,9,64.30%
+147,643436,Wuliji,Beast Master,Buren,Bantamweight,3027,10,6,0,FALSE,,,Active,http://www.ufc.com/fighter/wuliji-buren,Wuliji Buren,China,28,68,135,20.52443772,,,,,,,,,,,,,,,,2,48,39.70%,27,32.50%,12,48.00%,9,69.20%
+148,643437,Pingyuan,,Liu,Bantamweight,3025,11,5,0,FALSE,,,Active,http://www.ufc.com/fighter/pingyuan-liu,Pingyuan Liu,China,25,66,135,21.78719008,,,,,,,,,,,,,,,,,,,,,,,,
+149,656291,Chance,Black Eagle,Rencountre,Welterweight,3090,12,3,0,FALSE,,,Active,http://www.ufc.com/fighter/chance-rencountre,Chance Rencountre,United States,31,74,170,21.82432432,,,,,,,,,,,,,,,,2,16,13.00%,8,7.80%,3,21.40%,5,71.40%
+150,960,Jim,A-10,Miller,Lightweight,509,29,12,0,FALSE,,,Active,http://www.ufc.com/fighter/jim-miller,Jim Miller,United States,35,68,155,23.56509516,,,,,,40,,,,,,,,,,31,886,40.40%,524,32.80%,187,70.00%,175,81.80%
+151,643438,Bharat,Daring,Kandare,Bantamweight,3026,5,3,0,FALSE,,,Active,http://www.ufc.com/fighter/bharat-kandare,Bharat Kandare,India,29,67,135,21.14167966,,,,,,,,,,,,,,,,2,3,10.00%,1,4.50%,0,-,2,25.00%
+152,234774,Mitch,,Gagnon,Bantamweight,1935,12,4,0,FALSE,,,Active,http://www.ufc.com/fighter/mitch-gagnon,Mitch Gagnon,Canada,34,65,135,22.46272189,,,,,,,,,,,,,,,,8,200,48.90%,127,39.80%,50,75.80%,23,85.20%
+153,464804,Zubaira,Warrior,Tukhugov,Featherweight,2154,18,4,0,FALSE,,,Active,http://www.ufc.com/fighter/zubaira-tukhugov,Zubaira Tukhugov,Russian Federation,27,68,145,22.04476644,,,,,,,,,,,,,,,,6,125,35.00%,98,36.70%,22,51.20%,5,83.30%
+154,662488,Johnny,,Walker,Light_Heavyweight,,13,3,0,FALSE,,,Active,http://www.ufc.com/fighter/johnny-walker,Johnny Walker,England,26,77,205,24.3067971,,,,,,,,,,,,,,,,,,,,,,,,
+155,628993,Brian,Boom,Kelleher,Bantamweight,2895,19,9,0,FALSE,,,Active,http://www.ufc.com/fighter/brian-kelleher,Brian Kelleher,United States,32,66,135,21.78719008,,,,,,,,,,,,,,,,6,235,45.40%,173,41.20%,31,53.40%,31,77.50%
+156,516943,Shamil,Abrek,Abdurakhimov,Heavyweight,2424,19,4,0,FALSE,12,,Active,http://www.ufc.com/fighter/shamil-abdurakhimov,Shamil Abdurakhimov,Russian Federation,37,75,265,33.11911111,,,,,,,,,,,,,,,,6,171,45.70%,104,37.80%,27,61.40%,40,72.70%
+157,475289,Sean,Tarzan,Strickland,Welterweight,2204,20,3,0,FALSE,,,Active,http://www.ufc.com/fighter/sean-strickland,Sean Strickland,United States,32,70,170,24.38979592,,,,,,,,,,,,,,,,10,504,34.80%,428,32.10%,32,60.40%,44,74.60%
+158,662494,Mayra,Sheetara,Bueno Silva,Women_Bantamweight,3176,6,0,0,FALSE,,,Active,http://www.ufc.com/fighter/mayra-bueno-silva,Mayra Bueno Silva,Brazil,27,66,135,21.78719008,,,,,,,,,,,,,,,,1,11,34.40%,9,30.00%,2,100.00%,0,-
+159,475290,Ruslan,Leopard,Magomedov,Heavyweight,2234,14,1,0,FALSE,,,Active,http://www.ufc.com/fighter/ruslan-magomedov,Ruslan Magomedov,Russian Federation,32,75,265,33.11911111,,,,,,,,,,,,,,,,6,181,47.90%,122,39.50%,34,85.00%,25,86.20%
+160,599175,Felipe,,Silva,Lightweight,2802,8,2,0,FALSE,,,Active,http://www.ufc.com/fighter/felipe-silva,Felipe Silva,Brazil,34,72,155,21.01948302,,,,,,,,,,,,,,,,3,81,50.00%,54,42.90%,16,69.60%,11,84.60%
+161,629280,Adam,Siwy,Wieczorek,Heavyweight,2899,10,2,0,FALSE,,,Active,http://www.ufc.com/fighter/adam-wieczorek,Adam Wieczorek,Poland,26,77,265,31.42098162,,,,,,,,,,,,,,,,3,62,38.80%,28,24.10%,21,75.00%,13,81.30%
+162,629443,Junior,Baby,Albini,Heavyweight,2901,14,4,0,FALSE,,,Active,http://www.ufc.com/fighter/junior-albini,Junior Albini,Brazil,27,75,265,33.11911111,,,,,,,,,,,,,,,,4,79,50.60%,53,43.40%,17,70.80%,9,90.00%
+163,629961,Ji Yeon,Firefist,Kim,Women_Flyweight,2889,7,1,2,FALSE,,,Active,http://www.ufc.com/fighter/ji-yeon-kim,Ji Yeon Kim,South Korea,29,66,125,20.17332415,,,,,,,,,,,,,,,,4,234,31.40%,166,25.20%,41,69.50%,27,93.10%
+164,94675,Dustin,The Diamond,Poirier,Lightweight,1595,24,5,0,FALSE,3,,Active,http://www.ufc.com/fighter/dustin-poirier,Dustin Poirier,United States,29,69,155,22.88699853,,,,,,,,,,,,,,,,21,1100,49.50%,854,47.70%,107,71.30%,139,81.80%
+165,94732,Michael,The Menace,Johnson,Featherweight,1711,20,13,0,FALSE,,,Active,http://www.ufc.com/fighter/michael-johnson,Michael Johnson,United States,32,69,145,21.41041798,,,,,,,,,,,,,,,,21,983,38.30%,526,34.40%,284,55.60%,173,75.50%
+166,662538,Thiago,,Moises,Lightweight,3188,11,3,0,FALSE,,,Active,http://www.ufc.com/fighter/thiago-moises,Thiago Moises,Brazil,23,69,155,22.88699853,,,,,,,,,,,,,,,,1,8,50.00%,5,45.50%,3,60.00%,0,-
+167,643712,Shane,,Young,Featherweight,3028,11,4,0,FALSE,,,Active,http://www.ufc.com/fighter/shane-young,Shane Young,New Zealand,25,68,145,22.04476644,,,,,,,,,,,,,,,,2,122,41.20%,85,34.00%,25,78.10%,12,85.70%
+168,345,Diego,Nightmare,Sanchez,Lightweight,461,30,11,0,FALSE,,,Active,http://www.ufc.com/fighter/diego-sanchez,Diego Sanchez,United States,36,70,155,22.2377551,,,,,,,,,,,,,,,,29,945,36.50%,674,34.00%,223,67.60%,48,76.20%
+169,980,Joseph,,Benavidez,Flyweight,911,25,5,0,FALSE,2,,Active,http://www.ufc.com/fighter/joseph-benavidez,Joseph Benavidez,United States,34,64,125,21.45385742,,,,,,,,,,,,,,,,17,757,35.30%,422,30.80%,189,55.80%,146,62.10%
+170,540407,Misha,,Cirkunov,Light_Heavyweight,2608,14,4,0,FALSE,14,,Active,http://www.ufc.com/fighter/misha-cirkunov,Misha Cirkunov,Canada,31,75,205,25.62044444,,4:44,,,,,2.27,,,,,,,,,7,149,52.50%,109,48.70%,34,64.20%,6,85.70%
+171,540603,Joaquim,Netto BJJ,Silva,Lightweight,2573,10,1,0,FALSE,,,Active,http://www.ufc.com/fighter/joaquim-silva,Joaquim Silva,Brazil,29,68,155,23.56509516,,,,,,,,,,,,,,,,7,235,39.00%,155,31.30%,63,72.40%,17,85.00%
+172,630706,Rolando,Dy Incredible ,Dy,Featherweight,2904,9,6,1,FALSE,,,Active,http://www.ufc.com/fighter/rolando-dy,Rolando Dy,Philippines,27,68,145,22.04476644,,,,,,,,,,,,,,,,4,151,37.70%,91,29.60%,43,61.40%,17,70.80%
+173,235798,John,Hands of Stone,Lineker,Bantamweight,1966,31,8,0,FALSE,6,,Active,http://www.ufc.com/fighter/john-lineker,John Lineker,Brazil,28,63,135,23.91156463,,,,,,,,,,,,,,,,16,904,40.00%,505,34.50%,321,56.50%,78,65.00%
+174,599363,Max,Pain,Griffin,Welterweight,2805,14,5,0,FALSE,,,Active,http://www.ufc.com/fighter/max-griffin,Max Griffin,United States,33,72,170,23.05362654,,,,,,,,,,,,,,,,7,201,43.20%,150,39.20%,25,48.10%,26,86.70%
+175,630707,Frank,The Crank,Camacho,Welterweight,2905,21,7,0,FALSE,,,Active,http://www.ufc.com/fighter/frank-camacho,Frank Camacho,Guam,29,69,170,25.10186936,,,,,,,,,,,,,,,,4,320,45.80%,261,41.80%,56,78.90%,3,100.00%
+176,335531,James,The James Krause,Krause,Welterweight,1096,25,8,0,FALSE,,,Active,http://www.ufc.com/fighter/james-krause,James Krause,United States,32,74,170,21.82432432,,,,,,,,,,,,,,,,11,542,47.40%,411,49.20%,74,68.50%,57,70.40%
+177,335531,James,The James Krause,Krause,Welterweight,1096,25,8,0,FALSE,,,Active,http://www.ufc.com/fighter/james-krause,James Krause,United States,32,74,170,21.82432432,,,,,,,,,,,,,,,,11,542,47.40%,411,49.20%,74,68.50%,57,70.40%
+178,465464,Jake,The Celtic Kid,Matthews,Welterweight,2258,13,3,0,FALSE,,,Active,http://www.ufc.com/fighter/jake-matthews,Jake Matthews,Australia,24,69,170,25.10186936,,,,,,,,,,,,,,,,12,334,46.50%,262,42.90%,38,59.40%,34,79.10%
+179,630843,Megan,,Anderson,Women_Featherweight,2906,8,3,0,FALSE,,,Active,http://www.ufc.com/fighter/megan-anderson,Megan Anderson,Australia,28,72,145,19.66338735,,,,,,,,,,,,,,,,3,26,44.80%,15,35.70%,11,68.80%,0,-
+180,336293,Jessica,Bate Estaca,Andrade,Women_Strawweight,2079,20,6,0,FALSE,1,,Active,http://www.ufc.com/fighter/jessica-andrade,Jessica Andrade,Brazil,27,62,115,21.03147763,,,,,,,,,,,6.58,,,,,14,1020,51.60%,701,54.70%,256,75.30%,63,91.30%
+181,456964,Omari,Wolverine,Akhmedov,Middleweight,2104,17,4,1,FALSE,,,Active,http://www.ufc.com/fighter/omari-akhmedov,Omari Akhmedov,Russian Federation,31,72,185,25.08777006,,,,,,,,,,,,,,,,10,296,33.50%,211,25.40%,48,61.50%,37,61.70%
+182,236888,Stephen,Wonderboy,Thompson,Welterweight,1944,14,3,1,FALSE,4,,Active,http://www.ufc.com/fighter/stephen-thompson,Stephen Thompson,United States,35,72,170,23.05362654,,,,,,,,,,,,,,,,13,564,41.70%,368,34.10%,129,60.80%,67,84.80%
+183,457256,Walt,The Big Ticket,Harris,Heavyweight,2106,11,7,0,FALSE,,,Active,http://www.ufc.com/fighter/walt-harris,Walt Harris,United States,35,77,265,31.42098162,,,,,,,,,,,,,,,,11,208,38.90%,140,34.30%,48,51.60%,20,90.90%
+184,465467,Olivier,The Canadian Gangster,Aubin-Mercier,Lightweight,2223,12,3,0,FALSE,,,Active,http://www.ufc.com/fighter/olivier-aubin-mercier,Olivier Aubin-Mercier,Canada,29,69,155,22.88699853,,,,,,,,,,,,,,,,11,340,51.80%,234,44.70%,70,73.70%,36,92.30%
+185,503488,Thomas,Thominhas,Almeida,Bantamweight,2325,22,3,0,FALSE,13,,Active,http://www.ufc.com/fighter/thomas-almeida,Thomas Almeida,Brazil,27,67,135,21.14167966,,,,,,,,,,,,,,,,8,346,45.60%,219,37.10%,60,70.60%,67,81.70%
+186,631432,Charles,Kid Dynamite,Byrd,Middleweight,2913,9,5,0,FALSE,,,Active,http://www.ufc.com/fighter/charles-byrd,Charles Byrd,United States,35,70,185,26.54183673,,,,,,,,,,,,,,,,3,78,60.00%,69,58.00%,4,80.00%,5,83.30%
+187,503755,Nina,,Ansaroff,Women_Strawweight,2328,9,5,0,FALSE,3,,Active,http://www.ufc.com/fighter/nina-ansaroff,Nina Ansaroff,United States,33,65,115,19.13491124,,,,,,,,,,,,,,,,6,451,46.90%,256,36.20%,74,63.20%,121,88.30%
+188,465471,Chad,The Disciple,Laprise,Welterweight,2222,14,3,0,FALSE,,,Active,http://www.ufc.com/fighter/chad-laprise,Chad Laprise,Canada,32,70,170,24.38979592,,,,,,,,,,,,,,,,10,410,42.80%,239,31.70%,89,75.40%,82,96.50%
+189,504095,Leon,Rocky,Edwards,Welterweight,2329,16,3,0,FALSE,10,,Active,http://www.ufc.com/fighter/leon-edwards,Leon Edwards,England,27,72,170,23.05362654,,,,,,,,,,,,,,,,10,340,48.30%,222,40.40%,73,73.00%,45,81.80%
+190,600855,Ketlen,Fenomeno,Vieira,Women_Bantamweight,2809,10,0,0,FALSE,3,,Active,http://www.ufc.com/fighter/ketlen-vieira,Ketlen Vieira,Brazil,27,68,135,20.52443772,,,,,,,,,,,,,,,,4,142,37.00%,115,32.60%,18,81.80%,9,100.00%
+191,631436,Joby,,Sanchez,Bantamweight,2311,11,4,0,FALSE,,,Active,http://www.ufc.com/fighter/joby-sanchez,Joby Sanchez,United States,27,66,135,21.78719008,,,,,,,,,,,,,,,,5,189,32.60%,142,27.80%,44,68.80%,3,60.00%
+192,631437,Matt,The Mangler,Bessette,Featherweight,2461,22,9,0,FALSE,,,Active,http://www.ufc.com/fighter/matt-bessette,Matt Bessette,United States,33,70,145,20.80306122,,,,,,,,,,,,,,,,2,100,34.80%,69,29.50%,27,58.70%,4,57.10%
+193,238062,Tim,The Dirty Bird,Means,Welterweight,1952,27,10,1,FALSE,,,Active,http://www.ufc.com/fighter/tim-means,Tim Means,United States,34,74,170,21.82432432,,,,,,,,,,,,,,,,19,872,45.20%,553,40.40%,221,63.90%,98,94.20%
+194,631438,Kurt,,Holobaugh,Featherweight,2049,17,6,0,FALSE,,,Active,http://www.ufc.com/fighter/kurt-holobaugh,Kurt Holobaugh,United States,32,71,145,20.22118627,,,,,,,,,,,,,,,,3,164,44.40%,115,39.50%,27,79.40%,22,71.00%
+195,489173,Bryan,Bam Bam,Barberena,Welterweight,2263,13,5,0,FALSE,,,Active,http://www.ufc.com/fighter/bryan-barberena,Bryan Barberena,United States,29,72,170,23.05362654,,,,,,,,,,,,,,,,11,435,49.40%,289,42.10%,55,69.60%,91,78.40%
+196,465481,Nordine,,Taleb,Welterweight,2227,14,6,0,FALSE,,,Active,http://www.ufc.com/fighter/nordine-taleb,Nordine Taleb,France,37,73,170,22.42634641,,,,,76.2,,,,,,,,,,,11,357,54.20%,185,42.80%,79,66.90%,93,85.30%
+197,631538,Mike,Slo-Mike,Rodriguez,Light_Heavyweight,2918,9,3,0,FALSE,,,Active,http://www.ufc.com/fighter/michael-rodriguez,Mike Rodriguez,United States,30,75,205,25.62044444,,,,,,,,,,,,,,,,3,82,64.10%,45,59.20%,29,82.90%,8,47.10%
+198,465482,Elias,The Spartan,Theodorou,Middleweight,2224,16,2,0,FALSE,13,,Active,http://www.ufc.com/fighter/elias-theodorou,Elias Theodorou,Canada,30,73,185,24.40514168,,,,,,,,,,,,,,,,10,579,42.80%,263,32.00%,184,55.40%,132,65.70%
+199,239715,Glover,,Teixeira,Light_Heavyweight,1968,27,7,0,FALSE,12,,Active,http://www.ufc.com/fighter/glover-teixeira,Glover Teixeira,Brazil,39,74,205,26.31756757,,,,,,,,,,,,,,,,17,469,43.80%,405,45.70%,61,62.20%,3,100.00%
+200,504565,Charles,Boston Strong,Rosa,Featherweight,2330,11,3,0,FALSE,,,Active,http://www.ufc.com/fighter/charles-rosa,Charles Rosa,United States,32,69,145,21.41041798,,,,,,,,,,,,,,,,5,276,36.10%,170,29.00%,32,43.80%,74,69.80%
+201,663245,Christos,The Spartan,Giagos,Lightweight,2322,15,7,0,FALSE,,,Active,http://www.ufc.com/fighter/christos-giagos,Christos Giagos,United States,28,70,155,22.2377551,,,,,,,,,,,,,,,,5,99,32.90%,74,28.40%,21,60.00%,4,80.00%
+202,465483,Sheldon,,Westcott,Welterweight,2225,10,3,1,FALSE,,,Active,http://www.ufc.com/fighter/sheldon-westcott,Sheldon Westcott,Canada,34,73,170,22.42634641,,,,,,,,,,,,,,,,4,63,40.60%,48,38.70%,13,46.40%,2,66.70%
+203,522866,Maryna,Iron Lady,Moroz,Women_Strawweight,2465,8,3,0,FALSE,,,Active,http://www.ufc.com/fighter/maryna-moroz,Maryna Moroz,Ukraine,27,67,115,18.00957897,,,,,,,,,,,,,,,,6,241,24.90%,150,18.30%,72,59.50%,19,65.50%
+204,601200,Lina,Elbow Queen,Lansberg,Women_Bantamweight,2811,8,3,0,FALSE,13,,Active,http://www.ufc.com/fighter/lina-lansberg,Lina Lansberg,Sweden,36,67,135,21.14167966,,,,,,,,,,,,,,,,6,218,55.50%,82,35.00%,111,85.40%,25,86.20%
+205,663426,Alexey,,Kunchenko,Welterweight,3190,19,0,0,FALSE,,,Active,http://www.ufc.com/fighter/alexey-kunchenko,Alexey Kunchenko,Russian Federation,34,70,170,24.38979592,,,,,,,,,,,,,,,,,,,,,,,,
+206,241883,Ronda,Rowdy,Rousey,Women_Bantamweight,1828,12,2,0,FALSE,,,Active,http://www.ufc.com/fighter/ronda-rousey,Ronda Rousey,United States,31,67,135,21.14167966,,3:06,,,,,3.03,,,,,,,,,8,118,52.00%,83,28.60%,24,85.70%,11,91.70%
+207,241886,Luke,,Rockhold,Middleweight,1294,16,4,0,FALSE,2,,Active,http://www.ufc.com/fighter/luke-rockhold,Luke Rockhold,United States,34,75,185,23.12088889,,,,,,,,,,,,,,,,10,311,56.00%,194,39.40%,66,75.90%,51,86.40%
+208,522906,Islam,,Makhachev,Lightweight,2466,16,1,0,FALSE,,,Active,http://www.ufc.com/fighter/islam-makhachev,Islam Makhachev,Russian Federation,27,70,155,22.2377551,,,,,,,,,,,,0.82,,,,7,101,60.80%,79,55.20%,20,95.20%,2,100.00%
+209,553753,Mizuto,Pugnus,Hirota,Lightweight,1177,19,9,2,FALSE,,,Active,http://www.ufc.com/fighter/mizuto-hirota,Mizuto Hirota,Japan,37,67,155,24.27378035,,,,,,,,,,,,,,,,7,367,39.60%,264,37.40%,53,67.10%,50,87.70%
+210,601203,Gregor,The Gift,Gillespie,Lightweight,2812,12,0,0,FALSE,,,Active,http://www.ufc.com/fighter/gregor-gillespie,Gregor Gillespie,United States,31,69,155,22.88699853,,,,,,,,,,,,,,,,5,116,48.50%,103,46.40%,3,42.90%,10,100.00%
+211,241887,Ronaldo,Jacare,Souza,Middleweight,896,26,6,0,FALSE,3,,Active,http://www.ufc.com/fighter/ronaldo-souza,Ronaldo Souza,Brazil,39,73,185,24.40514168,,,,,,,,,,,,,,,,,,,,,,,,
+212,458646,Krzysztof,,Jotko,Middleweight,2122,19,5,0,FALSE,,,Active,http://www.ufc.com/fighter/krzysztof-jotko,Krzysztof Jotko,Poland,29,73,185,24.40514168,,,,,,,,,,,,,,,,12,345,44.10%,221,35.30%,77,73.30%,47,88.70%
+213,553755,Teruto,Yashabo,Ishihara,Bantamweight,2655,11,5,2,FALSE,,,Active,http://www.ufc.com/fighter/teruto-ishihara,Teruto Ishihara,Japan,27,67,135,21.14167966,,,,,,,,,,,,,,,,8,278,45.40%,155,34.50%,51,59.30%,72,92.30%
+214,370,Carlos,The Natural Born Killer,Condit,Welterweight,663,30,12,0,FALSE,,,Active,http://www.ufc.com/fighter/carlos-condit,Carlos Condit,United States,34,74,170,21.82432432,,,,,,,,,,,,,,,,16,811,38.80%,443,36.60%,167,61.90%,201,71.30%
+215,458701,Sergio,,Pettis,Flyweight,2118,17,4,0,FALSE,,,Active,http://www.ufc.com/fighter/sergio-pettis,Sergio Pettis,United States,25,66,125,20.17332415,,,,,,,,,,,,,,,,14,723,37.40%,569,36.40%,77,57.50%,77,85.60%
+216,631546,Ryan,Superman,Spann,Light_Heavyweight,2935,15,5,0,FALSE,,,Active,http://www.ufc.com/fighter/ryan-spann,Ryan Spann,United States,27,77,205,24.3067971,,,,,,,,,,,,,,,,2,46,47.40%,38,43.20%,8,100.00%,0,0.00%
+217,656786,Matt,,Sayles,Featherweight,3096,6,2,0,FALSE,,,Active,http://www.ufc.com/fighter/matt-sayles,Matt Sayles,United States,24,67,145,22.70773001,,,,,,,,,,,,,,,,1,77,32.80%,39,21.10%,23,76.70%,15,75.00%
+218,663792,Stefan,,Sekulic,Welterweight,3193,12,3,0,FALSE,,,Active,http://www.ufc.com/fighter/stefan-sekulic,Stefan Sekulic,Serbia,26,73,170,22.42634641,,,,,,,,,,,,,,,,1,22,37.90%,6,17.60%,3,33.30%,13,86.70%
+219,465945,Aleksei,The Boa Constrictor,Oleinik,Heavyweight,2155,57,11,1,FALSE,8,,Active,http://www.ufc.com/fighter/oleksiy-oliynyk,Aleksei Oleinik,Russian Federation,41,74,265,34.02027027,,,,,,,2.66,,,,,,,,,8,138,48.90%,92,40.40%,31,91.20%,15,75.00%
+220,631548,Karl,Baby K ,Roberson,Middleweight,2936,6,1,0,FALSE,,,Active,http://www.ufc.com/fighter/karl-roberson,Karl Roberson,United States,28,73,185,24.40514168,,,,,,,,,,,,,,,,3,55,55.00%,39,48.80%,11,78.60%,5,83.30%
+221,555314,Danny,Hot Chocolate,Roberts,Welterweight,2656,16,3,0,FALSE,,,Active,http://www.ufc.com/fighter/danny-roberts,Danny Roberts,England,31,72,170,23.05362654,,,,,,,,,,,,,,,,7,221,41.20%,138,33.00%,44,62.90%,39,81.30%
+222,375,Cub,,Swanson,Featherweight,1050,25,9,0,FALSE,7,,Active,http://www.ufc.com/fighter/cub-swanson,Cub Swanson,United States,35,67,145,22.70773001,,,,,,,,,,,,,,,,16,987,51.10%,599,44.90%,197,76.40%,191,77.60%
+223,490180,Sam,Smile'N,Alvey,Light_Heavyweight,2264,33,11,0,FALSE,,,Active,http://www.ufc.com/fighter/sam-alvey,Sam Alvey,United States,32,74,205,26.31756757,,,,,,,,,,,,,,,,17,487,45.50%,321,37.20%,88,82.20%,78,78.00%
+224,557184,Francis,The Predator,Ngannou,Heavyweight,2659,11,3,0,FALSE,3,,Active,http://www.ufc.com/fighter/francis-ngannou,Francis Ngannou,Cameroon,32,76,265,32.25328947,,,,,,,,,,,,,,,,9,129,36.50%,103,32.40%,16,66.70%,10,90.90%
+225,601646,Mike,Platinum,Perry,Welterweight,2813,12,4,0,FALSE,,,Active,http://www.ufc.com/fighter/mike-perry,Mike Perry,United States,27,70,170,24.38979592,,,,,,,,,,,,,,,,9,364,45.30%,232,36.90%,58,59.80%,74,94.90%
+226,459193,Alex,The Dominican Nightmare,Garcia,Welterweight,2130,15,6,0,FALSE,,,Active,http://www.ufc.com/fighter/alex-garcia,Alex Garcia,Dominican Republic,31,69,170,25.10186936,,,,,,,,,,,,,,,,11,212,31.40%,176,30.10%,25,56.80%,11,91.70%
+227,466035,Claudio,Hannibal,Silva,Welterweight,2162,11,1,0,FALSE,,,Active,http://www.ufc.com/fighter/claudio-henrique-da-silva,Claudio Silva,Brazil,36,71,170,23.7075977,,,,,,,,,,,,,,,,5,88,45.60%,52,38.50%,19,76.00%,17,63.00%
+228,601851,Alexa,,Grasso,Women_Strawweight,2814,10,2,0,FALSE,13,,Active,http://www.ufc.com/fighter/alexa-grasso,Alexa Grasso,Mexico,25,65,115,19.13491124,,,,,,,,,,,,,,,,6,215,42.60%,119,31.60%,44,67.70%,52,82.50%
+229,602150,Jason,Nicoya,Gonzalez,Lightweight,2815,11,4,0,FALSE,,,Active,http://www.ufc.com/fighter/jason-gonzalez,Jason Gonzalez,United States,28,74,155,19.89864865,,,,,,,,,,,,,,,,3,36,39.60%,26,34.20%,7,63.60%,3,75.00%
+230,459199,Andre,Touchy,Fili,Featherweight,2119,18,6,0,FALSE,,,Active,http://www.ufc.com/fighter/andre-fili,Andre Fili,United States,28,71,145,20.22118627,,,,,,,,,,,,,,,,14,459,37.00%,314,31.50%,75,66.40%,70,80.50%
+231,466037,Kevin,The Motown Phenom,Lee,Lightweight,2157,16,4,0,FALSE,5,,Active,http://www.ufc.com/fighter/kevin-lee,Kevin Lee,United States,26,69,155,22.88699853,,,,,,,,,,,,,,,,14,687,43.20%,534,41.30%,136,76.40%,17,100.00%
+232,631554,Dan,Dynamite,Ige,Featherweight,2941,9,2,0,FALSE,,,Active,http://www.ufc.com/fighter/dan-ige,Dan Ige,United States,27,67,145,22.70773001,,,,,,,,,,,,,,,,3,116,47.00%,86,43.00%,13,52.00%,17,77.30%
+233,241942,Jorge,Gamebred,Masvidal,Welterweight,1272,32,13,0,FALSE,9,,Active,http://www.ufc.com/fighter/jorge-masvidal,Jorge Masvidal,United States,34,70,170,24.38979592,,,,,,,,,,,,,,,,16,817,48.00%,508,41.50%,194,77.90%,115,68.90%
+234,524184,Alex,Cowboy,Oliveira,Welterweight,2469,19,4,1,FALSE,15,,Active,http://www.ufc.com/fighter/alex-oliveira,Alex Oliveira,Brazil,30,71,170,23.7075977,,,,,,,,,,,,,,,,14,376,54.50%,231,45.10%,96,79.30%,49,86.00%
+235,656793,Dwight,The Body Snatcher,Grant,Welterweight,,7,1,0,FALSE,,,Active,http://www.ufc.com/fighter/dwight-grant,Dwight Grant,United States,34,73,170,22.42634641,,,,,,,,,,,,,,,,,,,,,,,,
+236,1014,Stefan,Skyscraper,Struve,Heavyweight,649,32,11,0,FALSE,14,,Active,http://www.ufc.com/fighter/stefan-struve,Stefan Struve,Netherlands,30,84,265,26.40235261,,,,,,,,,,,,,,,,21,519,45.80%,288,35.60%,108,65.90%,123,89.10%
+237,524895,Bartosz,The Butcher,Fabinski,Middleweight,2490,14,2,0,FALSE,,,Active,http://www.ufc.com/fighter/bartosz-fabinski,Bartosz Fabinski,Poland,32,72,185,25.08777006,,,,,,,,,,,,,,,,4,102,70.30%,63,60.60%,28,93.30%,11,100.00%
+238,563525,Matheus,,Nicolau,Flyweight,2578,13,3,1,FALSE,,,Active,http://www.ufc.com/fighter/matheus-nicolau,Matheus Nicolau,Brazil,25,64,125,21.45385742,,,,,,,,,,,,,,,,4,181,51.70%,93,41.00%,60,65.20%,28,90.30%
+239,382,Eddie,,Wineland,Bantamweight,961,23,13,1,FALSE,,,Active,http://www.ufc.com/fighter/eddie-wineland,Eddie Wineland,United States,34,68,135,20.52443772,,,,93.2,,,,,,,,,,,,12,429,28.00%,325,32.40%,80,52.30%,24,85.70%
+240,109406,Alex,Bruce Leeroy,Caceres,Featherweight,1755,14,11,0,FALSE,,,Active,http://www.ufc.com/fighter/alex-caceres,Alex Caceres,United States,30,70,145,20.80306122,,,,,,,,,,,,,,,,20,920,49.20%,587,47.20%,217,73.80%,116,81.70%
+241,565257,Karolina,,Kowalkiewicz,Women_Strawweight,2678,13,4,0,FALSE,6,,Active,http://www.ufc.com/fighter/karolina-kowalkiewicz,Karolina Kowalkiewicz,Poland,33,63,115,20.36911061,,,,,,,,,,,,,,,,8,605,38.60%,405,31.60%,138,69.00%,62,72.10%
+242,631559,Julian,The Cuban Missile Crisis ,Marquez,Middleweight,2947,7,2,0,FALSE,,,Active,http://www.ufc.com/fighter/julian-marquez,Julian Marquez,United States,28,74,185,23.75,,,,,,,,,,,,,,,,2,79,37.40%,57,31.70%,19,76.00%,3,50.00%
+243,656796,Antonina,La Pantera,Shevchenko,Women_Flyweight,,6,0,0,FALSE,,,Active,http://www.ufc.com/fighter/antonina-shevchenko,Antonina Shevchenko,Kyrgyzstan,34,68,125,19.004109,,,,,,,,,,,,,,,,,,,,,,,,
+244,383,Dominick,The Dominator,Cruz,Bantamweight,1057,22,2,0,FALSE,2,,Active,http://www.ufc.com/fighter/dominick-cruz,Dominick Cruz,United States,33,68,135,20.52443772,21:00,,,,,,,,,,,,,70.9,,6,463,37.10%,319,30.60%,80,64.00%,64,82.10%
+245,631694,Dominick,The Devastator,Reyes,Light_Heavyweight,2907,9,0,0,FALSE,8,,Active,http://www.ufc.com/fighter/dominick-reyes,Dominick Reyes,United States,28,76,205,24.95065789,,,,,,,,,,,,,,,,4,143,60.10%,78,49.40%,30,69.80%,35,94.60%
+246,656799,Te,Tango,Edwards,Lightweight,3103,6,1,0,FALSE,,,Active,http://www.ufc.com/fighter/te-edwards,Te Edwards,United States,28,68,155,23.56509516,,,,,,,,,,,,,,,,1,5,33.30%,4,28.60%,1,100.00%,0,-
+247,302601,Conor,The Notorious,McGregor,Lightweight,2057,21,4,0,FALSE,2,8,Active,http://www.ufc.com/fighter/conor-mcgregor,Conor McGregor,Ireland,30,69,155,22.88699853,,,,,,,,,,,,,,,,11,524,48.80%,364,46.10%,92,63.90%,68,76.40%
+248,631825,Amanda,,Lemos,Women_Bantamweight,2908,6,1,1,FALSE,,,Active,http://www.ufc.com/fighter/amanda-lemos,Amanda Lemos,Brazil,21,64,135,23.17016602,,,,,,,,,,,,,,,,1,68,64.20%,43,56.60%,14,73.70%,11,100.00%
+249,644621,Rachael,,Ostovich,Women_Flyweight,3043,4,4,0,FALSE,,,Active,http://www.ufc.com/fighter/rachael-ostovich,Rachael Ostovich,United States,27,63,125,22.14033762,,,,,,,,,,,,,,,,3,43,39.40%,24,30.40%,15,65.20%,4,57.10%
+250,632406,Aleksandar,,Rakic,Light_Heavyweight,2924,10,1,0,FALSE,,,Active,http://www.ufc.com/fighter/aleksandar-rakic,Aleksandar Rakic,Austria,26,77,205,24.3067971,,,,,,,,,,,,,,,,3,181,53.40%,122,46.90%,25,80.60%,34,70.80%
+251,644622,Nicco,,Montano,Women_Flyweight,3041,5,2,0,FALSE,,,Active,http://www.ufc.com/fighter/nicco-montano,Nicco Montano,United States,30,65,125,20.79881657,,,,,,,,,,,,,,,,1,186,40.80%,138,34.80%,13,56.50%,35,97.20%
+252,603315,Veronica,,Macedo,Women_Flyweight,2816,5,2,1,FALSE,,,Active,http://www.ufc.com/fighter/veronica-macedo,Veronica Macedo,Venezuela,23,63,125,22.14033762,,,,,,,,,,,,,,,,3,47,41.20%,30,34.50%,10,62.50%,7,63.60%
+253,632520,Trevin,,Giles,Middleweight,2932,11,0,0,FALSE,,,Active,http://www.ufc.com/fighter/trevin-giles,Trevin Giles,United States,26,72,185,25.08777006,,,,,,,,,,,,,,,,2,111,66.90%,96,64.40%,12,85.70%,3,100.00%
+254,644624,Sijara,SarJ,Eubanks,Women_Flyweight,3042,5,2,0,FALSE,2,,Active,http://www.ufc.com/fighter/sijara-eubanks,Sijara Eubanks,United States,33,64,125,21.45385742,,,,,,,,,,,,,,,,3,132,34.00%,95,28.30%,22,61.10%,15,93.80%
+255,242037,Derek,,Brunson,Middleweight,1806,18,6,0,FALSE,8,,Active,http://www.ufc.com/fighter/derek-brunson,Derek Brunson,United States,34,73,185,24.40514168,,,,,,,,,,,,,,,,15,259,42.50%,197,43.20%,17,56.70%,45,67.20%
+256,632521,Cody,Spartan,Stamann,Bantamweight,2930,17,2,0,FALSE,11,,Active,http://www.ufc.com/fighter/cody-stamann,Cody Stamann,United States,29,66,135,21.78719008,,,,,,,,,,,,,,,,4,267,49.70%,176,42.30%,60,75.90%,31,73.80%
+257,118846,Chris,The All-American,Weidman,Middleweight,1769,14,4,0,FALSE,5,,Active,http://www.ufc.com/fighter/chris-weidman,Chris Weidman,United States,34,74,185,23.75,,,,,,,,,,,,,,,,15,465,42.90%,349,38.60%,70,58.80%,46,76.70%
+258,632522,Terrion,Flash,Ware,Bantamweight,2931,17,8,0,FALSE,,,Active,http://www.ufc.com/fighter/terrion-ware,Terrion Ware,United States,32,68,135,20.52443772,,,,,,,,,,,,,,,,4,241,32.50%,165,26.20%,47,68.10%,29,69.00%
+259,644627,Gillian,The Savage,Robertson,,3031,5,3,0,FALSE,,,Active,http://www.ufc.com/fighter/gillian-robertson,Gillian Robertson,Canada,23,62,,,,,,,,,,,,,,,,,,3,30,40.50%,28,38.90%,1,100.00%,1,100.00%
+260,632898,Nick,,Roehrick,Light_Heavyweight,2950,7,1,0,FALSE,,,Active,http://www.ufc.com/fighter/nick-roehrick,Nick Roehrick,United States,31,75,205,25.62044444,,,,,,,,,,,,,,,,1,28,17.50%,22,15.60%,6,31.60%,0,-
+261,242109,Liz,Girlrilla,Carmouche,Women_Flyweight,1618,11,6,0,FALSE,6,,Active,http://www.ufc.com/fighter/liz-carmouche,Liz Carmouche,United States,34,66,125,20.17332415,,,,,64.7,,,,57.91,,,,,,,11,282,57.90%,160,43.00%,49,79.00%,73,83.90%
+262,477541,Chas,The Scrapper,Skelly,Featherweight,2214,17,3,0,FALSE,,,Active,http://www.ufc.com/fighter/chas-skelly,Chas Skelly,United States,33,71,145,20.22118627,,,,,,,2.33,,,,,,,,,9,172,45.10%,146,42.90%,21,58.30%,5,100.00%
+263,664126,Chris,,Fishgold,Featherweight,3195,17,2,1,FALSE,,,Active,http://www.ufc.com/fighter/chris-fishgold,Chris Fishgold,England,26,68,145,22.04476644,,,,,,,,,,,,,,,,1,20,26.70%,14,22.60%,1,25.00%,5,55.60%
+264,477542,Mirsad,,Bektic,Featherweight,2213,13,1,0,FALSE,8,,Active,http://www.ufc.com/fighter/mirsad-bektic,Mirsad Bektic,Bosnia and Herzegovina,27,68,145,22.04476644,,,,,,,,,,,,1.42,,,,6,180,50.70%,149,47.60%,22,75.90%,9,69.20%
+265,644632,Shana,Danger,Dobson,Women_Flyweight,3034,3,3,0,FALSE,,,Active,http://www.ufc.com/fighter/shana-dobson,Shana Dobson,United States,29,66,125,20.17332415,,,,,,,,,,,,,,,,3,102,33.90%,53,23.20%,32,61.50%,17,81.00%
+266,605121,Rick,The Gladiator,Glenn,Featherweight,2821,21,5,1,FALSE,,,Active,http://www.ufc.com/fighter/rick-glenn,Rick Glenn,United States,29,72,145,19.66338735,,,,,,,,,,,,,,,,6,388,42.40%,246,35.40%,98,61.30%,44,72.10%
+267,632979,Austin,Golden Boy ,Arnett,Featherweight,2926,15,5,0,FALSE,,,Active,http://www.ufc.com/fighter/austin-arnett,Austin Arnett,United States,27,72,145,19.66338735,,,,,,,,,,,,,,,,3,129,47.10%,94,42.00%,34,70.80%,1,50.00%
+268,459617,Bethe,Pitbull,Correia,Women_Bantamweight,2133,10,3,1,FALSE,11,,Active,http://www.ufc.com/fighter/bethe-correia,Bethe Correia,Brazil,35,65,135,22.46272189,,,,,,,,,,,,,,,,8,406,45.00%,238,37.00%,81,63.80%,87,75.00%
+269,477623,Warlley,,Alves,Welterweight,2247,13,3,0,FALSE,,,Active,http://www.ufc.com/fighter/warlley-alves,Warlley Alves,Brazil,27,71,170,23.7075977,,,,,,,,,,,,,,,,10,284,46.90%,166,38.00%,75,67.60%,43,75.40%
+270,605126,Marc,Bonecrusher,Diakiese,Lightweight,2822,12,3,0,FALSE,,,Active,http://www.ufc.com/fighter/marc-diakiese,Marc Diakiese,England,25,70,155,22.2377551,,,,,,,,,,,,,,,,6,171,32.70%,92,22.90%,50,68.50%,29,59.20%
+271,644634,Emily,Spitfire,Whitmire,Women_Strawweight,3032,3,2,0,FALSE,,,Active,http://www.ufc.com/fighter/emily-whitmire,Emily Whitmire,United States,27,65,115,19.13491124,,,,,,,,,,,,,,,,3,62,31.30%,40,23.30%,9,69.20%,13,100.00%
+272,664136,Khalid,,Murtazaliev,Middleweight,3194,14,2,0,FALSE,,,Active,http://www.ufc.com/fighter/khalid-murtazaliev,Khalid Murtazaliev,Russian Federation,25,71,185,25.79944455,,,,,,,,,,,,,,,,1,48,69.60%,33,62.30%,11,91.70%,4,100.00%
+273,1034,Ricardo,The Bully,Lamas,Featherweight,1054,18,7,0,FALSE,11,,Active,http://www.ufc.com/fighter/ricardo-lamas,Ricardo Lamas,United States,36,67,145,22.70773001,,,,,,,,,,,,,,,,15,484,47.20%,229,35.40%,101,80.80%,154,72.60%
+274,506311,Jared,Tha Killa Gorilla,Cannonier,Light_Heavyweight,2337,11,4,0,FALSE,9,,Active,http://www.ufc.com/fighter/jared-cannonier,Jared Cannonier,United States,34,71,205,28.5885737,,,,,,,,,,,,,,,,9,259,51.00%,202,46.30%,25,71.40%,32,86.50%
+275,633026,Danny,The Hatchet,Henry,Featherweight,2952,11,2,0,FALSE,,,Active,http://www.ufc.com/fighter/danny-henry,Danny Henry,Scotland,30,71,145,20.22118627,,,,,,,,,,,,,,,,2,95,53.10%,71,49.70%,18,60.00%,6,100.00%
+276,657408,Weili,Magnum,Zhang,Women_Strawweight,3099,17,1,0,FALSE,,,Active,http://www.ufc.com/fighter/weili-zhang,Weili Zhang,China,29,63,115,20.36911061,,,,,,,,,,,,,,,,,,,,,,,,
+277,1036,Raphael,,Assuncao,Bantamweight,1039,27,5,0,FALSE,3,,Active,http://www.ufc.com/fighter/raphael-assuncao,Raphael Assuncao,Brazil,36,65,135,22.46272189,,,,,,,,,,,,,,70.9,,14,613,41.40%,341,40.50%,87,60.00%,185,77.70%
+278,242123,Alexis,,Davis,Women_Flyweight,1839,19,8,0,FALSE,5,,Active,http://www.ufc.com/fighter/alexis-davis,Alexis Davis,Canada,34,66,125,20.17332415,,,,,,,,,,,,,,,,9,348,39.60%,172,33.30%,62,66.70%,114,74.00%
+279,633027,Daniel,Kid Dynamite ,Teymur,Lightweight,2953,6,2,0,FALSE,,,Active,http://www.ufc.com/fighter/daniel-teymur,Daniel Teymur,Sweden,30,67,155,24.27378035,,,,,,,,,,,,,,,,2,106,45.90%,49,33.60%,12,80.00%,45,64.30%
+280,664612,Luigi,The Italian Stallion,Vendramini,Welterweight,3196,8,1,0,FALSE,,,Active,http://www.ufc.com/fighter/luigi-vendramini,Luigi Vendramini,Brazil,22,68,170,25.84558824,,,,,,,,,,,,,,,,1,4,23.50%,1,9.10%,2,66.70%,1,33.30%
+281,1038,Anthony,Showtime,Pettis,Lightweight,1069,21,8,0,FALSE,8,,Active,http://www.ufc.com/fighter/anthony-pettis,Anthony Pettis,United States,31,70,155,22.2377551,,,,,,,,,,,,,,,,16,533,45.80%,356,35.70%,115,61.50%,62,89.90%
+282,490665,Colby,Chaos,Covington,Welterweight,2297,14,1,0,FALSE,1,,Active,http://www.ufc.com/fighter/colby-covington,Colby Covington,United States,30,71,170,23.7075977,,,,,,,,,,,,,,,,10,417,38.90%,276,31.80%,57,54.80%,84,85.70%
+283,633731,Joseph,Bopo,Morales,Flyweight,2955,10,1,0,FALSE,,,Active,http://www.ufc.com/fighter/joseph-morales,Joseph Morales,United States,24,66,125,20.17332415,,,,,,,,,,,,,,,,3,45,37.20%,31,30.40%,10,76.90%,4,66.70%
+284,490667,Joanna,,Jedrzejczyk,Women_Strawweight,2280,15,3,0,FALSE,2,,Active,http://www.ufc.com/fighter/joanna-jedrzejczyk,Joanna Jedrzejczyk,Poland,31,66,115,18.55945822,18:29,,,,,,,1345,,,6.07,,3.3,,,12,1345,46.40%,647,32.80%,340,69.50%,358,81.90%
+285,569102,Alvaro,Chango,Herrera,Lightweight,2703,9,6,0,FALSE,,,Active,http://www.ufc.com/fighter/alvaro-herrera,Alvaro Herrera,Mexico,28,72,155,21.01948302,,,,,,,,,,,,,,,,5,25,38.50%,17,30.40%,7,87.50%,1,100.00%
+286,634220,Gokhan,The Rebel,Saki,Light_Heavyweight,2957,1,2,0,FALSE,,,Active,http://www.ufc.com/fighter/gokhan-saki,Gokhan Saki,Turkey,35,72,205,27.79996142,,,,,,,,,,,,,,,,3,45,58.40%,37,55.20%,2,50.00%,6,100.00%
+287,1042,Peter,,Sobotta,Welterweight,668,17,5,1,FALSE,,,Active,http://www.ufc.com/fighter/peter-sobotta,Peter Sobotta,Germany,31,72,170,23.05362654,,,,,,,,,,,,,,,,11,222,39.80%,136,30.40%,38,65.50%,48,92.30%
+288,634221,Syuri,,Kondo,Women_Strawweight,2958,6,1,0,FALSE,,,Active,http://www.ufc.com/fighter/syuri-kondo,Syuri Kondo,Japan,29,64,115,19.73754883,,,,,,,,,,,,,,,,3,223,43.90%,160,37.60%,38,70.40%,25,89.30%
+289,1043,Todd,,Duffee,Heavyweight,970,9,3,0,FALSE,,,Active,http://www.ufc.com/fighter/todd-duffee,Todd Duffee,United States,33,76,265,32.25328947,,3:18,,,,,,,,,,,3.2,,,6,92,35.70%,77,27.60%,13,72.20%,2,100.00%
+290,634224,Sean,Sugar,O'Malley,Bantamweight,2917,10,0,0,FALSE,,,Active,http://www.ufc.com/fighter/sean-o-malley,Sean O'Malley,United States,24,71,135,18.8266217,,,,,,,,,,,,,,,,2,204,56.20%,160,52.10%,35,74.50%,9,100.00%
+291,753,Anderson,The Spider,Silva,Middleweight,235,34,8,0,FALSE,,,Active,http://www.ufc.com/fighter/anderson-silva,Anderson Silva,Brazil,43,74,185,23.75,,,,,,,,,61.01,,,,,,,24,740,61.00%,416,45.50%,152,81.30%,172,84.70%
+292,477650,Paulo,The Eraser,Costa,Middleweight,2876,12,0,0,FALSE,7,,Active,http://www.ufc.com/fighter/paulo-henrique-costa,Paulo Costa,Brazil,27,72,185,25.08777006,,,,,,,,,,,,,,,,4,189,59.40%,106,48.20%,77,84.60%,6,85.70%
+293,634225,Eryk,Ya Boi,Anders,Light_Heavyweight,2954,11,2,0,FALSE,,,Active,http://www.ufc.com/fighter/eryk-anders,Eryk Anders,United States,31,74,205,26.31756757,,,,,,,,,,,,,,,,6,278,50.50%,215,45.80%,58,77.30%,5,71.40%
+294,1047,Ross,The Real Deal,Pearson,Lightweight,875,22,14,0,FALSE,,,Active,http://www.ufc.com/fighter/ross-pearson,Ross Pearson,England,34,68,155,23.56509516,,,,,,,,,,,,,,,,25,1102,40.20%,587,28.80%,310,65.40%,205,82.30%
+295,477652,Antonio,Cara de Sapato,Carlos Junior,Middleweight,2246,11,2,0,FALSE,12,,Active,http://www.ufc.com/fighter/antonio-carlos,Antonio Carlos Junior,Brazil,28,73,185,24.40514168,,,,,,,,,,,,,,,,11,219,46.00%,146,38.30%,44,69.80%,29,90.60%
+296,467094,Louis,Da Last Samurai,Smolka,Flyweight,2166,11,5,0,FALSE,,,Active,http://www.ufc.com/fighter/louis-smolka,Louis Smolka,United States,27,69,125,18.45725688,,,,,,,2.22,,,,,,,,,11,504,45.60%,371,49.10%,101,70.60%,32,94.10%
+297,634251,Calvin,,Kattar,Featherweight,2959,19,3,0,FALSE,,,Active,http://www.ufc.com/fighter/calvin-kattar,Calvin Kattar,United States,30,71,145,20.22118627,,,,,,,,,,,,,,,,4,225,41.50%,186,38.00%,19,65.50%,20,83.30%
+298,570125,Enrique,El Fuerte,Barzola,Featherweight,2705,16,3,1,FALSE,,,Active,http://www.ufc.com/fighter/enrique-barzola,Enrique Barzola,Peru,29,67,145,22.70773001,,,,,,,,,,,,,,,,7,317,43.60%,182,32.60%,60,70.60%,75,90.40%
+299,634469,Humberto,,Bandenay,Featherweight,2960,14,5,0,FALSE,,,Active,http://www.ufc.com/fighter/humberto-bandenay,Humberto Bandenay,Peru,24,73,145,19.12835429,,,,,,,,,,,,,,,,5,37,39.40%,16,24.60%,11,68.80%,10,76.90%
+300,607021,Brandon,The Assassin Baby,Moreno,Flyweight,2825,14,5,0,FALSE,,,Active,http://www.ufc.com/fighter/brandon-moreno,Brandon Moreno,Mexico,25,67,125,19.57562932,,,,,,,,,,,,,,,,5,176,33.80%,114,26.30%,28,66.70%,34,73.90%
+301,634542,Abu,,Azaitar,Middleweight,2961,14,1,1,FALSE,,,Active,http://www.ufc.com/fighter/abu-azaitar,Abu Azaitar,Germany,32,70,185,26.54183673,,,,,,,,,,,,,,,,2,48,37.50%,33,30.30%,11,73.30%,4,100.00%
+302,645587,Magomed,,Ankalaev,Light_Heavyweight,3046,10,1,0,FALSE,,,Active,http://www.ufc.com/fighter/magomed-ankalaev,Magomed Ankalaev,Russian Federation,26,74,205,26.31756757,,,,,,,,,,,,,,,,3,71,57.70%,46,48.40%,20,90.90%,5,83.30%
+303,645588,Marcin,,Prachnio,Light_Heavyweight,3045,13,4,0,FALSE,,,Active,http://www.ufc.com/fighter/marcin-prachnio,Marcin Prachnio,Poland,30,75,205,25.62044444,,,,,,,,,,,,,,,,2,18,39.10%,4,16.00%,4,44.40%,10,83.30%
+304,634865,Geoff,Handz of Steel,Neal,Welterweight,2963,10,2,0,FALSE,,,Active,http://www.ufc.com/fighter/geoff-neal,Geoff Neal,United States,28,71,170,23.7075977,,,,,,,,,,,,,,,,3,73,54.90%,67,53.20%,4,80.00%,2,100.00%
+305,760,Ed,Short Fuse,Herman,Light_Heavyweight,419,24,14,0,FALSE,,,Active,http://www.ufc.com/fighter/ed-herman,Ed Herman,United States,38,74,205,26.31756757,,,,,,,,,,,,,,,,21,624,49.80%,397,42.10%,167,82.30%,60,83.30%
+306,242148,Germaine,The Iron Lady,de Randamie,Women_Bantamweight,1744,8,3,0,FALSE,1,,Active,http://www.ufc.com/fighter/germaine-derandamie,Germaine de Randamie,Netherlands,34,69,135,19.93383743,,,,91.2,,,,,,,,,,,,9,220,48.00%,89,26.60%,84,84.00%,47,79.70%
+307,665473,Kai,,Kara-France,Flyweight,,17,7,0,FALSE,,,Active,http://www.ufc.com/fighter/kai-kara-france,Kai Kara-France,New Zealand,25,65,125,20.79881657,,,,,,,,,,,,,,,,,,,,,,,,
+308,607243,Zak,The Barbarian,Ottow,Welterweight,2826,16,6,0,FALSE,,,Active,http://www.ufc.com/fighter/zak-ottow,Zak Ottow,United States,31,71,170,23.7075977,,,,,,,,,,,,,,,,7,193,37.10%,112,28.10%,38,52.10%,43,89.60%
+309,635808,Zabit,,Magomedsharipov,Featherweight,2965,17,1,0,FALSE,14,,Active,http://www.ufc.com/fighter/zabit-magomedsharipov,Zabit Magomedsharipov,Russian Federation,27,73,145,19.12835429,,,,,,,,,,,,,,,,5,214,52.80%,163,48.40%,24,70.60%,27,79.40%
+310,665870,Jonathan,Dragon,Martinez,Bantamweight,3198,9,2,0,FALSE,,,Active,http://www.ufc.com/fighter/jonathan-martinez,Jonathan Martinez,United States,32,67,135,21.14167966,,,,,,,,,,,,,,,,1,71,64.00%,36,53.70%,27,81.80%,8,72.70%
+311,490961,Keith,Sha Bang Bang,Berish,Middleweight,2272,5,1,0,FALSE,,,Active,http://www.ufc.com/fighter/keith-berish,Keith Berish,United States,33,72,185,25.08777006,,,,,,,,,,,,,,,,3,61,36.30%,39,28.70%,6,46.20%,16,84.20%
+312,284814,Gunnar,Gunni,Nelson,Welterweight,2015,16,3,1,FALSE,12,,Active,http://www.ufc.com/fighter/gunnar-nelson,Gunnar Nelson,Iceland,30,71,170,23.7075977,,,,,,,,,,,,,,,,13,194,58.30%,156,47.40%,26,72.20%,12,85.70%
+313,284816,Jimi,Poster Boy,Manuwa,Light_Heavyweight,2009,17,3,0,FALSE,9,,Active,http://www.ufc.com/fighter/jimi-manuwa,Jimi Manuwa,England,38,74,205,26.31756757,,,,,,,,,,,,,,,,13,287,54.20%,118,27.20%,80,76.90%,89,89.00%
+314,607547,Alexander,Drago,Volkov,Heavyweight,2492,29,7,0,FALSE,5,,Active,http://www.ufc.com/fighter/alexander-volkov,Alexander Volkov,Russian Federation,30,79,265,29.85018427,,,,,,,,,60.38,,6.28,,3.57,,,5,471,60.40%,311,53.80%,93,79.50%,67,78.80%
+315,635820,Ricky,,Simon,Bantamweight,2971,10,1,0,FALSE,,,Active,http://www.ufc.com/fighter/ricky-simon,Ricky Simon,United States,26,66,135,21.78719008,,,,,,,,,,,,,,,,3,107,41.80%,70,34.30%,22,59.50%,15,100.00%
+316,284817,Jan,,Blachowicz,Light_Heavyweight,2300,22,7,0,FALSE,4,,Active,http://www.ufc.com/fighter/jan-blachowicz,Jan Blachowicz,Poland,35,74,205,26.31756757,,,,,,,,,,,,,,,,12,446,50.10%,318,43.90%,99,73.30%,29,93.50%
+317,607952,Alexander,The Great,Volkanovski,Featherweight,2824,18,1,0,FALSE,10,,Active,http://www.ufc.com/fighter/alex-volkanovski,Alexander Volkanovski,Australia,30,66,145,23.40105601,,,,,,,,,63.74,,6.09,,3.54,,,6,378,63.70%,271,58.00%,43,82.70%,64,86.50%
+318,635822,Alex,,Perez,Flyweight,2969,21,4,0,FALSE,9,,Active,http://www.ufc.com/fighter/alex-perez,Alex Perez,United States,26,64,125,21.45385742,,,,,,,,,,,,,,,,5,164,46.20%,108,38.40%,28,68.30%,28,84.80%
+319,285939,John,Chicano,Moraga,Flyweight,2007,19,7,0,FALSE,5,,Active,http://www.ufc.com/fighter/john-moraga,John Moraga,United States,34,66,125,20.17332415,,,,,,,,,,,,,,,,15,433,43.50%,242,36.10%,109,64.10%,82,77.40%
+320,242230,Sergio,The Panther,Moraes,Welterweight,1992,14,4,1,FALSE,,,Active,http://www.ufc.com/fighter/sergio-moraes,Sergio Moraes,Brazil,36,71,170,23.7075977,,,,,,,,,,,,,,,,12,343,45.80%,263,38.90%,58,63.00%,22,81.50%
+321,492533,Claudia,Claudinha,Gadelha,Women_Strawweight,2277,16,3,0,FALSE,5,,Active,http://www.ufc.com/fighter/claudia-gadelha,Claudia Gadelha,Brazil,30,64,115,19.73754883,,,,,,,,,,,,,,,,9,430,42.70%,364,40.10%,54,64.30%,12,75.00%
+322,242231,Cezar,Mutante,Ferreira,Middleweight,1991,14,6,0,FALSE,,,Active,http://www.ufc.com/fighter/cezar-ferreira,Cezar Ferreira,Brazil,33,73,185,24.40514168,,,,90.9,,,,,,,,,,,,14,258,42.60%,140,28.30%,68,54.00%,50,78.10%
+323,608234,Poliana,,Botelho,Women_Strawweight,2830,7,1,0,FALSE,,,Active,http://www.ufc.com/fighter/poliana-botelho,Poliana Botelho,Brazil,30,68,115,17.48378028,,,,,,,,,,,,,,,,4,82,59.40%,52,54.20%,21,67.70%,9,81.80%
+324,645896,Priscila,Zombie Girl,Cachoeira,Women_Flyweight,3047,8,1,0,FALSE,,,Active,http://www.ufc.com/fighter/priscila-cachoeira,Priscila Cachoeira,Brazil,30,67,125,19.57562932,,,,,,,,,,,,,,,,1,2,16.70%,2,16.70%,0,-,0,-
+325,1065,Tim,The Barbarian,Boetsch,Middleweight,435,21,12,0,FALSE,,,Active,http://www.ufc.com/fighter/tim-boetsch,Tim Boetsch,United States,37,72,185,25.08777006,,,,,,,,,,,,,,,,23,594,51.40%,344,39.30%,149,70.00%,101,85.60%
+326,608521,Jack,The Hammer,Marshman,Welterweight,2831,22,7,0,FALSE,,,Active,http://www.ufc.com/fighter/jack-marshman,Jack Marshman,Wales,29,72,170,23.05362654,,,,,,,,,,,,,,,,5,145,31.00%,106,27.20%,22,46.80%,17,56.70%
+327,645897,Polyana,Dama de Ferro,Viana,Women_Strawweight,3049,10,2,0,FALSE,,,Active,http://www.ufc.com/fighter/polyana-viana,Polyana Viana,Brazil,26,67,115,18.00957897,,,,,,,,,,,,,,,,2,58,39.50%,35,31.00%,16,61.50%,7,87.50%
+328,657509,Luis,Violent Bob Ross,Pena,Lightweight,3107,5,1,0,FALSE,,,Active,http://www.ufc.com/fighter/luis-pena,Luis Pena,United States,25,75,155,19.37155556,,,,,,,,,,,,,,,,2,31,28.70%,20,22.20%,9,56.30%,2,100.00%
+329,467329,Beneil,,Dariush,Lightweight,2168,15,4,1,FALSE,,,Active,http://www.ufc.com/fighter/beneil-dariush,Beneil Dariush,Iran,29,70,155,22.2377551,,,,,,,,,,,,,,,,15,509,48.20%,294,37.10%,125,67.90%,90,85.70%
+330,645898,Maia,,Stevenson,Women_Strawweight,3048,6,5,0,FALSE,,,Active,http://www.ufc.com/fighter/maia-stevenson,Maia Stevenson,United States,36,64,115,19.73754883,,,,,,,,,,,,,,,,2,6,54.50%,1,16.70%,3,100.00%,2,100.00%
+331,242234,Francisco,Massaranduba,Trinaldo,Lightweight,1997,23,6,0,FALSE,13,,Active,http://www.ufc.com/fighter/francisco-trinaldo,Francisco Trinaldo,Brazil,40,69,155,22.88699853,,,,,,,,,,,,,,,,18,673,45.40%,410,33.60%,185,78.70%,78,86.70%
+332,572133,Jason,The Kid,Knight,Featherweight,2724,20,6,0,FALSE,,,Active,http://www.ufc.com/fighter/jason-knight,Jason Knight,United States,26,70,145,20.80306122,,,,,,,,,,,,,,,,9,338,33.70%,230,27.40%,48,59.30%,60,72.30%
+333,572774,Ryan,The Wizard,Hall,Featherweight,2726,6,1,0,FALSE,,,Active,http://www.ufc.com/fighter/ryan-hall,Ryan Hall,United States,33,70,145,20.80306122,,,,,,,,,,,,,,,,3,69,43.70%,29,42.00%,20,32.80%,20,71.40%
+334,635979,Martin,The Spartan,Day,Flyweight,2977,5,2,0,FALSE,,,Active,http://www.ufc.com/fighter/martin-day,Martin Day,United States,30,69,125,18.45725688,,,,,,,,,,,,,,,,2,168,49.10%,93,39.10%,57,67.10%,18,94.70%
+335,527135,Tom,,Breese,Middleweight,2510,11,1,0,FALSE,,,Active,http://www.ufc.com/fighter/tom-breese,Tom Breese,England,27,75,185,23.12088889,,,,,,,,,,,,,,,,6,166,49.80%,111,43.50%,44,67.70%,11,84.60%
+336,609611,Paul,BearJew,Craig,Light_Heavyweight,2834,9,2,0,FALSE,,,Active,http://www.ufc.com/fighter/paul-craig,Paul Craig,Scotland,31,76,205,24.95065789,,,,,,,,,,,,,,,,5,90,51.70%,33,32.40%,34,79.10%,23,79.30%
+337,572777,Julian,Juicy J,Erosa,Lightweight,2728,22,7,0,FALSE,,,Active,http://www.ufc.com/fighter/Julian-Erosa,Julian Erosa,United States,29,72,155,21.01948302,,,,,,,,,,,,,,,,3,81,50.90%,36,35.30%,38,79.20%,7,77.80%
+338,609910,Gadzhimurad,,Antigulov,Light_Heavyweight,2829,20,5,0,FALSE,,,Active,http://www.ufc.com/fighter/gadzhimurad-antigulov,Gadzhimurad Antigulov,Russian Federation,31,71,205,28.5885737,,,,,,,,,,,,,,,,3,14,53.80%,9,42.90%,3,100.00%,2,100.00%
+339,286657,Kyung Ho,Mr. Perfect,Kang,Bantamweight,2018,14,8,0,FALSE,,,Active,http://www.ufc.com/fighter/kyung-ho-kang,Kyung Ho Kang,South Korea,31,69,135,19.93383743,,,,,,,,,,,,,,,,7,188,42.60%,140,44.20%,16,50.00%,32,76.20%
+340,572779,Chris,Gritz,Gruetzemacher,Lightweight,1622,14,3,0,FALSE,,,Active,http://www.ufc.com/fighter/chris-gruetzemacher,Chris Gruetzemacher,United States,32,68,155,23.56509516,,,,,,,,,,,,,,,,6,305,58.90%,154,44.80%,82,82.00%,69,93.20%
+341,609911,Darren,The Dentist,Stewart,Middleweight,2828,9,3,0,FALSE,,,Active,http://www.ufc.com/fighter/darren-stewart,Darren Stewart,England,27,70,185,26.54183673,,,,,,,,,,,,,,,,7,169,43.70%,122,38.20%,29,76.30%,18,60.00%
+342,286973,Jussier,,Formiga,Flyweight,2011,22,5,0,FALSE,1,,Active,http://www.ufc.com/fighter/jussier-formiga,Jussier Formiga,Brazil,33,65,125,20.79881657,,,,,,,,,,,,,,,,13,183,38.40%,129,28.10%,31,67.40%,23,85.20%
+343,527472,Stevie,Braveheart,Ray,Lightweight,2502,22,8,0,FALSE,,,Active,http://www.ufc.com/fighter/stevie-ray,Stevie Ray,Scotland,28,70,155,22.2377551,,,,,,,,,,,,,,,,10,362,45.30%,221,36.20%,46,63.90%,95,80.50%
+344,572780,Artem,The Russian Hammer,Lobov,Featherweight,2729,14,15,1,FALSE,,,Active,http://www.ufc.com/fighter/artem-lobov,Artem Lobov,Russian Federation,32,69,145,21.41041798,16:26,,,,,,,,,,,,,,,7,405,41.50%,203,29.00%,71,58.70%,131,84.00%
+345,287176,Abel,Killa,Trujillo,Lightweight,2013,15,8,0,FALSE,,,Active,http://www.ufc.com/fighter/abel-trujillo,Abel Trujillo,United States,35,68,155,23.56509516,,,,,,,,,,,,,,,,14,262,41.50%,187,39.50%,56,77.80%,19,100.00%
+346,610010,Claudio,El Nino ,Puelles,Lightweight,2836,9,2,0,FALSE,,,Active,http://www.ufc.com/fighter/claudio-puelles,Claudio Puelles,Peru,22,71,155,21.61575084,,,,,,,,,,,,,,,,3,45,38.50%,25,27.80%,15,68.20%,5,100.00%
+347,646738,Israel,The Last Stylebender,Adesanya,Middleweight,3051,15,0,0,FALSE,6,,Active,http://www.ufc.com/fighter/israel-adesanya,Israel Adesanya,Nigeria,29,74,185,23.75,,,,,,,,,,,,,,,,5,241,55.30%,136,44.20%,48,82.80%,57,81.40%
+348,479780,Patrick,The Animal,Williams,Bantamweight,2219,8,7,0,FALSE,,,Active,http://www.ufc.com/fighter/patrick-williams,Patrick Williams,United States,37,68,135,20.52443772,,,,,,,,,,,,,,,,5,114,51.60%,43,32.30%,28,70.00%,43,89.60%
+349,610011,Martin,El Toro,Bravo,Featherweight,2837,12,2,0,FALSE,,,Active,http://www.ufc.com/fighter/martin-bravo,Martin Bravo,Mexico,25,68,145,22.04476644,,,,,,,,,,,,,,,,3,135,37.50%,101,33.40%,25,64.10%,9,47.40%
+350,659401,Maycee,The Future,Barber,Women_Strawweight,3114,5,0,0,FALSE,,,Active,http://www.ufc.com/fighter/maycee-barber,Maycee Barber,United States,20,67,115,18.00957897,,,,,,,,,,,,,,,,1,68,70.10%,46,63.00%,16,88.90%,6,100.00%
+351,479909,Alex,The Spartan,White,Lightweight,2216,12,5,0,FALSE,,,Active,http://www.ufc.com/fighter/alex-white,Alex White,United States,30,72,155,21.01948302,,,,,,,,,,,,,,,,9,327,40.30%,197,32.00%,106,63.90%,24,80.00%
+352,784,Yushin,Thunder,Okami,Welterweight,479,34,12,0,FALSE,,,Active,http://www.ufc.com/fighter/yushin-okami,Yushin Okami,Japan,37,74,170,21.82432432,,,,,,,,,,,,,,,,21,513,38.50%,405,34.20%,73,88.00%,35,83.30%
+353,659403,Vince,Vandetta,Morales,Bantamweight,,7,1,0,FALSE,,,Active,http://www.ufc.com/fighter/vince-morales,Vince Morales,United States,28,67,135,21.14167966,,,,,,,,,,,,,,,,,,,,,,,,
+354,610265,Brett,The Pikey,Johns,Bantamweight,2839,15,2,0,FALSE,,,Active,http://www.ufc.com/fighter/brett-johns,Brett Johns,Wales,26,67,135,21.14167966,,,,,,,,,,,,,,,,5,206,45.80%,182,44.10%,19,65.50%,5,62.50%
+355,473,Jeremy,Lil' Heathen,Stephens,Featherweight,545,28,15,0,FALSE,6,,Active,http://www.ufc.com/fighter/jeremy-stephens,Jeremy Stephens,United States,32,68,145,22.04476644,,,,,,,,,,,,,,,,30,1037,39.80%,627,30.00%,174,71.90%,236,73.10%
+356,480074,Corey,Overtime,Anderson,Light_Heavyweight,2281,12,4,0,FALSE,10,,Active,http://www.ufc.com/fighter/corey-anderson,Corey Anderson,United States,29,75,205,25.62044444,,,52,,,,,,,,,,,,,13,648,47.30%,512,43.00%,90,69.80%,46,92.00%
+357,610266,Kwan Ho,The Handsome,Kwak,Bantamweight,2838,9,2,0,FALSE,,,Active,http://www.ufc.com/fighter/kwan-ho-kwak,Kwan Ho Kwak,South Korea,29,67,135,21.14167966,,,,,,,,,,,,,,,,2,63,41.40%,40,33.60%,12,63.20%,11,78.60%
+358,636383,Steven,Ocho,Peterson,Featherweight,2985,17,7,0,FALSE,,,Active,http://www.ufc.com/fighter/steven-peterson,Steven Peterson,United States,28,69,145,21.41041798,,,,,,,,,,,,,,,,2,147,31.90%,99,24.90%,31,75.60%,17,77.30%
+359,1084,Keita,K-Taro,Nakamura,Welterweight,525,33,8,2,FALSE,,,Active,http://www.ufc.com/fighter/keita-nakamura,Keita Nakamura,Japan,34,71,170,23.7075977,,,,,,,,,,,,,,,,10,308,35.70%,249,32.50%,42,61.80%,17,60.70%
+360,492800,Juliana,Ju Thai,Lima,Women_Strawweight,2279,9,5,0,FALSE,,,Active,http://www.ufc.com/fighter/juliana-lima,Juliana Lima,Brazil,36,65,115,19.13491124,,,,,,,,,,,,,,,,7,186,44.10%,84,30.40%,49,73.10%,53,67.10%
+361,528648,Elizeu,Capoeira,Zaleski dos Santos,Welterweight,2508,20,5,0,FALSE,14,,Active,http://www.ufc.com/fighter/elizeu-zaleski-dos-santos,Elizeu Zaleski dos Santos,Brazil,32,71,170,23.7075977,,,,,,,,,,,,,,,,8,360,40.80%,240,33.70%,73,65.80%,47,81.00%
+362,636384,Benito,Golden Boy,Lopez,Bantamweight,2986,9,0,0,FALSE,,,Active,http://www.ufc.com/fighter/benito-lopez,Benito Lopez,United States,24,70,135,19.36836735,,,,,,,,,,,,,,,,3,78,41.70%,55,38.20%,15,48.40%,8,66.70%
+363,492976,Lauren,Lucky,Murphy,Women_Flyweight,2293,10,4,0,FALSE,8,,Active,http://www.ufc.com/fighter/lauren-murphy,Lauren Murphy,United States,35,67,125,19.57562932,,,,,,,,,,,,,,,,7,335,40.80%,226,32.80%,35,74.50%,74,88.10%
+364,480077,Brian,T-City,Ortega,Featherweight,2238,14,1,0,FALSE,1,,Active,http://www.ufc.com/fighter/brian-ortega,Brian Ortega,United States,27,68,145,22.04476644,,,,,,,,,,,,,,,,9,359,33.70%,279,29.10%,65,73.00%,15,93.80%
+365,659409,Edmen,The Golden Boy,Shahbazyan,Middleweight,,6,0,0,FALSE,,,Active,http://www.ufc.com/fighter/edmen-shahbazyan,Edmen Shahbazyan,United States,21,74,185,23.75,,,,,,,,,,,,,,,,,,,,,,,,
+366,530031,Magomed,,Mustafaev,Lightweight,2529,13,2,0,FALSE,,,Active,http://www.ufc.com/fighter/magomed-mustafaev,Magomed Mustafaev,Russian Federation,30,69,155,22.88699853,,,,,,,,,,,,,,,,3,56,54.90%,37,48.10%,15,71.40%,4,100.00%
+367,666299,Hannah,Shockwave,Cifers,Women_Strawweight,3208,8,3,0,FALSE,,,Active,http://www.ufc.com/fighter/hannah-cifers,Hannah Cifers,United States,26,61,115,21.72668637,,,,,,,,,,,,,,,,1,41,59.40%,10,31.30%,19,79.20%,12,92.30%
+368,793,Joe,,Lauzon,Lightweight,524,27,16,0,FALSE,,,Active,http://www.ufc.com/fighter/joe-lauzon,Joe Lauzon,United States,34,70,155,22.2377551,,,,,,29,2.06,,,,,,,,,26,580,39.00%,513,41.80%,55,78.60%,12,66.70%
+369,647235,Mackenzie,,Dern,Women_Strawweight,3054,7,0,0,FALSE,15,,Active,http://www.ufc.com/fighter/mackenzie-dern,Mackenzie Dern,United States,25,63,115,20.36911061,,,,,,,,,,,,,,,,2,85,48.60%,53,37.60%,15,88.20%,17,100.00%
+370,659523,Kevin,Angel of Death,Aguilar,Lightweight,,14,1,0,FALSE,,,Active,http://www.ufc.com/fighter/kevin-aguilar,Kevin Aguilar,United States,30,67,155,24.27378035,,,,,,,,,,,,,,,,1,86,51.20%,47,37.90%,33,86.80%,6,100.00%
+371,666312,Laureano,Pepi,Staropoli,Welterweight,,7,1,0,FALSE,,,Active,http://www.ufc.com/fighter/laureano-staropoli,Laureano Staropoli,Argentina,25,72,170,23.05362654,,,,,,,,,,,,,,,,,,,,,,,,
+372,1092,Erik,New Breed,Koch,Lightweight,1092,15,6,0,FALSE,,,Active,http://www.ufc.com/fighter/erik-koch,Erik Koch,United States,30,70,155,22.2377551,,,,,,,,,,,,,,,,13,198,38.20%,137,29.30%,33,86.80%,28,77.80%
+373,480087,Dhiego,,Lima,Welterweight,2282,14,7,0,FALSE,,,Active,http://www.ufc.com/fighter/dhiego-lima,Dhiego Lima,Brazil,29,74,170,21.82432432,,,,,,,,,,,,,,,,7,108,45.00%,93,43.30%,10,55.60%,5,71.40%
+374,574489,David,,Teymur,Lightweight,2734,8,1,0,FALSE,,,Active,http://www.ufc.com/fighter/david-teymur,David Teymur,Sweden,29,69,155,22.88699853,,,,,,,,,,,,,,,,6,273,42.70%,118,27.60%,55,57.30%,100,86.20%
+375,636460,Allen,Pretty Boy,Crowder,Heavyweight,2998,9,3,0,FALSE,,,Active,http://www.ufc.com/fighter/allen-crowder,Allen Crowder,United States,29,75,265,33.11911111,,,,,,,,,,,,,,,,3,15,39.50%,6,20.70%,1,100.00%,8,100.00%
+376,666313,Jesus,El Mudo,Pinedo,Lightweight,,15,4,1,FALSE,,,Active,http://www.ufc.com/fighter/jesus-pinedo,Jesus Pinedo,Peru,22,70,155,22.2377551,,,,,,,,,,,,,,,,,,,,,,,,
+377,468640,Alexander,Thunder Of The North,Yakovlev,Welterweight,2200,23,8,1,FALSE,,,Active,http://www.ufc.com/fighter/alexander-yakovlev,Alexander Yakovlev,Russian Federation,34,75,170,21.24622222,,,,,,,,,,,,,,,,6,138,46.60%,68,33.80%,36,72.00%,34,75.60%
+378,574554,Jarjis,Man Mountain,Danho,Heavyweight,2736,6,1,1,FALSE,,,Active,http://www.ufc.com/fighter/jarjis-danho,Jarjis Danho,Syria,35,75,265,33.11911111,,,,,,,,,,,,,,,,2,90,48.40%,68,43.90%,20,74.10%,2,50.00%
+379,636463,Matt,The SteamRolla,Frevola,Lightweight,2994,6,1,1,FALSE,,,Active,http://www.ufc.com/fighter/matt-frevola,Matt Frevola,United States,28,69,155,22.88699853,,,,,,,,,,,,,,,,2,75,36.40%,48,30.00%,14,46.70%,13,81.30%
+380,647437,Yana,,Kunitskaya,Women_Featherweight,3053,11,4,0,FALSE,9,,Active,http://www.ufc.com/fighter/yana-kunitskaya,Yana Kunitskaya,Russian Federation,29,66,145,23.40105601,,,,,,,,,,,,,,,,3,77,63.10%,28,48.30%,31,75.60%,18,78.30%
+381,307091,Uriah,Prime Time,Hall,Middleweight,2069,14,9,0,FALSE,14,,Active,http://www.ufc.com/fighter/uriah-hall,Uriah Hall,Jamaica,34,72,185,25.08777006,,,,,,,,,,,,,,,,14,388,52.20%,212,38.10%,75,64.10%,101,89.40%
+382,530246,Nathan,Soulforce,Coy,Welterweight,1296,15,7,0,FALSE,,,Active,http://www.ufc.com/fighter/nathan-coy,Nathan Coy,United States,40,70,170,24.38979592,,,,,,,,,,,,,,,,3,71,39.40%,46,31.50%,19,76.00%,6,66.70%
+383,574620,Alex,The Great White,Morono,Welterweight,2737,14,5,0,FALSE,,,Active,http://www.ufc.com/fighter/alex-morono,Alex Morono,United States,28,71,170,23.7075977,,,,,,,,,,,,,,,,7,362,41.90%,273,37.00%,44,65.70%,45,77.60%
+384,659580,Sodiq,Super,Yusuff,Featherweight,,6,1,0,FALSE,,,Active,http://www.ufc.com/fighter/sodiq-yusuff,Sodiq Yusuff,Nigeria,25,69,145,21.41041798,,,,,,,,,,,,,,,,,,,,,,,,
+385,487,Rani,,Yahya,Bantamweight,1044,26,9,0,FALSE,15,,Active,http://www.ufc.com/fighter/rani-yahya,Rani Yahya,Brazil,34,66,135,21.78719008,,,,,,21,,,,,,1.31,,,,16,270,39.00%,162,28.00%,57,68.70%,51,76.10%
+386,307092,Kelvin,,Gastelum,Middleweight,2070,16,3,0,FALSE,4,,Active,http://www.ufc.com/fighter/kelvin-gastelum,Kelvin Gastelum,United States,27,69,185,27.31674018,,,,,,,,,,,,,,,,16,637,43.70%,444,37.80%,114,74.50%,79,87.80%
+387,636493,Ramazan,Gorets,Emeev,Middleweight,3001,18,3,0,FALSE,,,Active,http://www.ufc.com/fighter/ramazan-emeev,Ramazan Emeev,Russian Federation,31,70,185,26.54183673,,,,,,,,,,,,,,,,3,113,47.30%,78,40.80%,25,67.60%,10,90.90%
+388,1098,Igor,The Duke,Pokrajac,Light_Heavyweight,966,25,13,0,FALSE,,,Active,http://www.ufc.com/fighter/igor-pokrajac,Igor Pokrajac,Croatia,39,72,205,27.79996142,,,,,,,,,,,,,,,,13,272,45.90%,228,41.80%,24,88.90%,20,80.00%
+389,497149,Frankie,,Saenz,Bantamweight,2304,13,5,0,FALSE,,,Active,http://www.ufc.com/fighter/frankie-saenz,Frankie Saenz,United States,38,66,135,21.78719008,,,,,,,,,,,,,,,,9,466,47.00%,225,34.10%,120,63.80%,121,84.00%
+390,636494,Oskar,Imadlo,Piechota,Middleweight,2992,11,1,1,FALSE,,,Active,http://www.ufc.com/fighter/oskar-piechota,Oskar Piechota,Poland,28,72,185,25.08777006,,,,,,,,,,,,,,,,3,96,57.10%,70,51.50%,13,72.20%,13,92.90%
+391,242453,Trevor,Hot Sauce,Smith,Middleweight,1810,15,8,0,FALSE,,,Active,http://www.ufc.com/fighter/trevor-smith,Trevor Smith,United States,37,75,185,23.12088889,,,,,,,,,,,,,,,,14,476,57.80%,260,46.30%,129,86.00%,87,89.70%
+392,610965,Devin,,Powell,Lightweight,2841,9,3,0,FALSE,,,Active,http://www.ufc.com/fighter/devin-powell,Devin Powell,United States,30,72,155,21.01948302,,,,,,,,,,,,,,,,4,135,41.70%,43,22.50%,35,62.50%,57,74.00%
+393,497232,Paige,12 Gauge,VanZant,Women_Flyweight,2305,7,4,0,FALSE,,,Active,http://www.ufc.com/fighter/paige-vanzant,Paige VanZant,United States,24,64,125,21.45385742,,,,,,,,,,,,,,,,8,295,51.50%,183,46.90%,78,59.10%,34,66.70%
+394,611131,Tyson,,Pedro,Light_Heavyweight,2840,7,1,0,FALSE,,,Active,http://www.ufc.com/fighter/tyson-pedro,Tyson Pedro,Australia,27,75,205,25.62044444,,,,,,,,,,,,,,,,6,110,62.90%,62,56.90%,26,78.80%,22,66.70%
+395,242506,Yancy,,Medeiros,Welterweight,1481,15,5,0,FALSE,,,Active,http://www.ufc.com/fighter/yancy-medeiros,Yancy Medeiros,United States,31,71,170,23.7075977,,,,,,,,,,,,,,,,15,379,35.80%,246,28.90%,91,59.50%,42,82.40%
+396,493738,Alan,Brahma,Jouban,Welterweight,2291,16,6,0,FALSE,,,Active,http://www.ufc.com/fighter/alan-jouban,Alan Jouban,United States,37,72,170,23.05362654,,,,,,,,,,,,,,,,12,471,53.10%,273,43.90%,96,65.80%,102,85.70%
+397,530256,Vicente,The Silent Assassin,Luque,Welterweight,2588,14,6,1,FALSE,,,Active,http://www.ufc.com/fighter/vicente-luque,Vicente Luque,Brazil,27,71,170,23.7075977,,,,,,,,,,,,,,,,10,225,51.60%,135,42.10%,33,66.00%,57,87.70%
+398,575897,Luke,Cool Hand,Sanders,Bantamweight,1737,13,3,0,FALSE,,,Active,http://www.ufc.com/fighter/luke-sanders,Luke Sanders,United States,33,67,135,21.14167966,,,,,,,,,,,,,,,,6,204,51.90%,176,49.60%,22,73.30%,6,75.00%
+399,611147,Brian,Mantis,Camozzi,Welterweight,2842,7,5,0,FALSE,,,Active,http://www.ufc.com/fighter/brian-camozzi,Brian Camozzi,United States,27,74,170,21.82432432,,,,,,,,,,,,,,,,3,65,26.40%,35,17.00%,11,68.80%,19,79.20%
+400,1102,Nik,The Carny,Lentz,Lightweight,1137,31,9,2,FALSE,,,Active,http://www.ufc.com/fighter/nik-lentz,Nik Lentz,United States,34,68,155,23.56509516,,,61,,,23,,,,,,,,,1690,22,895,49.80%,552,42.90%,217,79.80%,126,79.70%
+401,1103,Ben,,Rothwell,Heavyweight,969,36,10,0,FALSE,,,Active,http://www.ufc.com/fighter/ben-rothwell,Ben Rothwell,United States,37,76,265,32.25328947,,,,,,,,,,,,,,,,11,276,43.40%,204,38.00%,40,78.40%,32,88.90%
+402,242511,Jordan,Young Gun,Mein,Welterweight,1867,30,12,0,FALSE,,,Active,http://www.ufc.com/fighter/jordan-mein,Jordan Mein,Canada,29,72,170,23.05362654,,,,,60.9,,,,,,,,,,,8,235,46.20%,161,38.80%,31,72.10%,43,87.80%
+403,575997,Randy,Rudeboy,Brown,Welterweight,2739,10,3,0,FALSE,,,Active,http://www.ufc.com/fighter/randy-brown,Randy Brown,United States,28,75,170,21.24622222,,,,,,,,,,,,,,,,8,218,44.40%,156,39.20%,35,74.50%,27,58.70%
+404,611512,Irene,,Aldana,Women_Bantamweight,2843,9,4,0,FALSE,10,,Active,http://www.ufc.com/fighter/irene-aldana,Irene Aldana,Mexico,30,69,135,19.93383743,,,,,,,,,,,,,,,,4,381,43.50%,268,37.70%,38,62.30%,75,72.10%
+405,659713,Allan,Tigre,Zuniga,Lightweight,3124,13,2,0,FALSE,,,Active,http://www.ufc.com/fighter/allan-zuniga,Allan Zuniga,Costa Rica,26,67,155,24.27378035,,,,,,,,,,,,,,,,1,59,52.70%,33,42.30%,18,75.00%,8,80.00%
+406,530259,Kamaru,Nigerian Nightmare,Usman,Welterweight,2587,13,1,0,FALSE,2,,Active,http://www.ufc.com/fighter/kamarudeen-usman,Kamaru Usman,Nigeria,30,72,170,23.05362654,,,,,,,,,,,,,,,,10,527,50.70%,352,43.30%,107,72.30%,68,85.00%
+407,611963,Abdul Razak,,Alhassan,Welterweight,2634,10,1,0,FALSE,,,Active,http://www.ufc.com/fighter/abdul-razak-alhassan,Abdul Razak Alhassan,Ghana,33,70,170,24.38979592,,4:57,,,,,,,,,,,,,,5,110,46.60%,93,44.10%,8,72.70%,9,64.30%
+408,659714,John,The Machine,Gunther,Lightweight,3123,7,2,0,FALSE,,,Active,http://www.ufc.com/fighter/john-gunther,John Gunther,United States,33,69,155,22.88699853,,,,,,,,,,,,,,,,2,28,37.80%,22,34.90%,2,33.30%,4,80.00%
+409,667360,Suman,,Mokhtarian,Bantamweight,,8,0,0,FALSE,,,Active,http://www.ufc.com/fighter/suman-mokhtarian,Suman Mokhtarian,Australia,26,70,135,19.36836735,,,,,,,,,,,,,,,,,,,,,,,,
+410,807,Clay,The Carpenter,Guida,Lightweight,459,34,15,0,FALSE,,,Active,http://www.ufc.com/fighter/clay-guida,Clay Guida,United States,37,67,155,24.27378035,,,63,,,,,,,,,,,,,26,685,31.10%,439,25.20%,99,63.90%,147,85.50%
+411,667366,Anderson,,dos Santos,Featherweight,,19,6,0,FALSE,,,Active,http://www.ufc.com/fighter/anderson-dos-santos,Anderson dos Santos,Brazil,33,67,145,22.70773001,,,,,,,,,,,,,,,,,,,,,,,,
+412,307107,Zak,,Cummings,Welterweight,1422,21,6,0,FALSE,,,Active,http://www.ufc.com/fighter/zak-cummings,Zak Cummings,United States,34,72,170,23.05362654,,,,,,,,,,,,,,,,10,289,32.40%,179,23.20%,54,60.70%,56,83.60%
+413,242524,Yoel,Soldier of God,Romero,Middleweight,1866,13,3,0,FALSE,1,,Active,http://www.ufc.com/fighter/yoel-romero,Yoel Romero,Cuba,41,70,185,26.54183673,,,,,,,,,,,,,,,,12,502,51.30%,287,37.50%,101,68.70%,114,76.00%
+414,288999,Cat,Alpha,Zingano,Women_Bantamweight,2017,10,3,0,FALSE,5,,Active,http://www.ufc.com/fighter/cat-zingano,Cat Zingano,United States,36,66,135,21.78719008,,,,,65,,,,,,,1.61,,,,7,178,61.60%,107,42.50%,46,76.70%,25,83.30%
+415,612265,Gerald,GM3,Meerschaert,Middleweight,2844,28,9,0,FALSE,,,Active,http://www.ufc.com/fighter/gerald-meerschaert,Gerald Meerschaert,United States,31,73,185,24.40514168,,,,,,,,,,,,,,,,6,120,46.20%,101,43.00%,16,72.70%,3,100.00%
+416,289000,Sara,,McMann,Women_Bantamweight,2022,11,5,0,FALSE,8,,Active,http://www.ufc.com/fighter/sara-mcmann,Sara McMann,United States,38,66,135,21.78719008,,,,,,,,,,,,,,,,10,176,40.20%,119,24.30%,39,67.20%,18,81.80%
+417,289022,Jon,The Super Saiyan,Tuck,Lightweight,2019,10,5,0,FALSE,,,Active,http://www.ufc.com/fighter/jon-tuck,Jon Tuck,Guam,34,71,155,21.61575084,,,,,,,,,,,,,,,,9,324,40.00%,182,35.80%,82,75.90%,60,84.50%
+418,637453,Lauren,Princess Tiger,Mueller,Women_Flyweight,3003,6,0,0,FALSE,,,Active,http://www.ufc.com/fighter/lauren-mueller,Lauren Mueller,United States,27,65,125,20.79881657,,,,,,,,,,,,,,,,2,75,37.70%,40,26.70%,27,69.20%,8,80.00%
+419,659750,Tyler,,Diamond,Featherweight,3129,9,2,0,FALSE,,,Active,http://www.ufc.com/fighter/tyler-diamond,Tyler Diamond,United States,27,67,145,22.70773001,,,,,,,,,,,,,,,,1,51,47.70%,34,38.60%,12,85.70%,5,100.00%
+420,242566,Ovince,,Saint Preux,Light_Heavyweight,1499,22,11,0,FALSE,11,,Active,http://www.ufc.com/fighter/ovince-st-preux,Ovince Saint Preux,United States,35,75,205,25.62044444,,,,,,,,,,,,,,,,18,442,43.50%,304,32.20%,90,62.50%,48,75.00%
+421,659751,Bryce,Thug Nasty,Mitchell,Featherweight,3130,10,1,0,FALSE,,,Active,http://www.ufc.com/fighter/bryce-mitchell,Bryce Mitchell,United States,24,70,145,20.80306122,,,,,,,,,,,,,,,,1,38,55.10%,29,58.00%,9,50.00%,0,0.00%
+422,667650,Chris,,Gutierrez,Bantamweight,,12,3,1,FALSE,,,Active,http://www.ufc.com/fighter/chris-gutierrez,Chris Gutierrez,United States,27,68,135,20.52443772,,,,,,,,,,,,,,,,1,26,50.00%,9,36.00%,0,0.00%,17,73.90%
+423,667921,Juan,,Espino,Heavyweight,3220,9,1,0,FALSE,,,Active,http://www.ufc.com/fighter/Juan-Espino,Juan Espino,Spain,38,76,265,32.25328947,,,,,,,,,,,,,,,,1,22,95.70%,19,95.00%,3,100.00%,0,-
+424,506,Nate,,Diaz,Welterweight,538,20,11,0,FALSE,10,,Active,http://www.ufc.com/fighter/nate-diaz,Nate Diaz,United States,33,72,170,23.05362654,,,,,,25,,1210,,,,,,,1926,23,1210,43.50%,906,39.50%,198,65.60%,106,75.70%
+425,530951,Michelle,The Karate Hottie,Waterson,Women_Strawweight,1347,16,6,0,FALSE,8,,Active,http://www.ufc.com/fighter/michelle-waterson,Michelle Waterson,United States,32,63,115,20.36911061,,,,,,,,,62.41,,,,,,,6,274,62.40%,142,49.30%,86,88.70%,46,85.20%
+426,648191,Curtis,Curtious,Millender,Welterweight,2419,16,3,0,FALSE,,,Active,http://www.ufc.com/fighter/curtis-millender,Curtis Millender,United States,31,75,170,21.24622222,,,,,,,,,,,,,,,,3,85,42.50%,54,34.60%,17,68.00%,14,73.70%
+427,659753,Brad,Superman,Katona,Featherweight,3128,8,0,0,FALSE,,,Active,http://www.ufc.com/fighter/brad-katona,Brad Katona,Canada,27,66,145,23.40105601,,,,,,,,,,,,,,,,2,147,54.60%,82,45.60%,20,51.30%,45,90.00%
+428,667922,Justin,,Frazier,Heavyweight,3217,11,2,0,FALSE,,,Active,http://www.ufc.com/fighter/justin-frazier,Justin Frazier,United States,29,72,265,35.93653549,,,,,,,,,,,,,,,,1,4,66.70%,0,0.00%,4,100.00%,0,-
+429,242571,Tarec,Sponge,Saffiedine,Welterweight,942,16,7,0,FALSE,,,Active,http://www.ufc.com/fighter/tarec-saffiedine,Tarec Saffiedine,Belgium,32,70,170,24.38979592,16:05,,,,,,,,,,,,,,,6,360,45.90%,196,37.80%,62,80.50%,102,84.30%
+430,613359,Matt,Danger,Schnell,Flyweight,2846,11,4,0,FALSE,15,,Active,http://www.ufc.com/fighter/matt-schnell,Matt Schnell,United States,28,68,125,19.004109,,,,,,,,,,,,,,,,4,139,35.10%,84,27.00%,12,42.90%,43,75.40%
+431,659755,Michael,The Lone Wolf,Trizano,Lightweight,3125,9,0,0,FALSE,,,Active,http://www.ufc.com/fighter/michael-trizano,Michael Trizano,United States,26,71,155,21.61575084,,,,,,,,,,,,,,,,2,93,54.40%,34,36.20%,17,50.00%,42,97.70%
+432,667923,Pannie,Banzai,Kianzad,Women_Featherweight,3218,11,3,,FALSE,,,Active,http://www.ufc.com/fighter/pannie-kianzad,Pannie Kianzad,Sweden,27,67,145,22.70773001,,,,,,,,,,,,,,,,1,19,48.70%,10,37.00%,9,75.00%,0,-
+433,613436,Shane,Hurricane,Burgos,Featherweight,2847,11,1,0,FALSE,,,Active,http://www.ufc.com/fighter/shane-burgos,Shane Burgos,United States,27,71,145,20.22118627,,,,94.1,,,,,,,6.54,,,,,5,358,46.90%,263,41.70%,58,65.20%,37,86.00%
+434,667924,Macy,,Chiasson,Women_Featherweight,3221,3,0,,FALSE,,,Active,http://www.ufc.com/fighter/macy-chiasson,Macy Chiasson,United States,27,69,145,21.41041798,,,,,,,,,,,,,,,,1,24,48.00%,11,35.50%,12,66.70%,1,100.00%
+435,480477,Ray,The Tazmexican Devil,Borg,Flyweight,2217,11,3,0,FALSE,3,,Active,http://www.ufc.com/fighter/ray-borg,Ray Borg,United States,25,64,125,21.45385742,,,,,,,,,,,,,,,,10,149,48.10%,100,41.00%,43,76.80%,6,60.00%
+436,637828,Talita,,Bernardo,Women_Bantamweight,3005,6,3,0,FALSE,15,,Active,http://www.ufc.com/fighter/talita-bernardo,Talita Bernardo,Brazil,31,64,135,23.17016602,,,,,,,,,,,,,,,,3,128,46.20%,78,35.10%,16,88.90%,34,91.90%
+437,667925,Maurice,The Crochet Boss,Greene,Heavyweight,3222,5,3,0,FALSE,,,Active,http://www.ufc.com/fighter/maurice-greene,Maurice Greene,United States,32,79,265,29.85018427,,,,,,,,,,,,,,,,1,9,60.00%,6,54.50%,1,50.00%,2,100.00%
+438,497847,Shinsho,Animal,Anzai,Welterweight,2310,10,2,0,FALSE,,,Active,http://www.ufc.com/fighter/shinsho-anzai,Shinsho Anzai,Japan,33,72,170,23.05362654,,,,,,,,,,,,,,,,5,106,58.20%,74,54.40%,23,76.70%,9,56.30%
+439,532822,Darren,The Gorilla,Till,Welterweight,2544,17,1,1,FALSE,3,,Active,http://www.ufc.com/fighter/darren-till,Darren Till,England,25,72,170,23.05362654,,,,,,,,,,,,,,,,7,216,45.80%,153,40.20%,26,63.40%,37,74.00%
+440,648460,Cory,,Sandhagen,Bantamweight,3055,9,1,0,FALSE,,,Active,http://www.ufc.com/fighter/cory-sandhagen,Cory Sandhagen,United States,26,71,135,18.8266217,,,,,,,,,,,,,,,,2,146,56.20%,112,51.90%,23,71.90%,11,91.70%
+441,667926,Michel,El Panda,Batista,Heavyweight,3223,4,1,0,FALSE,,,Active,http://www.ufc.com/fighter/michel-batista,Michel Batista,Cuba,34,75,265,33.11911111,,,,,,,,,,,,,,,,1,0,-,0,-,0,-,0,-
+442,820,Thiago,Pitbull,Alves,Welterweight,511,27,13,0,FALSE,,,Active,http://www.ufc.com/fighter/thiago-alves,Thiago Alves,Brazil,35,69,170,25.10186936,,,,,,,,,,,,,,,,27,952,40.70%,490,28.20%,126,75.90%,336,76.70%
+443,667927,Julija,,Stoliarenko,Women_Featherweight,3224,4,3,1,FALSE,,,Active,http://www.ufc.com/fighter/julija-stoliarenko,Julija Stoliarenko,Lithuania,25,67,145,22.70773001,,,,,,,,,,,,,,,,1,57,36.10%,39,31.00%,7,50.00%,11,61.10%
+444,512,Gray,,Maynard,Featherweight,374,14,8,1,FALSE,,,Active,http://www.ufc.com/fighter/gray-maynard,Gray Maynard,United States,39,68,145,22.04476644,,,50,,,,,,,,,,,,,20,480,32.30%,358,26.90%,100,69.90%,22,71.00%
+445,1119,Alexander,The Mauler,Gustafsson,Light_Heavyweight,1139,18,4,0,FALSE,2,,Active,http://www.ufc.com/fighter/alexander-gustafsson,Alexander Gustafsson,Sweden,31,77,205,24.3067971,,,,,,,,,,,,,,,,16,641,40.50%,472,43.70%,95,56.50%,74,77.90%
+446,205617,Johnny,,Eduardo,Bantamweight,1860,28,12,0,FALSE,,,Active,http://www.ufc.com/fighter/johnny-eduardo,Johnny Eduardo,Brazil,38,68,135,20.52443772,,,,,,,,,,,,,,,,7,173,38.00%,95,28.10%,15,48.40%,63,73.30%
+447,242759,Anthony,Lionheart,Smith,Light_Heavyweight,1843,31,13,0,FALSE,3,,Active,http://www.ufc.com/fighter/anthony-smith,Anthony Smith,United States,30,77,205,24.3067971,,,,,,,,,,,,,,,,10,329,49.30%,241,43.10%,59,67.00%,29,90.60%
+448,290029,Rustam,Tiger,Khabilov,Lightweight,2023,23,3,0,FALSE,,,Active,http://www.ufc.com/fighter/rustam-khabilov,Rustam Khabilov,Russian Federation,32,69,155,22.88699853,,,,,,,,,,,,,,,,14,284,34.90%,214,31.20%,36,50.70%,34,59.60%
+449,510517,Jake,The Prototype,Collier,Light_Heavyweight,2364,11,4,0,FALSE,,,Active,http://www.ufc.com/fighter/jake-collier,Jake Collier,United States,30,75,205,25.62044444,,,,,,,,,,,,,,,,7,261,39.50%,148,29.40%,67,67.70%,46,79.30%
+450,576903,Kyle,Crash,Bochniak,Featherweight,2749,8,3,0,FALSE,,,Active,http://www.ufc.com/fighter/kyle-bochniak,Kyle Bochniak,United States,31,67,145,22.70773001,,,,,,,,,,,,,,,,6,234,32.10%,155,25.70%,30,50.80%,49,75.40%
+451,667928,Leah,Nidas,Letson,Women_Featherweight,3225,4,2,0,FALSE,,,Active,http://www.ufc.com/fighter/leah-letson,Leah Letson,United States,26,67,145,22.70773001,,,,,,,,,,,,,,,,1,73,40.80%,40,29.20%,19,73.10%,14,87.50%
+452,205676,Stipe,,Miocic,Heavyweight,1852,18,3,0,FALSE,1,9,Active,http://www.ufc.com/fighter/stipe-miocic,Stipe Miocic,United States,36,76,265,32.25328947,,,,,,,,,,,,,,,,15,720,51.70%,557,56.80%,72,84.70%,91,92.90%
+453,667929,Alex,Hitman,Gorgees,Lightweight,3226,6,0,0,FALSE,,,Active,http://www.ufc.com/fighter/alex-gorgees,Alex Gorgees,Australia,23,74,155,19.89864865,,,,,,,,,,,,,,,,1,10,32.30%,5,23.80%,3,60.00%,2,40.00%
+454,577025,Mike,The Truth,Jackson,Welterweight,2751,1,1,0,FALSE,,,Active,http://www.ufc.com/fighter/mike-jackson,Mike Jackson,United States,33,74,170,21.82432432,,,,,,,,,,,,,,,,2,67,58.80%,57,57.00%,10,76.90%,0,0.00%
+455,667930,Damir,,Ismagulov,Lightweight,,16,2,0,FALSE,,,Active,http://www.ufc.com/fighter/damir-ismagulov,Damir Ismagulov,Russian Federation,27,70,155,22.2377551,,,,,,,,,,,,,,,,1,34,61.80%,22,57.90%,9,69.20%,3,75.00%
+456,577026,Mickey,,Gall,Welterweight,2750,5,1,0,FALSE,,,Active,http://www.ufc.com/fighter/mickey-gall,Mickey Gall,United States,26,74,170,21.82432432,,5:10,,,,,5.23,,,,,,,,,6,38,52.80%,37,53.60%,0,0.00%,1,50.00%
+457,648670,Hakeem,Mean,Dawodu,Featherweight,3056,8,0,1,FALSE,,,Active,http://www.ufc.com/fighter/hakeem-dawodu,Hakeem Dawodu,Canada,27,68,145,22.04476644,,,,,,,,,,,,,,,,3,181,47.00%,80,31.40%,43,65.20%,58,90.60%
+458,660478,Roosevelt,The Predator,Roberts,Lightweight,,6,0,0,FALSE,,,Active,http://www.ufc.com/fighter/roosevelt-roberts,Roosevelt Roberts,United States,24,73,155,20.44755114,,,,,,,,,,,,,,,,,,,,,,,,
+459,614475,Niko,The Hybrid,Price,Welterweight,2851,12,2,0,FALSE,,,Active,http://www.ufc.com/fighter/niko-price,Niko Price,United States,29,72,170,23.05362654,,,,,,,,,,,,,,,,8,104,30.00%,66,23.80%,18,46.20%,20,64.50%
+460,668305,Kyle,,Nelson,Lightweight,,12,1,0,FALSE,,,Active,http://www.ufc.com/fighter/kyle-nelson,Kyle Nelson,Canada,24,71,155,21.61575084,,,,,,,,,,,,,,,,1,20,40.00%,12,32.40%,6,60.00%,2,66.70%
+461,578548,Bojan,,Mihajlovic,Heavyweight,2752,10,5,0,FALSE,,,Active,http://www.ufc.com/fighter/bojan-mihajlovic,Bojan Mihajlovic,Serbia,38,71,265,36.95596112,,,,,,,,,,,,,,,,4,26,35.60%,7,15.60%,9,64.30%,10,71.40%
+462,242826,Gian,,Villante,Light_Heavyweight,1742,17,10,0,FALSE,,,Active,http://www.ufc.com/fighter/gian-villante,Gian Villante,United States,33,74,205,26.31756757,,,,,,,,,,,,,,,,14,732,42.20%,496,35.00%,88,61.50%,148,87.10%
+463,660482,Ian,The Hurricane,Heinisch,Middleweight,,11,1,0,FALSE,,,Active,http://www.ufc.com/fighter/ian-heinisch,Ian Heinisch,United States,30,71,185,25.79944455,,,,,,,,,,,,,,,,,,,,,,,,
+464,524,Mauricio,Shogun,Rua,Light_Heavyweight,457,25,11,0,FALSE,13,,Active,http://www.ufc.com/fighter/mauricio-rua,Mauricio Rua,Brazil,37,73,205,27.04353537,,,,,,,,,,,,,,,,21,728,52.10%,453,43.10%,112,73.20%,163,77.60%
+465,579875,Damir,,Hadzovic,Lightweight,2758,12,4,0,FALSE,,,Active,http://www.ufc.com/fighter/damir-hadzovic,Damir Hadzovic,Bosnia and Herzegovina,32,71,155,21.61575084,,,,,,,,,,,,,,,,4,116,45.80%,74,36.50%,30,78.90%,12,100.00%
+466,498037,Scott,Hot Sauce,Holtzman,Lightweight,2558,12,2,0,FALSE,,,Active,http://www.ufc.com/fighter/scott-holtzman,Scott Holtzman,United States,35,69,155,22.88699853,,,,,,,,,,,,,,,,8,453,52.20%,311,46.10%,87,67.40%,55,85.90%
+467,579877,Marcin,Tybur,Tybura,Heavyweight,2753,17,4,0,FALSE,10,,Active,http://www.ufc.com/fighter/marcin-tybura,Marcin Tybura,Poland,33,75,265,33.11911111,,,,,,,,,,,,,,,,7,369,52.60%,247,45.50%,59,69.40%,63,85.10%
+468,615245,Aiemann,,Zahabi,Bantamweight,2852,7,1,0,FALSE,,,Active,http://www.ufc.com/fighter/aiemann-zahabi,Aiemann Zahabi,Canada,31,68,135,20.52443772,,,,,,,,,,,,,,,,2,90,41.50%,77,38.90%,11,64.70%,2,100.00%
+469,649370,Manny,The Bermudez Triangle,Bermudez,Bantamweight,3057,13,0,0,FALSE,,,Active,http://www.ufc.com/fighter/manny-bermudez,Manny Bermudez,United States,24,66,135,21.78719008,,,,,,,,,,,,,,,,3,15,45.50%,15,45.50%,0,-,0,-
+470,833,Frankie,The Answer,Edgar,Featherweight,451,23,6,1,FALSE,3,,Active,http://www.ufc.com/fighter/frankie-edgar,Frankie Edgar,United States,37,66,145,23.40105601,16:59,,67,,,,,1463,,,,,,70.1,2099,26,1463,40.20%,967,36.30%,274,62.60%,222,76.00%
+471,579878,Alessio,Manzo,Di Chirico,Middleweight,2755,12,2,0,FALSE,,,Active,http://www.ufc.com/fighter/alessio-di-chirico,Alessio Di Chirico,Italy,29,72,185,25.08777006,,,,,,,,,,,,,,,,6,183,41.70%,126,35.50%,38,64.40%,19,76.00%
+472,660486,Juan,The Kraken,Adams,Heavyweight,,4,0,0,FALSE,,,Active,http://www.ufc.com/fighter/juan-adams,Juan Adams,United States,26,77,265,31.42098162,,,,,,,,,,,,,,,,,,,,,,,,
+473,1131,Antonio Rogerio,,Nogueira,Light_Heavyweight,797,23,8,0,FALSE,,,Active,http://www.ufc.com/fighter/antonio-rogerio-nogueira,Antonio Rogerio Nogueira,Brazil,42,74,205,26.31756757,,,,,,,,,,,,,,,,,,,,,,,,
+474,242979,Tim,,Elliott,Flyweight,1970,16,8,1,FALSE,10,,Active,http://www.ufc.com/fighter/Tim-Elliott,Tim Elliott,United States,31,67,125,19.57562932,,,,,65.5,,,,,,,,,,,10,432,45.90%,294,54.50%,84,61.80%,54,75.00%
+475,450465,Thiago,de Lima Marreta,Santos,Middleweight,2087,19,6,0,FALSE,15,,Active,http://www.ufc.com/fighter/thiago-santos,Thiago Santos,Brazil,34,72,185,25.08777006,,,,,,,,,,,,,2.83,,,17,521,49.70%,301,38.00%,121,73.30%,99,81.80%
+476,615940,John,The Welsh Wrecking Machine,Phillips,Middleweight,2853,21,6,0,FALSE,,,Active,http://www.ufc.com/fighter/john-phillips,John Phillips,Wales,33,71,185,25.79944455,,,,,,,,,,,,,,,,4,51,32.90%,21,19.30%,16,55.20%,14,82.40%
+477,837,Fabricio,Vai Cavalo,Werdum,Heavyweight,308,23,7,1,FALSE,,,Active,http://www.ufc.com/fighter/fabricio-werdum,Fabricio Werdum,Brazil,41,76,265,32.25328947,,,,,,,,,,,,,,,,16,833,55.90%,540,44.70%,153,78.90%,140,92.10%
+478,539,Donald,Cowboy,Cerrone,Welterweight,1076,34,11,0,FALSE,13,,Active,http://www.ufc.com/fighter/donald-cerrone,Donald Cerrone,United States,35,72,170,23.05362654,,,,,,,,1232,,,,,,,,30,1154,49.50%,525,32.50%,301,74.10%,328,85.90%
+479,471161,Aljamain,Funk Master,Sterling,Bantamweight,2177,15,3,0,FALSE,7,,Active,http://www.ufc.com/fighter/aljamain-sterling,Aljamain Sterling,United States,29,67,135,21.14167966,,,,,,,,,,,,1.43,,,,12,526,49.80%,244,37.30%,180,71.70%,102,70.30%
+480,616449,Drakkar,,Klose,Lightweight,2854,9,1,1,FALSE,,,Active,http://www.ufc.com/fighter/drakkar-klose,Drakkar Klose,United States,30,68,155,23.56509516,,,,,,,,,,,,,,,,5,259,50.00%,116,33.50%,78,85.70%,65,80.20%
+481,580570,Thibault,GT,Gouti,Lightweight,2756,12,5,0,FALSE,,,Active,http://www.ufc.com/fighter/thibault-gouti,Thibault Gouti,France,31,70,155,22.2377551,,,,,,,,,,,,,,,,6,180,34.50%,140,30.80%,22,55.00%,18,66.70%
+482,545,Hector,Showeather,Lombard,Middleweight,768,34,10,1,FALSE,,,Active,http://www.ufc.com/fighter/hector-lombard,Hector Lombard,Cuba,40,69,185,27.31674018,,,,,,,,,,,,,,,,14,435,48.90%,289,40.90%,52,69.30%,94,77.70%
+483,546,Demian,,Maia,Welterweight,326,25,9,0,FALSE,8,,Active,http://www.ufc.com/fighter/demian-maia,Demian Maia,Brazil,41,73,170,22.42634641,,,60,,,24,,,,,,,,,,29,642,42.80%,520,39.90%,83,69.70%,39,78.00%
+484,617300,Ricardo,,Ramos,Bantamweight,2857,12,1,0,FALSE,,,Active,http://www.ufc.com/fighter/ricardo-ramos,Ricardo Ramos,Brazil,23,69,135,19.93383743,,,,,,,,,,,,,,,,4,141,43.00%,97,38.00%,23,56.10%,21,65.60%
+485,511032,Sultan,,Aliev,Welterweight,2365,14,3,0,FALSE,,,Active,http://www.ufc.com/fighter/sultan-aliev,Sultan Aliev,Russian Federation,34,72,170,23.05362654,,,,,,,,,,,,,,,,6,35,51.50%,29,48.30%,5,71.40%,1,100.00%
+486,617302,Jordan,,Johnson,Light_Heavyweight,2856,10,0,0,FALSE,,,Active,http://www.ufc.com/fighter/jordan-johnson,Jordan Johnson,United States,30,74,205,26.31756757,,,,,,,,,,,,,,,,4,175,47.70%,152,45.40%,13,68.40%,10,76.90%
+487,511034,Ashlee,Rebel Girl,Evans-Smith,Women_Flyweight,2368,6,3,0,FALSE,11,,Active,http://www.ufc.com/fighter/ashlee-evans-smith,Ashlee Evans-Smith,United States,31,68,125,19.004109,,,,,,,,,,,,,,,,8,326,37.30%,173,25.90%,96,69.10%,57,85.10%
+488,617323,Eric,Showtime,Shelton,Flyweight,2859,11,6,0,FALSE,14,,Active,http://www.ufc.com/fighter/eric-shelton,Eric Shelton,United States,27,66,125,20.17332415,,,,,,,,,,,,,,,,5,206,44.60%,165,40.00%,30,83.30%,11,84.60%
+489,650588,Alexander,The Great,Hernandez,Lightweight,3058,10,1,0,FALSE,12,,Active,http://www.ufc.com/fighter/alexander-hernandez,Alexander Hernandez,United States,28,69,155,22.88699853,,,,,,,,,,,,,,,,3,47,50.00%,29,44.60%,18,66.70%,0,0.00%
+490,511416,Jonathan,Jonny Bravo,Wilson,Middleweight,2367,7,3,0,FALSE,,,Active,http://www.ufc.com/fighter/jonathan-wilson,Jonathan Wilson,United States,31,74,185,23.75,,,,,,,,,,,,,,,,4,117,48.10%,87,41.60%,21,87.50%,9,90.00%
+491,582930,Cyril,Silverback,Asker,Heavyweight,2761,9,4,0,FALSE,,,Active,http://www.ufc.com/fighter/cyril-asker,Cyril Asker,France,32,72,265,35.93653549,,3:24,,,,,,,,,,,,,,5,57,39.00%,51,37.50%,6,60.00%,0,-
+492,617324,Alexandre,The Cannibal,Pantoja,Flyweight,2858,19,3,0,FALSE,7,,Active,http://www.ufc.com/fighter/alexandre-pantoja,Alexandre Pantoja,Brazil,28,65,125,20.79881657,,,,,,,,,,,,,,,,5,258,46.90%,158,38.90%,56,64.40%,44,77.20%
+493,650723,Andrea,KGB,Lee,Women_Flyweight,3059,9,2,0,FALSE,13,,Active,http://www.ufc.com/fighter/andrea-lee,Andrea Lee,United States,29,66,125,20.17332415,,,,,,,,,,,,,,,,1,56,60.20%,17,45.90%,24,82.80%,15,55.60%
+494,309184,Santiago,Gente Boa,Ponzinibbio,Welterweight,2107,27,3,0,FALSE,7,,Active,http://www.ufc.com/fighter/santiago-ponzinibbio,Santiago Ponzinibbio,Argentina,32,72,170,23.05362654,,,,,,,,,,,,,,,,13,479,39.70%,358,35.70%,47,52.80%,74,87.10%
+495,1147,Chad,Money,Mendes,Featherweight,1484,18,4,0,FALSE,5,,Active,http://www.ufc.com/fighter/chad-mendes,Chad Mendes,United States,33,66,145,23.40105601,,,,,,,,,,,,,,,,14,353,49.90%,241,37.50%,27,64.30%,85,72.60%
+496,309185,Leonardo,,Santos,Lightweight,2078,16,4,1,FALSE,,,Active,http://www.ufc.com/fighter/leonardo-santos,Leonardo Santos,Brazil,38,73,155,20.44755114,,,,,,,,,,,,,,,,8,151,40.40%,90,33.50%,31,53.40%,30,83.30%
+497,309271,Antonio Braga,,Neto,Middleweight,2072,9,3,0,FALSE,,,Active,http://www.ufc.com/fighter/antonio-braga-neto,Antonio Braga Neto,Brazil,31,75,185,23.12088889,,,,,,,,,,,,,,,,5,40,33.30%,30,22.90%,6,60.00%,4,66.70%
+498,585029,Curtis,Razor,Blaydes,Heavyweight,2764,10,1,0,FALSE,4,,Active,http://www.ufc.com/fighter/curtis-blaydes,Curtis Blaydes,United States,27,76,265,32.25328947,,,,,,,,,,,,,,,,8,306,50.40%,220,42.90%,45,91.80%,41,91.10%
+499,660648,Khalid,The Warrior,Taha,Featherweight,3149,12,2,0,FALSE,,,Active,http://www.ufc.com/fighter/khalid-taha,Khalid Taha,Germany,26,67,145,22.70773001,,,,,,,,,,,,,,,,1,32,56.10%,24,54.50%,3,50.00%,5,71.40%
+500,135403,Iuri,Marajo,Alcantara,Bantamweight,1706,35,10,0,FALSE,,,Active,http://www.ufc.com/fighter/iuri-alcantara,Iuri Alcantara,Brazil,38,69,135,19.93383743,,,,,63,,,,,,,,,,,18,472,45.90%,310,35.60%,125,72.70%,37,77.10%
+501,498725,Alejandro,Turbo,Perez,Bantamweight,2354,22,6,1,FALSE,12,,Active,http://www.ufc.com/fighter/alejandro-perez,Alejandro Perez,Mexico,29,66,135,21.78719008,,,,,,,,,,,,,,,,9,362,35.90%,234,28.60%,34,75.60%,94,64.80%
+502,651330,Dmitry,,Sosnovskiy,Heavyweight,2850,10,0,0,FALSE,,,Active,http://www.ufc.com/fighter/dmitry-sosnovskiy,Dmitry Sosnovskiy,Russian Federation,29,75,265,33.11911111,,,,,,,,,,,,,,,,3,28,70.00%,22,68.80%,5,71.40%,1,100.00%
+503,639377,Alex,The Executioner,Reyes,Welterweight,3007,13,3,,FALSE,,,Active,http://www.ufc.com/fighter/alex-reyes,Alex Reyes,United States,32,71,170,23.7075977,,,,,,,,,,,,,,,,1,6,46.20%,1,14.30%,4,80.00%,1,100.00%
+504,498730,Henry,Bure,Briones,Bantamweight,2356,19,8,1,FALSE,,,Active,http://www.ufc.com/fighter/henry-briones,Henry Briones,Mexico,38,67,135,21.14167966,,,,,,,,,,,,,,,,7,178,42.70%,99,32.60%,63,69.20%,16,72.70%
+505,144963,Tony,El Cucuy,Ferguson,Lightweight,1815,26,3,0,FALSE,1,13,Active,http://www.ufc.com/fighter/tony-ferguson,Tony Ferguson,United States,34,71,155,21.61575084,,,,,,,,,,,,,,,,16,832,44.60%,534,36.30%,130,62.50%,168,81.60%
+506,512243,Cody,No Love,Garbrandt,Bantamweight,2369,11,2,0,FALSE,1,,Active,http://www.ufc.com/fighter/cody-garbrandt,Cody Garbrandt,United States,27,67,135,21.14167966,,,,,,,,,,,,,,,,8,260,37.20%,212,34.10%,25,58.10%,23,67.60%
+507,585889,Ion,The Hulk,Cutelaba,Light_Heavyweight,2765,14,3,0,FALSE,,,Active,http://www.ufc.com/fighter/ion-cutelaba,Ion Cutelaba,Moldova,25,73,205,27.04353537,,,,,,,,,,,,,,,,6,213,35.30%,143,28.00%,51,68.90%,19,95.00%
+508,1158,Darren,The Damage,Elkins,Featherweight,1486,25,6,0,FALSE,15,,Active,http://www.ufc.com/fighter/darren-elkins,Darren Elkins,United States,34,70,145,20.80306122,,,,,,21,,,,,,,,,1739,20,791,37.70%,592,38.50%,167,63.00%,32,97.00%
+509,651503,Nad,Smiler,Narimani,Lightweight,3060,11,2,0,FALSE,,,Active,http://www.ufc.com/fighter/nad-narimani,Nad Narimani,England,31,68,155,23.56509516,,,,,,,,,,,,,,,,2,129,50.60%,100,46.30%,14,63.60%,15,88.20%
+510,1160,Chan Sung,The Korean Zombie,Jung,Featherweight,1494,14,5,0,FALSE,13,,Active,http://www.ufc.com/fighter/chan-sung-jung,Chan Sung Jung,South Korea,31,69,145,21.41041798,,,,,,,,,,,,,,,,8,270,37.30%,227,40.00%,26,68.40%,17,63.00%
+511,498734,Gabriel,Moggly,Benitez,Featherweight,2360,21,7,0,FALSE,,,Active,http://www.ufc.com/fighter/gabriel-benitez,Gabriel Benitez,Mexico,30,68,145,22.04476644,,,,,,,,,,,,,,73.2,,7,278,42.40%,153,31.10%,68,71.60%,57,82.60%
+512,452997,Jessica,Evil,Eye,Women_Flyweight,2099,12,6,0,FALSE,1,,Active,http://www.ufc.com/fighter/jessica-eye,Jessica Eye,United States,32,66,125,20.17332415,,,,,,,,,,,,,,,,11,513,36.90%,320,34.80%,91,62.30%,102,82.90%
+513,498735,Yair,El Pantera,Rodriguez,Featherweight,2362,12,2,0,FALSE,12,,Active,http://www.ufc.com/fighter/yair-rodriguez,Yair Rodriguez,Mexico,26,71,145,20.22118627,,,,,,,,,,,,,,,,9,477,43.30%,260,31.70%,97,69.30%,120,84.50%
+514,293593,Neil,,Magny,Welterweight,2047,21,7,0,FALSE,11,,Active,http://www.ufc.com/fighter/neil-magny,Neil Magny,United States,31,75,170,21.24622222,,,,,,,,,,,,,,,,21,907,46.10%,655,45.70%,154,72.30%,98,74.20%
+515,568,Ben,Killa B,Saunders,Welterweight,502,22,11,2,FALSE,,,Active,http://www.ufc.com/fighter/ben-saunders,Ben Saunders,United States,35,74,170,21.82432432,,,,,,,,,,,,,,,,18,428,50.10%,228,39.40%,164,70.40%,36,81.80%
+516,513257,Marion,The Belizean Bruiser,Reneau,Women_Bantamweight,2376,9,4,1,FALSE,6,,Active,http://www.ufc.com/fighter/marion-reneau,Marion Reneau,United States,41,66,135,21.78719008,,,,,,,,,,,,,,,,9,387,41.80%,274,35.80%,68,66.70%,45,77.60%
+517,1165,Travis,Hapa,Browne,Heavyweight,1515,18,7,1,FALSE,,,Active,http://www.ufc.com/fighter/travis-browne,Travis Browne,United States,36,79,265,29.85018427,,,,,,,,,,,,,,,,17,400,41.50%,238,26.90%,99,62.70%,63,78.80%
+518,453391,Dustin,,Ortiz,Flyweight,1504,19,7,0,FALSE,8,,Active,http://www.ufc.com/fighter/dustin-ortiz,Dustin Ortiz,United States,29,65,125,20.79881657,,,,,,,,,,,,,,,,13,464,43.70%,279,36.20%,129,74.60%,56,76.70%
+519,618560,Gavin,The Newfoundland Terror,Tucker,Featherweight,2862,10,1,0,FALSE,,,Active,http://www.ufc.com/fighter/gavin-tucker,Gavin Tucker,Canada,32,67,145,22.70773001,,,,,,,,,,,,,,,,3,78,31.80%,39,20.60%,17,51.50%,22,95.70%
+520,498749,Marlon,Chito,Vera,Bantamweight,2359,11,5,1,FALSE,,,Active,http://www.ufc.com/fighter/marlon-vera,Marlon Vera,Ecuador,26,68,135,20.52443772,,,,,,,,,,,,,,,,10,371,44.80%,193,34.30%,94,58.40%,84,80.00%
+521,513470,Makwan,Mr. Finland,Amirkhani,Featherweight,2373,14,3,0,FALSE,,,Active,http://www.ufc.com/fighter/makwan-amirkhani,Makwan Amirkhani,Finland,30,70,145,20.80306122,,,,,,,,,,,,1.6,,,,5,82,49.70%,77,49.40%,4,50.00%,1,100.00%
+522,1167,Renan,The Baron,Barao,Bantamweight,1527,36,7,0,FALSE,,,Active,http://www.ufc.com/fighter/renan-barao,Renan Barao,Brazil,31,66,135,21.78719008,,,,92.3,,,,,,,,,,,,16,824,36.30%,497,29.10%,170,54.80%,157,72.40%
+523,472403,Douglas,D Silva,Silva de Andrade,Bantamweight,2183,25,2,0,FALSE,14,,Active,http://www.ufc.com/fighter/douglas-silva-de-andrade,Douglas Silva de Andrade,Brazil,33,67,135,21.14167966,,,,,,,,,,,,,,,,6,263,37.00%,157,30.60%,44,58.70%,62,76.50%
+524,498752,Guido,Ninja,Cannetti,Bantamweight,2357,8,3,0,FALSE,,,Active,http://www.ufc.com/fighter/guido-cannetti,Guido Cannetti,Argentina,39,66,135,21.78719008,,,,,,,,,,,,,,,,5,135,52.30%,63,38.40%,50,73.50%,22,84.60%
+525,586592,Darrell,The Saint,Horcher,Lightweight,2771,13,3,0,FALSE,,,Active,http://www.ufc.com/fighter/darrell-horcher,Darrell Horcher,United States,31,70,155,22.2377551,,,,,,,,,,,,,,,,4,89,44.70%,68,39.50%,13,72.20%,8,88.90%
+526,1168,Charles,Do Bronx,Oliveira,Lightweight,1531,24,8,0,FALSE,,,Active,http://www.ufc.com/fighter/charles-oliveira,Charles Oliveira,Brazil,29,70,155,22.2377551,,,,,,28,2.84,,,,,,,,,22,445,49.70%,235,42.00%,128,68.80%,82,78.80%
+527,463239,Drew,,Dober,Welterweight,1340,20,8,0,FALSE,,,Active,http://www.ufc.com/fighter/drew-dober,Drew Dober,United States,30,68,170,25.84558824,,,,,,,,,,,,,,,,11,437,38.80%,277,37.30%,92,65.70%,68,80.00%
+528,640139,Jodie,,Esquibel,Women_Strawweight,3008,6,4,0,FALSE,,,Active,http://www.ufc.com/fighter/jodie-esquibel,Jodie Esquibel,United States,32,61,115,21.72668637,,,,,,,,,,,,,,,,3,146,40.00%,91,34.00%,44,51.20%,11,100.00%
+529,453440,Davey,Dangerous,Grant,Bantamweight,2137,10,4,0,FALSE,,,Active,http://www.ufc.com/fighter/david-grant,Davey Grant,England,33,68,135,20.52443772,,,,,,,,,,,,,,,,4,130,53.50%,74,39.80%,36,70.60%,20,76.90%
+530,587062,Tatiana,,Suarez,Women_Strawweight,2791,8,0,0,FALSE,3,,Active,http://www.ufc.com/fighter/tatiana-saurez,Tatiana Suarez,United States,28,65,115,19.13491124,,,,,,,,,,,,,,,,5,171,73.70%,125,69.80%,30,85.70%,16,88.90%
+531,619015,Volkan,No Time,Oezdemir,Light_Heavyweight,2863,15,3,0,FALSE,6,,Active,http://www.ufc.com/fighter/volkan-oezdemir,Volkan Oezdemir,Switzerland,29,74,205,26.31756757,,,,,,,,,,,,,,,,6,214,48.90%,137,40.40%,39,73.60%,38,82.60%
+532,587577,Amanda,ABC,Cooper,Women_Strawweight,2792,4,5,0,FALSE,,,Active,http://www.ufc.com/fighter/amanda-cooper,Amanda Cooper,United States,27,63,115,20.36911061,,,,,,,,,,,,,,,,6,174,44.20%,134,39.00%,23,74.20%,17,89.50%
+533,587578,Andrew,El Dirte,Sanchez,Middleweight,2789,11,4,0,FALSE,,,Active,http://www.ufc.com/fighter/andrew-sanchez,Andrew Sanchez,United States,30,73,185,24.40514168,,,,,,,,,,,,,,,,5,337,48.60%,259,44.10%,54,71.10%,24,80.00%
+534,1174,David,,Branch,Middleweight,1540,22,5,0,FALSE,11,,Active,http://www.ufc.com/fighter/dave-branch,David Branch,United States,37,73,185,24.40514168,,,,,,,,,,,,,,,,8,136,40.20%,64,26.10%,41,74.50%,31,81.60%
+535,472511,Alberto,Soldier of God,Mina,Welterweight,2186,13,1,0,FALSE,,,Active,http://www.ufc.com/fighter/alberto-mina,Alberto Mina,Brazil,36,72,170,23.05362654,,,,,,,,,,,,,,,,4,131,39.00%,93,33.30%,13,50.00%,25,80.60%
+536,261,Robbie,Ruthless,Lawler,Welterweight,471,28,12,0,FALSE,6,,Active,http://www.ufc.com/fighter/robbie-lawler,Robbie Lawler,United States,36,71,170,23.7075977,,,,,76.2,,,,,,,,,,,20,984,45.80%,751,46.40%,198,80.50%,35,79.50%
+537,,,,,,,,,,,,,,,Michael Bisping,,,,,,,,,,,,,,,,,,,,,30,1567,37.70%,1132,33.10%,195,68.90%,240,86.60%
+538,,,,,,,,,,,,,,,Gleison Tibau,,,,,,,,,,,,,,,,,,,,,29,601,31.80%,467,31.20%,91,63.60%,43,89.60%
+539,,,,,,,,,,,,,,,Frank Mir,,,,,,,,,,,,,,,,,,,,,27,339,47.00%,182,31.20%,103,87.30%,54,90.00%
+540,,,,,,,,,,,,,,,BJ Penn,,,,,,,,,,,,,,,,,,,,,27,932,48.60%,726,44.70%,153,86.00%,53,89.80%
+541,,,,,,,,,,,,,,,Vitor Belfort,,,,,,,,,,,,,,,,,,,,,26,287,47.30%,231,38.30%,34,70.80%,22,88.00%
+542,,,,,,,,,,,,,,,Rafael Dos Anjos,,,,,,,,,,,,,,,,,,,,,26,1246,45.40%,710,38.80%,284,70.00%,252,82.60%
+543,,,,,,,,,,,,,,,Rashad Evans,,,,,,,,,,,,,,,,,,,,,23,614,37.60%,484,34.10%,87,64.00%,43,81.10%
+544,,,,,,,,,,,,,,,Evan Dunham,,,,,,,,,,,,,,,,,,,,,22,1225,39.20%,1037,42.90%,136,61.80%,52,89.70%
+545,,,,,,,,,,,,,,,Dennis Siver,,,,,,,,,,,,,,,,,,,,,22,869,32.40%,494,27.80%,118,51.80%,257,71.60%
+546,,,,,,,,,,,,,,,Georges St-Pierre,,,,,,,,,,,,,,,,,,,,,22,1313,53.20%,850,51.60%,245,71.80%,218,77.30%
+547,,,,,,,,,,,,,,,Jake Ellenberger,,,,,,,,,,,,,,,,,,,,,21,417,39.30%,307,35.10%,72,71.30%,38,80.90%
+548,,,,,,,,,,,,,,,Johny Hendricks,,,,,,,,,,,,,,,,,,,,,21,885,45.70%,584,49.70%,77,73.30%,224,87.50%
+549,,,,,,,,,,,,,,,Thales Leites,,,,,,,,,,,,,,,,,,,,,21,557,40.40%,382,33.20%,57,61.30%,118,89.40%
+550,,,,,,,,,,,,,,,Edson Barboza,,,,,,,,,,,,,,,,,,,,,20,909,42.80%,392,28.30%,260,64.20%,257,77.60%
+551,,,,,,,,,,,,,,,Chris Camozzi,,,,,,,,,,,,,,,,,,,,,20,800,44.90%,470,41.20%,130,73.90%,200,82.60%
+552,,,,,,,,,,,,,,,Mark Hunt,,,,,,,,,,,,,,,,,,,,,19,450,44.70%,358,47.40%,48,60.80%,44,88.00%
+553,,,,,,,,,,,,,,,Roy Nelson,,,,,,,,,,,,,,,,,,,,,19,420,36.80%,323,36.30%,52,72.20%,45,83.30%
+554,,,,,,,,,,,,,,,Mike Pyle,,,,,,,,,,,,,,,,,,,,,19,350,43.60%,235,36.00%,58,70.70%,57,80.30%
+555,,,,,,,,,,,,,,,Joshua Burkman,,,,,,,,,,,,,,,,,,,,,19,543,43.60%,259,30.00%,91,62.30%,193,81.80%
+556,,,,,,,,,,,,,,,Junior Dos Santos,,,,,,,,,,,,,,,,,,,,,18,961,47.80%,597,44.30%,338,66.90%,26,83.90%
+557,,,,,,,,,,,,,,,Demetrious Johnson,,,,,,,,,,,,,,,,,,,,,18,1173,54.50%,533,41.70%,369,78.20%,271,73.00%
+558,,,,,,,,,,,,,,,Rafael Natal,,,,,,,,,,,,,,,,,,,,,17,656,47.90%,379,39.20%,93,54.40%,184,82.50%
+559,,,,,,,,,,,,,,,Bobby Green,,,,,,,,,,,,,,,,,,,,,16,649,49.80%,332,40.40%,176,70.40%,141,80.60%
+560,,,,,,,,,,,,,,,John Makdessi,,,,,,,,,,,,,,,,,,,,,16,920,50.70%,503,50.20%,228,58.60%,189,79.40%
+561,,,,,,,,,,,,,,,Matt Wiman,,,,,,,,,,,,,,,,,,,,,16,523,50.00%,377,44.80%,65,73.00%,81,77.90%
+562,,,,,,,,,,,,,,,Erick Silva,,,,,,,,,,,,,,,,,,,,,15,265,48.70%,146,30.90%,77,66.40%,42,84.00%
+563,,,,,,,,,,,,,,,Felipe Arantes,,,,,,,,,,,,,,,,,,,,,13,342,45.10%,219,36.90%,61,62.90%,62,83.80%
+564,,,,,,,,,,,,,,,Takanori Gomi,,,,,,,,,,,,,,,,,,,,,13,367,38.90%,230,40.00%,109,64.50%,28,70.00%
+565,,,,,,,,,,,,,,,Jacare Souza,,,,,,,,,,,,,,,,,,,,,13,322,53.20%,216,43.40%,83,65.90%,23,85.20%
+566,,,,,,,,,,,,,,,Ryan LaFlare,,,,,,,,,,,,,,,,,,,,,12,363,37.50%,181,39.60%,137,60.40%,45,77.60%
+567,,,,,,,,,,,,,,,Tom Lawlor,,,,,,,,,,,,,,,,,,,,,12,244,42.40%,207,38.50%,18,81.80%,19,100.00%
+568,,,,,,,,,,,,,,,Anthony Rocco Martin,,,,,,,,,,,,,,,,,,,,,12,361,39.90%,281,34.00%,32,78.00%,48,87.30%
+569,,,,,,,,,,,,,,,Rogerio Nogueira,,,,,,,,,,,,,,,,,,,,,11,289,35.80%,217,36.00%,57,67.10%,15,93.80%
+570,,,,,,,,,,,,,,,Godofredo Pepey,,,,,,,,,,,,,,,,,,,,,11,189,38.20%,135,27.80%,27,64.30%,27,81.80%
+571,,,,,,,,,,,,,,,Li Jingliang,,,,,,,,,,,,,,,,,,,,,11,593,43.00%,364,34.20%,61,67.80%,168,74.30%
+572,,,,,,,,,,,,,,,Anthony Hamilton,,,,,,,,,,,,,,,,,,,,,11,246,65.60%,77,40.50%,151,93.20%,18,78.30%
+573,,,,,,,,,,,,,,,Josh Barnett,,,,,,,,,,,,,,,,,,,,,10,392,61.50%,248,42.20%,116,89.20%,28,90.30%
+574,,,,,,,,,,,,,,,Dan Hardy,,,,,,,,,,,,,,,,,,,,,10,304,35.30%,190,27.50%,53,67.10%,61,67.80%
+575,,,,,,,,,,,,,,,John Hathaway,,,,,,,,,,,,,,,,,,,,,10,410,40.50%,274,34.80%,86,67.20%,50,89.30%
+576,,,,,,,,,,,,,,,Daniel Omielanczuk,,,,,,,,,,,,,,,,,,,,,10,322,57.10%,164,40.70%,89,80.20%,69,90.80%
+577,,,,,,,,,,,,,,,Daniel Kelly,,,,,,,,,,,,,,,,,,,,,10,350,38.80%,303,36.00%,21,65.60%,26,89.70%
+578,,,,,,,,,,,,,,,Russell Doane,,,,,,,,,,,,,,,,,,,,,9,137,40.90%,103,40.60%,24,64.90%,10,76.90%
+579,,,,,,,,,,,,,,,Rony Jason,,,,,,,,,,,,,,,,,,,,,9,155,44.30%,94,24.60%,46,62.20%,15,75.00%
+580,,,,,,,,,,,,,,,Joe Proctor,,,,,,,,,,,,,,,,,,,,,9,222,36.50%,152,42.00%,33,66.00%,37,77.10%
+581,,,,,,,,,,,,,,,Justin Scoggins,,,,,,,,,,,,,,,,,,,,,9,359,51.70%,236,44.60%,74,61.70%,49,84.50%
+582,,,,,,,,,,,,,,,Eddie Alvarez,,,,,,,,,,,,,,,,,,,,,9,400,41.20%,263,33.90%,101,68.70%,36,76.60%
+583,,,,,,,,,,,,,,,Reza Madadi,,,,,,,,,,,,,,,,,,,,,9,226,46.50%,186,40.20%,33,78.60%,7,63.60%
+584,,,,,,,,,,,,,,,Ulka Sasaki,,,,,,,,,,,,,,,,,,,,,9,139,41.40%,83,33.50%,33,63.50%,23,63.90%
+585,,,,,,,,,,,,,,,Hacran Dias,,,,,,,,,,,,,,,,,,,,,8,249,41.80%,171,37.70%,30,56.60%,48,87.30%
+586,,,,,,,,,,,,,,,Hyun Gyu Lim,,,,,,,,,,,,,,,,,,,,,8,286,41.00%,213,69.60%,45,72.60%,28,80.00%
+587,,,,,,,,,,,,,,,Bradley Scott,,,,,,,,,,,,,,,,,,,,,8,327,41.60%,200,37.90%,74,55.60%,53,79.10%
+588,,,,,,,,,,,,,,,George Sullivan,,,,,,,,,,,,,,,,,,,,,8,232,39.80%,133,38.70%,53,63.10%,46,75.40%
+589,,,,,,,,,,,,,,,Marcos Rogerio de Lima,,,,,,,,,,,,,,,,,,,,,8,118,54.40%,68,47.90%,17,53.10%,33,76.70%
+590,,,,,,,,,,,,,,,Neil Seery,,,,,,,,,,,,,,,,,,,,,8,344,41.10%,292,42.50%,23,47.90%,29,69.00%
+591,,,,,,,,,,,,,,,Vitor Miranda,,,,,,,,,,,,,,,,,,,,,8,235,45.90%,132,40.00%,35,42.70%,68,68.00%
+592,,,,,,,,,,,,,,,Diego Ferreira,,,,,,,,,,,,,,,,,,,,,8,221,41.30%,156,35.40%,45,62.50%,20,90.90%
+593,,,,,,,,,,,,,,,Joe Soto,,,,,,,,,,,,,,,,,,,,,8,238,41.80%,195,38.60%,17,73.90%,26,61.90%
+594,,,,,,,,,,,,,,,Bec Rawlings,,,,,,,,,,,,,,,,,,,,,8,378,42.80%,263,36.50%,67,60.90%,48,90.60%
+595,,,,,,,,,,,,,,,Sage Northcutt,,,,,,,,,,,,,,,,,,,,,8,267,52.40%,173,44.40%,52,74.30%,42,84.00%
+596,,,,,,,,,,,,,,,Luis Henrique,,,,,,,,,,,,,,,,,,,,,8,132,43.60%,94,36.30%,27,84.40%,11,91.70%
+597,,,,,,,,,,,,,,,Magnus Cedenblad,,,,,,,,,,,,,,,,,,,,,7,112,51.10%,70,38.50%,25,64.10%,17,89.50%
+598,,,,,,,,,,,,,,,Mitch Clarke,,,,,,,,,,,,,,,,,,,,,7,166,34.00%,82,25.40%,31,54.40%,53,59.60%
+599,,,,,,,,,,,,,,,Jimy Hettes,,,,,,,,,,,,,,,,,,,,,7,220,57.30%,177,40.10%,34,82.90%,9,81.80%
+600,,,,,,,,,,,,,,,Rashid Magomedov,,,,,,,,,,,,,,,,,,,,,7,396,49.10%,212,37.10%,118,62.40%,66,78.60%
+601,,,,,,,,,,,,,,,Adriano Martins,,,,,,,,,,,,,,,,,,,,,7,103,44.00%,55,22.20%,11,64.70%,37,84.10%
+602,,,,,,,,,,,,,,,Ian McCall,,,,,,,,,,,,,,,,,,,,,7,346,41.90%,145,36.40%,110,67.90%,91,68.40%
+603,,,,,,,,,,,,,,,Leslie Smith,,,,,,,,,,,,,,,,,,,,,7,477,40.30%,345,34.40%,73,65.20%,59,88.10%
+604,,,,,,,,,,,,,,,Kajan Johnson,,,,,,,,,,,,,,,,,,,,,7,216,42.90%,111,31.50%,47,61.80%,58,77.30%
+605,,,,,,,,,,,,,,,Jason Saggo,,,,,,,,,,,,,,,,,,,,,7,161,39.80%,90,31.10%,25,50.00%,46,69.70%
+606,,,,,,,,,,,,,,,Tim Johnson,,,,,,,,,,,,,,,,,,,,,7,284,45.30%,182,37.20%,49,68.10%,53,80.30%
+607,,,,,,,,,,,,,,,Damian Stasiak,,,,,,,,,,,,,,,,,,,,,7,137,36.30%,88,30.60%,28,43.10%,21,87.50%
+608,,,,,,,,,,,,,,,Ben Nguyen,,,,,,,,,,,,,,,,,,,,,7,210,40.10%,145,33.60%,40,65.60%,25,80.60%
+609,,,,,,,,,,,,,,,Chase Sherman,,,,,,,,,,,,,,,,,,,,,7,446,43.90%,235,31.80%,96,70.60%,115,82.10%
+610,,,,,,,,,,,,,,,Khalil Rountree Jr.,,,,,,,,,,,,,,,,,,,,,7,100,34.50%,80,31.60%,16,55.20%,4,50.00%
+611,,,,,,,,,,,,,,,Kiichi Kunimoto,,,,,,,,,,,,,,,,,,,,,6,88,44.00%,42,23.60%,17,85.00%,29,82.90%
+612,,,,,,,,,,,,,,,Nico Musoke,,,,,,,,,,,,,,,,,,,,,6,277,35.80%,189,29.10%,59,72.80%,29,93.50%
+613,,,,,,,,,,,,,,,Dominique Steele,,,,,,,,,,,,,,,,,,,,,6,139,48.60%,99,43.80%,33,64.70%,7,77.80%
+614,,,,,,,,,,,,,,,Johnny Case,,,,,,,,,,,,,,,,,,,,,6,313,38.80%,187,30.30%,69,61.60%,57,75.00%
+615,,,,,,,,,,,,,,,Dooho Choi,,,,,,,,,,,,,,,,,,,,,6,153,53.30%,116,48.70%,20,74.10%,17,77.30%
+616,,,,,,,,,,,,,,,Marco Beltran,,,,,,,,,,,,,,,,,,,,,6,134,37.50%,76,27.80%,29,63.00%,29,76.30%
+617,,,,,,,,,,,,,,,Joe Duffy,,,,,,,,,,,,,,,,,,,,,6,139,34.50%,96,27.80%,28,68.30%,15,88.20%
+618,,,,,,,,,,,,,,,Bojan Velickovic,,,,,,,,,,,,,,,,,,,,,6,195,34.80%,93,23.50%,29,53.70%,73,65.80%
+619,,,,,,,,,,,,,,,Damien Brown,,,,,,,,,,,,,,,,,,,,,6,242,38.60%,159,31.20%,38,58.50%,45,84.90%
+620,,,,,,,,,,,,,,,Henrique da Silva,,,,,,,,,,,,,,,,,,,,,6,184,56.40%,105,46.30%,63,80.80%,16,76.20%
+621,,,,,,,,,,,,,,,Eric Spicely,,,,,,,,,,,,,,,,,,,,,6,62,40.80%,53,39.00%,4,36.40%,5,100.00%
+622,,,,,,,,,,,,,,,Jeremy Kennedy,,,,,,,,,,,,,,,,,,,,,6,122,46.20%,97,42.50%,16,64.00%,9,81.80%
+623,,,,,,,,,,,,,,,Albert Morales,,,,,,,,,,,,,,,,,,,,,6,278,34.50%,163,25.30%,28,66.70%,87,73.70%
+624,,,,,,,,,,,,,,,Mark Godbeer,,,,,,,,,,,,,,,,,,,,,6,124,53.90%,65,42.20%,42,77.80%,17,77.30%
+625,,,,,,,,,,,,,,,Tae Hyun Bang,,,,,,,,,,,,,,,,,,,,,5,166,38.30%,141,37.70%,17,56.70%,8,66.70%
+626,,,,,,,,,,,,,,,Julianna Pena,,,,,,,,,,,,,,,,,,,,,5,143,52.40%,96,52.70%,36,76.60%,11,84.60%
+627,,,,,,,,,,,,,,,Norifumi Yamamoto,,,,,,,,,,,,,,,,,,,,,5,71,37.20%,50,30.70%,12,63.20%,9,100.00%
+628,,,,,,,,,,,,,,,Steve Bosse,,,,,,,,,,,,,,,,,,,,,5,98,53.00%,79,49.70%,13,76.50%,6,66.70%
+629,,,,,,,,,,,,,,,Jose Quinonez,,,,,,,,,,,,,,,,,,,,,5,204,44.80%,119,35.20%,41,61.20%,44,88.00%
+630,,,,,,,,,,,,,,,Polo Reyes,,,,,,,,,,,,,,,,,,,,,5,229,39.70%,149,32.30%,57,69.50%,23,67.60%
+631,,,,,,,,,,,,,,,Emil Meek,,,,,,,,,,,,,,,,,,,,,5,101,38.10%,65,30.50%,25,67.60%,11,73.30%
+632,,,,,,,,,,,,,,,Hector Sandoval,,,,,,,,,,,,,,,,,,,,,5,71,52.20%,40,40.80%,22,81.50%,9,81.80%
+633,,,,,,,,,,,,,,,Danielle Taylor,,,,,,,,,,,,,,,,,,,,,5,206,29.50%,130,22.20%,32,60.40%,44,73.30%
+634,,,,,,,,,,,,,,,Pascal Krauss,,,,,,,,,,,,,,,,,,,,,4,267,47.60%,172,73.80%,46,75.40%,49,94.20%
+635,,,,,,,,,,,,,,,Tiequan Zhang,,,,,,,,,,,,,,,,,,,,,4,52,36.90%,42,47.70%,2,66.70%,8,66.70%
+636,,,,,,,,,,,,,,,Will Brooks,,,,,,,,,,,,,,,,,,,,,4,149,59.60%,81,46.80%,45,86.50%,23,92.00%
+637,,,,,,,,,,,,,,,Diego Rivas,,,,,,,,,,,,,,,,,,,,,4,69,40.40%,36,31.00%,15,45.50%,18,81.80%
+638,,,,,,,,,,,,,,,Frankie Perez,,,,,,,,,,,,,,,,,,,,,4,70,41.70%,27,24.30%,16,61.50%,27,87.10%
+639,,,,,,,,,,,,,,,Chris de la Rocha,,,,,,,,,,,,,,,,,,,,,4,121,45.70%,92,39.70%,22,88.00%,7,87.50%
+640,,,,,,,,,,,,,,,Alex Nicholson,,,,,,,,,,,,,,,,,,,,,4,117,43.70%,67,33.30%,23,63.90%,27,87.10%
+641,,,,,,,,,,,,,,,Augusto Mendes,,,,,,,,,,,,,,,,,,,,,4,83,34.90%,54,27.80%,13,65.00%,16,66.70%
+642,,,,,,,,,,,,,,,Adam Milstead,,,,,,,,,,,,,,,,,,,,,4,127,46.90%,105,42.90%,13,76.50%,9,100.00%
+643,,,,,,,,,,,,,,,Christian Colombo,,,,,,,,,,,,,,,,,,,,,4,81,44.80%,51,35.20%,21,77.80%,9,100.00%
+644,,,,,,,,,,,,,,,Ryan Janes,,,,,,,,,,,,,,,,,,,,,4,327,48.20%,237,41.90%,68,77.30%,22,91.70%
+645,,,,,,,,,,,,,,,Joachim Christensen,,,,,,,,,,,,,,,,,,,,,4,93,41.30%,68,35.10%,19,86.40%,6,66.70%
+646,,,,,,,,,,,,,,,Marcin Held,,,,,,,,,,,,,,,,,,,,,4,103,32.70%,97,32.40%,4,33.30%,2,50.00%
+647,,,,,,,,,,,,,,,Jenel Lausa,,,,,,,,,,,,,,,,,,,,,4,78,42.40%,68,41.00%,7,50.00%,3,75.00%
+648,,,,,,,,,,,,,,,Viviane Pereira,,,,,,,,,,,,,,,,,,,,,4,162,30.00%,122,26.30%,28,44.40%,12,85.70%
+649,,,,,,,,,,,,,,,Jeremy Kimball,,,,,,,,,,,,,,,,,,,,,4,30,46.90%,21,38.90%,2,100.00%,7,87.50%
+650,,,,,,,,,,,,,,,Jarred Brooks,,,,,,,,,,,,,,,,,,,,,4,112,46.10%,73,37.20%,32,86.50%,7,70.00%
+651,,,,,,,,,,,,,,,Deiveson Figueiredo,,,,,,,,,,,,,,,,,,,,,4,96,54.90%,64,49.60%,31,68.90%,1,100.00%
+652,,,,,,,,,,,,,,,Brandon Davis,,,,,,,,,,,,,,,,,,,,,4,208,37.60%,128,29.20%,28,57.10%,52,80.00%
+653,,,,,,,,,,,,,,,Julio Arce,,,,,,,,,,,,,,,,,,,,,4,223,36.00%,167,31.50%,48,60.80%,8,72.70%
+654,,,,,,,,,,,,,,,Alexandra Albu,,,,,,,,,,,,,,,,,,,,,3,124,51.00%,94,46.50%,24,68.60%,6,100.00%
+655,,,,,,,,,,,,,,,Sabah Homasi,,,,,,,,,,,,,,,,,,,,,3,80,48.50%,51,38.90%,21,84.00%,8,88.90%
+656,,,,,,,,,,,,,,,Heather Jo Clark,,,,,,,,,,,,,,,,,,,,,3,166,49.10%,96,40.00%,48,66.70%,22,84.60%
+657,,,,,,,,,,,,,,,Mickael Lebout,,,,,,,,,,,,,,,,,,,,,3,117,34.90%,77,27.50%,16,61.50%,24,82.80%
+658,,,,,,,,,,,,,,,Damian Grabowski,,,,,,,,,,,,,,,,,,,,,3,70,36.10%,42,27.10%,15,78.90%,13,65.00%
+659,,,,,,,,,,,,,,,Jonathan Meunier,,,,,,,,,,,,,,,,,,,,,3,90,50.60%,49,42.20%,14,60.90%,27,69.20%
+660,,,,,,,,,,,,,,,Josh Stansbury,,,,,,,,,,,,,,,,,,,,,3,101,54.60%,69,46.90%,17,73.90%,15,100.00%
+661,,,,,,,,,,,,,,,Jimmy Wallhead,,,,,,,,,,,,,,,,,,,,,3,79,26.80%,55,21.20%,12,57.10%,12,80.00%
+662,,,,,,,,,,,,,,,Jamie Moyle,,,,,,,,,,,,,,,,,,,,,3,203,51.50%,97,37.00%,63,74.10%,43,91.50%
+663,,,,,,,,,,,,,,,Charlie Ward,,,,,,,,,,,,,,,,,,,,,3,5,19.20%,4,17.40%,1,50.00%,0,0.00%
+664,,,,,,,,,,,,,,,Marcel Fortuna,,,,,,,,,,,,,,,,,,,,,3,127,46.50%,88,39.80%,26,74.30%,13,76.50%
+665,,,,,,,,,,,,,,,Roberto Sanchez,,,,,,,,,,,,,,,,,,,,,3,20,40.80%,13,35.10%,6,60.00%,1,50.00%
+666,,,,,,,,,,,,,,,Arjan Bhullar,,,,,,,,,,,,,,,,,,,,,3,80,52.60%,72,50.70%,5,83.30%,3,75.00%
+667,,,,,,,,,,,,,,,Daichi Abe,,,,,,,,,,,,,,,,,,,,,3,171,33.70%,102,25.20%,12,44.40%,57,74.00%
+668,,,,,,,,,,,,,,,Mads Burnell,,,,,,,,,,,,,,,,,,,,,3,50,41.70%,37,36.60%,8,66.70%,5,71.40%
+669,,,,,,,,,,,,,,,Mike Santiago,,,,,,,,,,,,,,,,,,,,,3,75,51.00%,40,41.20%,18,64.30%,17,77.30%
+670,,,,,,,,,,,,,,,Yan Xiaonan,,,,,,,,,,,,,,,,,,,,,3,317,41.20%,237,37.00%,16,57.10%,64,64.00%
+671,,,,,,,,,,,,,,,Liu Pingyuan,,,,,,,,,,,,,,,,,,,,,3,87,41.40%,62,35.40%,17,63.00%,8,100.00%
+672,,,,,,,,,,,,,,,Song Kenan,,,,,,,,,,,,,,,,,,,,,3,107,45.10%,66,38.20%,17,53.10%,24,75.00%
+673,,,,,,,,,,,,,,,Song Yadong,,,,,,,,,,,,,,,,,,,,,3,126,41.90%,87,36.10%,21,61.80%,18,69.20%
+674,,,,,,,,,,,,,,,Montana De La Rosa,,,,,,,,,,,,,,,,,,,,,3,62,37.30%,49,33.30%,9,60.00%,4,100.00%
+675,,,,,,,,,,,,,,,Mark De La Rosa,,,,,,,,,,,,,,,,,,,,,3,93,43.30%,54,32.00%,19,86.40%,20,83.30%
+676,,,,,,,,,,,,,,,Zhang Weili,,,,,,,,,,,,,,,,,,,,,3,122,48.40%,67,43.20%,22,57.90%,33,55.90%
+677,,,,,,,,,,,,,,,Joe Ellenberger,,,,,,,,,,,,,,,,,,,,,2,46,47.40%,30,38.00%,12,85.70%,4,100.00%
+678,,,,,,,,,,,,,,,Chris Holdsworth,,,,,,,,,,,,,,,,,,,,,2,41,29.70%,27,25.50%,9,47.40%,5,83.30%
+679,,,,,,,,,,,,,,,Jesse Taylor,,,,,,,,,,,,,,,,,,,,,2,25,67.60%,23,65.70%,1,100.00%,1,100.00%
+680,,,,,,,,,,,,,,,Larissa Pacheco,,,,,,,,,,,,,,,,,,,,,2,14,19.20%,9,15.00%,2,40.00%,3,37.50%
+681,,,,,,,,,,,,,,,Justin Jones,,,,,,,,,,,,,,,,,,,,,2,51,36.20%,24,22.60%,12,75.00%,15,78.90%
+682,,,,,,,,,,,,,,,Daniel Jolly,,,,,,,,,,,,,,,,,,,,,2,6,35.30%,1,14.30%,4,100.00%,1,16.70%
+683,,,,,,,,,,,,,,,Abdul-Kerim Edilov,,,,,,,,,,,,,,,,,,,,,2,77,61.60%,59,56.20%,16,94.10%,2,66.70%
+684,,,,,,,,,,,,,,,Alberto Uda,,,,,,,,,,,,,,,,,,,,,2,19,52.80%,15,55.60%,4,66.70%,0,0.00%
+685,,,,,,,,,,,,,,,Dmitrii Smoliakov,,,,,,,,,,,,,,,,,,,,,2,19,43.20%,10,32.30%,7,70.00%,2,66.70%
+686,,,,,,,,,,,,,,,Michael McBride,,,,,,,,,,,,,,,,,,,,,2,99,48.80%,60,40.30%,20,62.50%,19,86.40%
+687,,,,,,,,,,,,,,,Saparbeg Safarov,,,,,,,,,,,,,,,,,,,,,2,45,29.40%,36,25.70%,7,63.60%,2,100.00%
+688,,,,,,,,,,,,,,,Michel Quinones,,,,,,,,,,,,,,,,,,,,,2,71,29.70%,19,12.00%,13,39.40%,39,81.30%
+689,,,,,,,,,,,,,,,Pearl Gonzalez,,,,,,,,,,,,,,,,,,,,,2,64,37.60%,32,25.00%,7,70.00%,25,78.10%
+690,,,,,,,,,,,,,,,Oliver Enkamp,,,,,,,,,,,,,,,,,,,,,2,41,36.30%,16,22.20%,15,60.00%,10,62.50%
+691,,,,,,,,,,,,,,,Chanmi Jeon,,,,,,,,,,,,,,,,,,,,,2,187,31.70%,120,24.90%,27,47.40%,40,78.40%
+692,,,,,,,,,,,,,,,James Bochnovic,,,,,,,,,,,,,,,,,,,,,2,8,26.70%,2,9.10%,4,66.70%,2,100.00%
+693,,,,,,,,,,,,,,,Rob Wilkinson,,,,,,,,,,,,,,,,,,,,,2,46,50.00%,17,32.70%,9,56.30%,20,83.30%
+694,,,,,,,,,,,,,,,Wu Yanan,,,,,,,,,,,,,,,,,,,,,2,40,46.00%,15,28.80%,13,68.40%,12,75.00%
+695,,,,,,,,,,,,,,,Hu Yaozong,,,,,,,,,,,,,,,,,,,,,2,100,52.10%,39,34.20%,24,82.80%,37,75.50%
+696,,,,,,,,,,,,,,,Barb Honchak,,,,,,,,,,,,,,,,,,,,,2,95,30.10%,78,26.70%,4,44.40%,13,86.70%
+697,,,,,,,,,,,,,,,Melinda Fabian,,,,,,,,,,,,,,,,,,,,,2,121,41.70%,73,32.40%,23,67.60%,25,80.60%
+698,,,,,,,,,,,,,,,Livinha Souza,,,,,,,,,,,,,,,,,,,,,2,10,55.60%,7,50.00%,1,100.00%,2,66.70%
+699,,,,,,,,,,,,,,,Tim Williams,,,,,,,,,,,,,,,,,,,,,2,51,38.90%,33,32.70%,5,38.50%,13,76.50%
+700,,,,,,,,,,,,,,,Carlo Pedersoli,,,,,,,,,,,,,,,,,,,,,2,69,37.70%,39,28.10%,23,63.90%,7,87.50%
+701,,,,,,,,,,,,,,,Jose Torres,,,,,,,,,,,,,,,,,,,,,2,51,37.00%,36,30.50%,12,70.60%,3,100.00%
+702,,,,,,,,,,,,,,,Elias Garcia,,,,,,,,,,,,,,,,,,,,,2,35,27.60%,19,18.40%,4,50.00%,12,75.00%
+703,,,,,,,,,,,,,,,Aleksei Kunchenko,,,,,,,,,,,,,,,,,,,,,2,116,41.10%,76,33.50%,16,69.60%,24,75.00%
+704,,,,,,,,,,,,,,,Daniel Spohn,,,,,,,,,,,,,,,,,,,,,1,24,47.10%,20,43.50%,1,100.00%,3,75.00%
+705,,,,,,,,,,,,,,,Tina Lahdemaki,,,,,,,,,,,,,,,,,,,,,1,29,20.60%,21,17.10%,5,41.70%,3,50.00%
+706,,,,,,,,,,,,,,,Martin Buschkamp,,,,,,,,,,,,,,,,,,,,,1,0,-,0,-,0,-,0,-
+707,,,,,,,,,,,,,,,Cindy Dandois,,,,,,,,,,,,,,,,,,,,,1,47,32.20%,34,27.20%,6,75.00%,7,53.80%
+708,,,,,,,,,,,,,,,James Mulheron,,,,,,,,,,,,,,,,,,,,,1,36,31.60%,15,17.60%,18,72.00%,3,75.00%
+709,,,,,,,,,,,,,,,Zu Anyanwu,,,,,,,,,,,,,,,,,,,,,1,37,44.00%,28,46.70%,9,37.50%,0,-
+710,,,,,,,,,,,,,,,Boston Salmon,,,,,,,,,,,,,,,,,,,,,1,0,-,0,-,0,-,0,-
+711,,,,,,,,,,,,,,,Tom Gallicchio,,,,,,,,,,,,,,,,,,,,,1,53,26.50%,24,15.20%,17,56.70%,12,100.00%
+712,,,,,,,,,,,,,,,Alonzo Menifield,,,,,,,,,,,,,,,,,,,,,1,0,-,0,-,0,-,0,-
+713,,,,,,,,,,,,,,,Jamelle Jones,,,,,,,,,,,,,,,,,,,,,1,4,80.00%,0,-,0,-,4,80.00%
+714,,,,,,,,,,,,,,,Peter Petties,,,,,,,,,,,,,,,,,,,,,1,20,29.40%,15,24.60%,1,50.00%,4,80.00%
+715,,,,,,,,,,,,,,,Kevin Gray,,,,,,,,,,,,,,,,,,,,,1,10,62.50%,3,33.30%,3,100.00%,4,100.00%
+716,,,,,,,,,,,,,,,Donavon Frelow,,,,,,,,,,,,,,,,,,,,,1,36,27.90%,25,22.30%,9,69.20%,2,50.00%
+717,,,,,,,,,,,,,,,Everett Sims,,,,,,,,,,,,,,,,,,,,,1,10,66.70%,4,50.00%,5,83.30%,1,100.00%
+718,,,,,,,,,,,,,,,Shelton Graves,,,,,,,,,,,,,,,,,,,,,1,27,69.20%,15,57.70%,12,92.30%,0,-
+719,,,,,,,,,,,,,,,Grant Dawson,,,,,,,,,,,,,,,,,,,,,1,24,49.00%,20,47.60%,4,57.10%,0,-
+720,,,,,,,,,,,,,,,Adrian Diaz,,,,,,,,,,,,,,,,,,,,,1,3,42.90%,2,33.30%,1,100.00%,0,-
+721,,,,,,,,,,,,,,,Karl Reed,,,,,,,,,,,,,,,,,,,,,1,33,42.30%,24,35.30%,7,100.00%,2,66.70%
+722,,,,,,,,,,,,,,,Cameron Olson,,,,,,,,,,,,,,,,,,,,,1,47,47.50%,18,28.60%,4,40.00%,25,96.20%
+723,,,,,,,,,,,,,,,Jaime Alvarez,,,,,,,,,,,,,,,,,,,,,1,41,40.20%,24,34.80%,6,46.20%,11,55.00%
+724,,,,,,,,,,,,,,,Tiffany Masters,,,,,,,,,,,,,,,,,,,,,1,52,62.70%,24,45.30%,19,90.50%,9,100.00%
+725,,,,,,,,,,,,,,,Jamie Colleen,,,,,,,,,,,,,,,,,,,,,1,38,49.40%,29,43.30%,7,100.00%,2,66.70%
+726,,,,,,,,,,,,,,,Randall Wallace,,,,,,,,,,,,,,,,,,,,,1,8,38.10%,3,25.00%,2,40.00%,3,75.00%
+727,,,,,,,,,,,,,,,Jordan Espinosa,,,,,,,,,,,,,,,,,,,,,1,0,-,0,-,0,-,0,-
+728,,,,,,,,,,,,,,,Bevon Lewis,,,,,,,,,,,,,,,,,,,,,1,0,-,0,-,0,-,0,-
+729,,,,,,,,,,,,,,,Wang Guan,,,,,,,,,,,,,,,,,,,,,1,71,43.30%,30,28.30%,11,55.00%,30,78.90%
+730,,,,,,,,,,,,,,,Richie Smullen,,,,,,,,,,,,,,,,,,,,,1,7,77.80%,3,60.00%,1,100.00%,3,100.00%
+731,,,,,,,,,,,,,,,Joe Giannetti,,,,,,,,,,,,,,,,,,,,,1,29,38.70%,3,7.00%,11,64.70%,15,100.00%
+732,,,,,,,,,,,,,,,Jay Cucciniello,,,,,,,,,,,,,,,,,,,,,1,14,21.90%,8,14.50%,5,62.50%,1,100.00%
+733,,,,,,,,,,,,,,,Jin Soo Son,,,,,,,,,,,,,,,,,,,,,1,58,26.40%,51,25.10%,4,30.80%,3,75.00%
+734,,,,,,,,,,,,,,,Jalin Turner,,,,,,,,,,,,,,,,,,,,,1,31,53.40%,25,50.00%,5,83.30%,1,50.00%
+735,,,,,,,,,,,,,,,Su Mudaerji,,,,,,,,,,,,,,,,,,,,,1,18,60.00%,18,62.10%,0,0.00%,0,-
+736,,,,,,,,,,,,,,,Anthony Hernandez,,,,,,,,,,,,,,,,,,,,,1,0,-,0,-,0,-,0,-
+737,,,,,,,,,,,,,,,Rogerio Bontorin,,,,,,,,,,,,,,,,,,,,,1,0,-,0,-,0,-,0,-
+738,,,,,,,,,,,,,,,Taila Santos,,,,,,,,,,,,,,,,,,,,,1,0,-,0,-,0,-,0,-
+739,,,,,,,,,,,,,,,Kron Gracie,,,,,,,,,,,,,,,,,,,,,1,0,-,0,-,0,-,0,-
