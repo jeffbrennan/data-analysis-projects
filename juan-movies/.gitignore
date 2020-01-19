@@ -1,0 +1,8 @@
+/Old
+/2018/data
+/2019/data
+*.RData
+*.Rhistory
+*.Rproj
+/analysis/.Rproj.user
+.Rproj.user
