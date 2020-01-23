@@ -12,18 +12,25 @@ Harrisvotes.com published results from this election on their website shortly th
 
 Unfortunately, harrisvotes did not offer an easy way to download this data as a spreadsheet. Moreover, they publish all of their results to one page. Since there has been another election since November, all of it was condensed into a single .pdf.
 
-
-Completed:
-* [x] Scraping the harrisvotes dynamically generated data
-
-Forthcoming:
-* [ ] Getting precinct level data from the US Census
-* [ ] Visualizing differences in precincts
-* [ ] Building models that can infer voting trends 
-
-
 ### Resources 
 
 * Scraping: Python (selenium, requests); archive.org
 * Visualization: R, ArcMap
 * Analysis: R
+
+---
+
+### Progress
+
+#### Completed:
+
+* [x] Scraping the harrisvotes dynamically generated data
+* [x] Merging and cleaning the multiple .jsons into one .csv
+
+#### Forthcoming:
+
+* [ ] Getting precinct level data from the US Census
+* [ ] Visualizing differences in precincts
+* [ ] Building models that can infer voting trends 
+
+
